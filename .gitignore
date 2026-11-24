@@ -16,6 +16,7 @@ node_modules/
 
 # Next.js build outputs
 /.next/
+/**/.next/
 /out/
 /build/
 
