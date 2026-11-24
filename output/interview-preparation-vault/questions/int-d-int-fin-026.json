@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-FIN-026",
+  "question": "How do you handle a situation where you find a significant error in a financial report already submitted?",
+  "module": "Module-04",
+  "careerTrack": "Track-D",
+  "relevantJobRoles": [
+    "Financial Analyst",
+    "Accounts Associate"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-D with early-career experience",
+  "description": "Behavioural interview question for Track-D professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's error management skills.",
+  "competencyAssessed": "Error management",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I once found a INR 2 lakh error in a submitted report. Situation: already sent to leadership. I immediately informed my manager, prepared a corrected version, and sent a transparent correction note. I also implemented a double-review process. Leadership appreciated the honesty and quick action.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, error management, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-D role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

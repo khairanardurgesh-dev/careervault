@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-PM-006",
+  "question": "Describe a time you had to say no to a stakeholder's feature request.",
+  "module": "Module-04",
+  "careerTrack": "Track-C",
+  "relevantJobRoles": [
+    "Product Manager",
+    "Associate Product Manager"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-C with early-career experience",
+  "description": "Behavioural interview question for Track-C professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's stakeholder management skills.",
+  "competencyAssessed": "Stakeholder management",
+  "answerFramework": "STAR",
+  "exampleAnswer": "A stakeholder requested a complex reporting feature. Situation: it would take 3 sprints. I explained the trade-off: building it would delay 2 higher-impact features. I proposed an alternative using existing tools. They agreed. Result: we delivered the higher-impact features on time.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, stakeholder management, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-C role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

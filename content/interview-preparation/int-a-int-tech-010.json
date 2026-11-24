@@ -1,0 +1,34 @@
+{
+  "resourceId": "INT-TECH-010",
+  "question": "What is CI/CD and why is it important?",
+  "module": "Module-04",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Software Engineer",
+    "Developer",
+    "DevOps Engineer"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Conceptual",
+  "intendedUser": "Professional in Track-A with early-career experience",
+  "description": "Conceptual interview question for Track-A professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's devops skills.",
+  "competencyAssessed": "DevOps",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "CI/CD automates build, test, and deployment. In my project, I set up GitHub Actions to run tests on every PR and deploy to staging automatically. This caught 12 bugs before production in the first month. CI/CD reduces manual errors and enables faster, more reliable releases.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, devops, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-A role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

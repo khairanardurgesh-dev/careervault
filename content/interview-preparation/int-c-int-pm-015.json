@@ -1,0 +1,34 @@
+{
+  "resourceId": "INT-PM-015",
+  "question": "What is the difference between Agile and Scrum?",
+  "module": "Module-04",
+  "careerTrack": "Track-C",
+  "relevantJobRoles": [
+    "Product Manager",
+    "Project Manager",
+    "Scrum Master"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-C with early-career experience",
+  "description": "Technical interview question for Track-C professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's methodologies skills.",
+  "competencyAssessed": "Methodologies",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "Agile is a philosophy of iterative development; Scrum is a specific framework within Agile. Scrum has specific roles (Scrum Master, Product Owner), ceremonies (sprint planning, daily standup, retrospective), and artifacts (product backlog, sprint backlog). I've worked in both pure Agile and Scrum teams.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, methodologies, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-C role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

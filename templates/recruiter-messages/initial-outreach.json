@@ -1,0 +1,35 @@
+{
+  "resourceId": "REC-MSG001",
+  "title": "Initial Recruiter Outreach",
+  "module": "Module-03",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Software Engineer",
+    "Developer",
+    "Programmer"
+  ],
+  "experienceLevel": "early-career",
+  "intendedUser": "Technology professional seeking new opportunities",
+  "description": "Template for initial message to a recruiter on LinkedIn or email.",
+  "messageType": "initial-outreach",
+  "template": "Hi [Recruiter Name],\n\nI came across the [Job Title] opportunity at [Company Name] and was excited to learn about the role. With my background in [relevant skill/technology] and [years] years of experience in the tech industry, I believe I could make a meaningful contribution to your team.\n\nMy key skills include [Skill 1], [Skill 2], and [Skill 3]. In my current role, I [brief achievement or responsibility relevant to the role].\n\nI'd welcome the chance to connect and discuss how my experience aligns with your needs. Would you be open to a brief chat this week?\n\nBest regards,\n[Your Name]\n[Your LinkedIn Profile]\n[Your Phone Number]\n[Your Email]",
+  "placeholders": [
+    "[Recruiter Name]",
+    "[Job Title]",
+    "[Company Name]",
+    "[relevant skill/technology]",
+    "[years]",
+    "[Skill 1]",
+    "[Skill 2]",
+    "[Skill 3]",
+    "[brief achievement or responsibility]",
+    "[Your Name]",
+    "[Your LinkedIn Profile]",
+    "[Your Phone Number]",
+    "[Your Email]"
+  ],
+  "creationDate": "2026-11-24",
+  "reviewStatus": "draft",
+  "version": 1.0,
+  "pilot": true
+}

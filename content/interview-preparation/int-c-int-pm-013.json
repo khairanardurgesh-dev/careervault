@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-PM-013",
+  "question": "Describe a time you had to pivot a product based on user feedback.",
+  "module": "Module-04",
+  "careerTrack": "Track-C",
+  "relevantJobRoles": [
+    "Product Manager",
+    "Associate Product Manager"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-C with early-career experience",
+  "description": "Behavioural interview question for Track-C professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's pivoting skills.",
+  "competencyAssessed": "Pivoting",
+  "answerFramework": "STAR",
+  "exampleAnswer": "We launched a feature that users found confusing. Situation: adoption was 20%. I analysed feedback, ran usability tests, and discovered the issue. I pivoted from a complex dashboard to a simple list view. Result: adoption increased to 65% within 2 weeks.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, pivoting, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-C role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

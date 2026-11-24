@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-PM-012",
+  "question": "What is the difference between a product vision and a product strategy?",
+  "module": "Module-04",
+  "careerTrack": "Track-C",
+  "relevantJobRoles": [
+    "Product Manager",
+    "Associate Product Manager"
+  ],
+  "experienceLevel": "mid-career",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-C with mid-career experience",
+  "description": "Technical interview question for Track-C professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's strategy skills.",
+  "competencyAssessed": "Strategy",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "Vision is the long-term destination (e.g., 'become the leading career platform'). Strategy is the path to get there (e.g., 'focus on resume tools first, then expand to interview prep'). I articulate both to align stakeholders on direction and priorities.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, strategy, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-C role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

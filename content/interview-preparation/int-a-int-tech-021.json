@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-TECH-021",
+  "question": "How do you handle disagreements with your technical lead?",
+  "module": "Module-04",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Software Engineer",
+    "Developer"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-A with early-career experience",
+  "description": "Behavioural interview question for Track-A professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's teamwork skills.",
+  "competencyAssessed": "Teamwork",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I approach disagreements with data and respect. When my lead preferred a different database, I gathered performance benchmarks and presented them professionally. We discussed trade-offs and agreed on a hybrid approach. I learned that technical decisions should be evidence-based, not opinion-based, and that disagreeing respectfully builds trust.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, teamwork, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-A role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

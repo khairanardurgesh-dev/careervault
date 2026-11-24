@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-PM-023",
+  "question": "How do you balance short-term wins with long-term strategy?",
+  "module": "Module-04",
+  "careerTrack": "Track-C",
+  "relevantJobRoles": [
+    "Product Manager",
+    "Associate Product Manager"
+  ],
+  "experienceLevel": "mid-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-C with mid-career experience",
+  "description": "Behavioural interview question for Track-C professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's strategy skills.",
+  "competencyAssessed": "Strategy",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I allocate 70% of capacity to strategic initiatives and 30% to quick wins. In my project, I delivered a quick win (search improvements) in 2 weeks while working on a 3-month strategic initiative (redesign). This kept stakeholders engaged while building toward the long-term vision.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, strategy, specific examples, measurable outcomes",
+  "difficulty": "hard",
+  "followUpQuestions": [
+    "How does this apply to the Track-C role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

@@ -1,0 +1,34 @@
+{
+  "resourceId": "INT-PM-016",
+  "question": "Describe your experience with A/B testing.",
+  "module": "Module-04",
+  "careerTrack": "Track-C",
+  "relevantJobRoles": [
+    "Product Manager",
+    "Associate Product Manager",
+    "Product Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-C with early-career experience",
+  "description": "Behavioural interview question for Track-C professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's experimentation skills.",
+  "competencyAssessed": "Experimentation",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I ran an A/B test on our checkout flow. Variant A (original) vs Variant B (simplified). I defined the success metric (conversion rate) and sample size. Result: Variant B increased conversions by 12%. I documented the experiment and rolled out Variant B to all users.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, experimentation, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-C role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

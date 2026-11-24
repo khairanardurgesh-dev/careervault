@@ -1,0 +1,32 @@
+{
+  "resourceId": "INT-SHR-004",
+  "question": "What is your greatest weakness?",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Any Professional"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "HR/Behavioural",
+  "description": "Tests self-awareness and improvement mindset.",
+  "purposeOfQuestion": "Interviewer assesses candidate's honesty and growth orientation.",
+  "competencyAssessed": "Self-awareness and growth mindset",
+  "answerFramework": "Weakness-Acknowledgment-Improvement framework",
+  "exampleAnswer": "I tend to be overly detail-oriented, which sometimes slows my delivery. For instance, I spent excessive time perfecting a code refactor that could have been shipped earlier. To address this, I now set time-boxed milestones for tasks and ask my manager for a quick review at the 80% completion mark to ensure I'm not over-engineering.",
+  "weakAnswerPitfalls": [
+    "Using a fake weakness ('I'm too hardworking')",
+    "No improvement plan mentioned",
+    "Choosing a critical weakness for the role",
+    "Being too self-deprecating"
+  ],
+  "evaluationCriteria": "Genuine weakness, concrete improvement actions, relevance assessment, positive framing",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How are you currently addressing this weakness?",
+    "What feedback have you received on this from managers?",
+    "How would this weakness affect your work here?"
+  ],
+  "researchReferences": [],
+  "pilot": false,
+  "module": "Module-04",
+  "intendedUser": "Working professional preparing for interviews"
+}

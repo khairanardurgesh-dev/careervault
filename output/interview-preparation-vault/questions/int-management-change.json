@@ -1,0 +1,34 @@
+{
+  "resourceId": "INT-Q006",
+  "question": "Describe a time you had to manage a team through a significant change or restructuring.",
+  "module": "Module-04",
+  "careerTrack": "Track-F",
+  "relevantJobRoles": [
+    "Operations Analyst",
+    "Operations Manager",
+    "HR and people operations",
+    "Business Operations"
+  ],
+  "experienceLevel": "early-career",
+  "intendedUser": "Operations and management professional with 1-3 years of experience",
+  "description": "Behavioural question assessing change management and team leadership skills.",
+  "purposeOfQuestion": "The interviewer evaluates the candidate's ability to lead teams through uncertainty, maintain productivity, and communicate transparently during restructuring.",
+  "competencyAssessed": "Change management and team leadership",
+  "answerFramework": "STAR (Situation, Task, Action, Result)",
+  "exampleAnswer": "When my department was restructured at my company, I Context: reporting lines and responsibilities changed completely. I: held individual meetings with each team member to understand concerns, created a 30-day transition plan with clear milestones, and maintained open communication channels. Result: team productivity maintained at 95% during transition, and three team members were promoted within 6 months due to expanded responsibilities.",
+  "weakAnswerPitfalls": [
+    "Poor communication during the change",
+    "Dismissing team concerns or resistance",
+    "No structured transition plan",
+    "Productivity decline not addressed"
+  ],
+  "evaluationCriteria": "Communication transparency during change, structured transition planning, team morale maintenance, evidence of team development",
+  "difficulty": "medium",
+  "relevantCareerTracks": [
+    "Track-F"
+  ],
+  "creationDate": "2026-11-24",
+  "reviewStatus": "draft",
+  "version": 1.0,
+  "pilot": true
+}

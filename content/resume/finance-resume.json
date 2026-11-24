@@ -1,0 +1,24 @@
+{
+  "resourceId": "RES-EX003",
+  "title": "Finance Professional Resume",
+  "module": "Module-01",
+  "careerTrack": "Track-D",
+  "relevantJobRoles": [
+    "Financial Analyst",
+    "Accounts Associate",
+    "FP&A Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "intendedUser": "Finance professional with 1-3 years of experience",
+  "description": "Achievement-oriented resume for a finance professional role.",
+  "exampleCandidate": "Rohit Mehta, Financial Analyst",
+  "exampleResume": "---\nPROFESSIONAL SUMMARY\nFinancial Analyst with 2 years of experience in financial reporting, data analysis, and budget support. Skilled in building Excel models, analysing variance, and providing actionable insights to support strategic decision-making.\n\nEXPERIENCE\nFinancial Analyst, Avanta Industries | Bengaluru | 2023 - Present\n• reduced month-end close process from 10 days to 6 days by implementing a new reconciliation template\n• built a variance analysis model in Excel that identified INR 8 lakhs in monthly cost savings opportunities\n• assisted in quarterly budgeting process and presented findings to senior management\n• maintained accurate general ledger with zero compliance errors during audit period\n\nPROJECTS\nWorking Capital Optimisation\n• analysed accounts receivable and payable cycles to identify cash flow bottlenecks\n• developed forecasting model improving working capital prediction accuracy from 70% to 92%\n• recommended supplier payment term changes that improved DSO by 15 days\n\nBudget and Forecasting Support\n• created 3-month rolling forecast template used by finance team\n• tracked actual vs. variance weekly, reducing reporting time by 40%\n• identified INR 5 lakhs in unrecovered VAT and initiated recovery process\n\nTECHNICAL SKILLS\n• Excel: Advanced formulas, pivot tables, VBA macros, Power Query\n• Data visualisation: Tableau, Power BI\n• Statistical analysis: Regression, variance analysis\n• Database: SQL, Tally ERP\n• Financial modelling: Budget vs. actual, cash flow forecasting\n\nPROFESSIONAL SKILLS\n• Financial reporting and statutory compliance\n• Variance analysis and root cause identification\n• Budget preparation and monitoring\n• Data-driven decision support\n• Internal and external stakeholder communication\n\nCOURSES AND CERTIFICATIONS\n• Financial Analysis Professional Certificate, Coursera (2023)\n• Advanced Excel for Finance, Udemy (2023)\n• SAP Finance Fundamentals, SAP Training (2024)",
+  "content": "Finance Professional Resume - editable template content structure",
+  "examples": [
+    "Finance Professional Resume - Rohit Mehta example"
+  ],
+  "creationDate": "2026-11-24",
+  "reviewStatus": "draft",
+  "version": 1.0,
+  "pilot": true
+}

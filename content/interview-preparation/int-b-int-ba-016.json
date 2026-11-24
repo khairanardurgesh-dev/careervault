@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-BA-016",
+  "question": "Describe a time you had to learn a new domain quickly.",
+  "module": "Module-04",
+  "careerTrack": "Track-B",
+  "relevantJobRoles": [
+    "Business Analyst",
+    "Associate Business Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-B with early-career experience",
+  "description": "Behavioural interview question for Track-B professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's learning agility skills.",
+  "competencyAssessed": "Learning agility",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I was assigned to a healthcare project with no prior domain knowledge. Situation: I had 2 weeks to understand. I shadowed subject matter experts, read industry documentation, and created a glossary of terms. Result: I could facilitate requirements sessions independently within 3 weeks.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, learning agility, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-B role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

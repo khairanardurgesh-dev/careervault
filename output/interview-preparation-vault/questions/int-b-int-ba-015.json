@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-BA-015",
+  "question": "How do you measure the success of a business process improvement?",
+  "module": "Module-04",
+  "careerTrack": "Track-B",
+  "relevantJobRoles": [
+    "Business Analyst",
+    "Process Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-B with early-career experience",
+  "description": "Behavioural interview question for Track-B professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's metrics skills.",
+  "competencyAssessed": "Metrics",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I define success metrics before implementation. In my project, I tracked: process cycle time (reduced from 5 days to 2 days), error rate (reduced from 8% to 2%), and cost per transaction (reduced by 30%). I presented these metrics to leadership in a monthly review.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, metrics, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-B role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

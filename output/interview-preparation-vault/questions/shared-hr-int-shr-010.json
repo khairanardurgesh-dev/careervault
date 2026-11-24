@@ -1,0 +1,32 @@
+{
+  "resourceId": "INT-SHR-010",
+  "question": "How do you handle feedback, especially negative feedback?",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Any Professional"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "HR/Behavioural",
+  "description": "Assesses receptiveness to feedback and growth mindset.",
+  "purposeOfQuestion": "Interviewer evaluates professional maturity and coachability.",
+  "competencyAssessed": "Coachability and emotional intelligence",
+  "answerFramework": "Feedback-Reflection-Action framework",
+  "exampleAnswer": "I view feedback as essential for growth. When my manager pointed out that my code documentation was insufficient, I initially felt defensive but recognised the validity. I asked for specific examples, created a documentation template for the team, and made it a habit to document before code review. My manager later noted significant improvement in my documentation quality.",
+  "weakAnswerPitfalls": [
+    "Defensive response to feedback",
+    "No concrete improvement example",
+    "Claiming to always accept feedback without issue",
+    "Not asking clarifying questions"
+  ],
+  "evaluationCriteria": "Receptiveness, reflection, action taken, professional delivery",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "Can you give an example of feedback that changed your approach?",
+    "How do you seek feedback proactively?",
+    "How do you give feedback to others?"
+  ],
+  "researchReferences": [],
+  "pilot": false,
+  "module": "Module-04",
+  "intendedUser": "Working professional preparing for interviews"
+}

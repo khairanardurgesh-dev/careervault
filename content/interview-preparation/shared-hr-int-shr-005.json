@@ -1,0 +1,32 @@
+{
+  "resourceId": "INT-SHR-005",
+  "question": "Where do you see yourself in 3-5 years?",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Any Professional"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "HR/Behavioural",
+  "description": "Assesses career ambition and alignment with company trajectory.",
+  "purposeOfQuestion": "Interviewer evaluates long-term fit and growth potential.",
+  "competencyAssessed": "Career ambition and alignment",
+  "answerFramework": "Present-Future-Growth framework",
+  "exampleAnswer": "In 3-5 years, I see myself as a senior engineer or technical lead, contributing to system architecture and mentoring junior team members. I want to deepen my expertise in distributed systems and cloud architecture while building strong cross-functional collaboration skills. I am looking for an environment that supports both technical growth and leadership development.",
+  "weakAnswerPitfalls": [
+    "Saying 'I want your job'",
+    "No clear direction",
+    "Unrealistic expectations",
+    "Goals unrelated to the role"
+  ],
+  "evaluationCriteria": "Realistic ambition, alignment with role, growth orientation, professionalism",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "What skills do you need to develop to reach that goal?",
+    "How does this role help you get there?",
+    "What would success look like in this role?"
+  ],
+  "researchReferences": [],
+  "pilot": false,
+  "module": "Module-04",
+  "intendedUser": "Working professional preparing for interviews"
+}

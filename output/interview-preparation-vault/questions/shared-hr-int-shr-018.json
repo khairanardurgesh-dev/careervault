@@ -1,0 +1,32 @@
+{
+  "resourceId": "INT-SHR-018",
+  "question": "Tell me about a time you had to adapt to a significant change at work.",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Any Professional"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "HR/Behavioural",
+  "description": "Assesses adaptability and change management.",
+  "purposeOfQuestion": "Interviewer evaluates ability to thrive in dynamic environments.",
+  "competencyAssessed": "Adaptability",
+  "answerFramework": "STAR (Situation, Task, Action, Result)",
+  "exampleAnswer": "When our company restructured the engineering org, my team was split and I was reassigned to a new project with a different tech stack. Situation: I had two weeks to get up to speed. I created a learning plan, paired with a senior engineer, and delivered a small feature in the first week to build confidence. Result: I became a productive team member within three weeks and later helped onboard two more new joiners.",
+  "weakAnswerPitfalls": [
+    "Resistance to change",
+    "No proactive adaptation",
+    "No learning plan",
+    "Vague about outcomes"
+  ],
+  "evaluationCriteria": "Proactive adaptation, structured approach, measurable outcome",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How do you help others adapt to change?",
+    "What is the biggest change you've faced?",
+    "How do you stay positive during uncertainty?"
+  ],
+  "researchReferences": [],
+  "pilot": false,
+  "module": "Module-04",
+  "intendedUser": "Working professional preparing for interviews"
+}

@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-BA-004",
+  "question": "What is a use case and how do you write one?",
+  "module": "Module-04",
+  "careerTrack": "Track-B",
+  "relevantJobRoles": [
+    "Business Analyst",
+    "Associate Business Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-B with early-career experience",
+  "description": "Technical interview question for Track-B professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's requirements documentation skills.",
+  "competencyAssessed": "Requirements documentation",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "A use case describes how a user interacts with a system to achieve a goal. In my project, I wrote use cases for 'Customer Places Order' with actors (customer), preconditions (logged in), main flow (select items, checkout), and alternate flows (payment fails). This ensured dev team understood the full user journey.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, requirements documentation, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-B role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

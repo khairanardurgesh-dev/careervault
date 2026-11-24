@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-BA-001",
+  "question": "What is the difference between a requirement and a specification?",
+  "module": "Module-04",
+  "careerTrack": "Track-B",
+  "relevantJobRoles": [
+    "Business Analyst",
+    "Associate Business Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-B with early-career experience",
+  "description": "Technical interview question for Track-B professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's requirements engineering skills.",
+  "competencyAssessed": "Requirements engineering",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "A requirement describes what the user needs; a specification describes how to implement it. In my project, 'users need to export reports' is a requirement; 'create a REST endpoint /api/reports/export returning CSV' is a specification. Requirements come from stakeholders; specifications come from technical teams.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, requirements engineering, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-B role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

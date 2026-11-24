@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-PM-008",
+  "question": "How do you define and measure product success?",
+  "module": "Module-04",
+  "careerTrack": "Track-C",
+  "relevantJobRoles": [
+    "Product Manager",
+    "Associate Product Manager"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-C with early-career experience",
+  "description": "Behavioural interview question for Track-C professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's metrics skills.",
+  "competencyAssessed": "Metrics",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I define success metrics before building. For a new onboarding flow, I set: activation rate > 60%, time-to-value < 5 minutes, and NPS > 40. Post-launch, activation was 65%, time-to-value was 4 minutes, NPS was 42. All metrics exceeded targets.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, metrics, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-C role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

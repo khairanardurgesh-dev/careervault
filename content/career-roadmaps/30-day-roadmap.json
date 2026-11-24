@@ -1,0 +1,85 @@
+{
+  "resourceId": "ROADMAP-001",
+  "title": "30-Day Job-Switch Roadmap",
+  "module": "Module-07",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Software Engineer",
+    "Developer",
+    "QA Tester",
+    "Business Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "intendedUser": "Working professional with 1-5 years experience seeking a job switch",
+  "description": "A practical 30-day roadmap for working professionals to organise their job-switching process.",
+  "roadmapTitle": "30-Day Job-Switch Roadmap",
+  "timeframe": "30 days",
+  "weeklyActivities": [
+    {
+      "week": 1,
+      "activities": [
+        "Update resume with recent achievements",
+        "Optimise LinkedIn and Naukri profiles",
+        "Identify target companies and roles",
+        "Set up job alerts on portals"
+      ],
+      "measurableTasks": [
+        "Resume reviewed by peer or mentor",
+        "Profile keywords validated for ATS",
+        "List of 20 target companies created"
+      ]
+    },
+    {
+      "week": 2,
+      "activities": [
+        "Apply to 5-8 targeted positions",
+        "Request informational interviews",
+        "Prepare master application tracker",
+        "Reach out to 3 connections for referrals"
+      ],
+      "measurableTasks": [
+        "5+ applications submitted with tailored cover letters",
+        "3 referral requests sent",
+        "Application tracker populated with first 5 entries"
+      ]
+    },
+    {
+      "week": 3,
+      "activities": [
+        "Prepare for technical interviews",
+        "Practice common interview questions",
+        "Prepare STAR-format stories from recent experience",
+        "Research companies thoroughly"
+      ],
+      "measurableTasks": [
+        "3 technical practice questions solved",
+        "5 STAR stories documented",
+        "2 company research worksheets completed"
+      ]
+    },
+    {
+      "week": 4,
+      "activities": [
+        "Attend scheduled interviews",
+        "Send thank-you messages after each interview",
+        "Follow up on pending applications",
+        "Reflect on learnings and adjust strategy"
+      ],
+      "measurableTasks": [
+        "2+ interviews attended",
+        "2+ thank-you messages sent",
+        "Tracker updated with interview feedback"
+      ]
+    }
+  ],
+  "milestones": [
+    "Day 1-7: Profile optimisation and initial applications submitted",
+    "Day 8-14: Interview preparation and skills practice",
+    "Day 15-21: Active interviewing and follow-ups",
+    "Day 22-30: Reflection, strategy adjustment, and sustained momentum"
+  ],
+  "creationDate": "2026-11-24",
+  "reviewStatus": "draft",
+  "version": 1.0,
+  "pilot": true
+}

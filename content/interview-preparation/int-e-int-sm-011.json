@@ -1,0 +1,34 @@
+{
+  "resourceId": "INT-SM-011",
+  "question": "Describe a time you had to work with a marketing team on a campaign.",
+  "module": "Module-04",
+  "careerTrack": "Track-E",
+  "relevantJobRoles": [
+    "Sales",
+    "Digital Marketing",
+    "Marketing Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-E with early-career experience",
+  "description": "Behavioural interview question for Track-E professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's cross-functional collaboration skills.",
+  "competencyAssessed": "Cross-functional collaboration",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I collaborated with marketing on a product launch campaign. Situation: sales and marketing had different messaging. I facilitated alignment sessions, created a shared messaging document, and ensured consistent positioning. Result: unified campaign increased leads by 40%.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, cross-functional collaboration, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-E role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

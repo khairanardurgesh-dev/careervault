@@ -1,0 +1,32 @@
+{
+  "resourceId": "INT-SHR-014",
+  "question": "Describe a time you had to work with a difficult stakeholder.",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Any Professional"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "HR/Behavioural",
+  "description": "Assesses stakeholder management and empathy.",
+  "purposeOfQuestion": "Interviewer evaluates interpersonal skills and professional maturity.",
+  "competencyAssessed": "Stakeholder management",
+  "answerFramework": "STAR (Situation, Task, Action, Result)",
+  "exampleAnswer": "A senior stakeholder frequently changed requirements mid-sprint. Situation: this was affecting team morale and delivery. I scheduled a 1:1 to understand their underlying concerns. I learned they were under pressure from their leadership. I proposed a change-request process with clear impact assessment. Result: requirement changes reduced by 60%, and the stakeholder appreciated the structured approach.",
+  "weakAnswerPitfalls": [
+    "Speaking negatively about the stakeholder",
+    "No empathy or understanding shown",
+    "No concrete resolution",
+    "Choosing an extreme conflict"
+  ],
+  "evaluationCriteria": "Empathy, professional communication, structured resolution, outcome",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How do you build trust with difficult stakeholders?",
+    "What if the stakeholder refuses to engage?",
+    "How do you set boundaries professionally?"
+  ],
+  "researchReferences": [],
+  "pilot": false,
+  "module": "Module-04",
+  "intendedUser": "Working professional preparing for interviews"
+}

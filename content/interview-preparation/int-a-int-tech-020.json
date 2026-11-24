@@ -1,0 +1,34 @@
+{
+  "resourceId": "INT-TECH-020",
+  "question": "What is your experience with cloud platforms?",
+  "module": "Module-04",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Software Engineer",
+    "Developer",
+    "Cloud Engineer"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-A with early-career experience",
+  "description": "Behavioural interview question for Track-A professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's cloud skills.",
+  "competencyAssessed": "Cloud",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I have deployed applications on AWS using EC2, S3, and RDS. In my project, I containerized the application with Docker and deployed to ECS. I used CloudWatch for monitoring and S3 for static assets. I also have experience with serverless functions (Lambda) for background processing.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, cloud, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-A role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

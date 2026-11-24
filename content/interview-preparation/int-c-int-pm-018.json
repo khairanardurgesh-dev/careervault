@@ -1,0 +1,34 @@
+{
+  "resourceId": "INT-PM-018",
+  "question": "What is the difference between a feature and a benefit?",
+  "module": "Module-04",
+  "careerTrack": "Track-C",
+  "relevantJobRoles": [
+    "Product Manager",
+    "Associate Product Manager",
+    "Product Analyst"
+  ],
+  "experienceLevel": "entry",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-C with entry experience",
+  "description": "Technical interview question for Track-C professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's product thinking skills.",
+  "competencyAssessed": "Product thinking",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "A feature is what the product does (e.g., 'one-click export'); a benefit is why the user cares (e.g., 'saves 2 hours per week'). In my work, I always frame features as benefits in PRDs and marketing. Users buy benefits, not features.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, product thinking, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-C role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

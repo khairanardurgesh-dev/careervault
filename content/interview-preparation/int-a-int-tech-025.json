@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-TECH-025",
+  "question": "Describe a time you optimized application performance.",
+  "module": "Module-04",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Software Engineer",
+    "Developer"
+  ],
+  "experienceLevel": "mid-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-A with mid-career experience",
+  "description": "Behavioural interview question for Track-A professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's performance skills.",
+  "competencyAssessed": "Performance",
+  "answerFramework": "STAR",
+  "exampleAnswer": "Our dashboard loaded in 8 seconds. Situation: users were frustrated. I profiled the app and found 3 bottlenecks: unoptimized images, N+1 database queries, and no caching. I implemented lazy loading, eager loading, and Redis caching. Result: load time reduced to 2 seconds, and user satisfaction improved by 40% (measured via survey).",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, performance, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-A role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

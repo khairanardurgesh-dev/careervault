@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-MO-017",
+  "question": "Describe a time you had to manage a remote or distributed team.",
+  "module": "Module-04",
+  "careerTrack": "Track-F",
+  "relevantJobRoles": [
+    "Operations Manager",
+    "Business Operations"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-F with early-career experience",
+  "description": "Behavioural interview question for Track-F professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's remote management skills.",
+  "competencyAssessed": "Remote management",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I managed a team of 8 across 3 time zones. Situation: communication was challenging. I implemented daily async standups, weekly video calls, and a shared project board. I also established core hours for overlap. Result: productivity increased by 20%, and team satisfaction improved.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, remote management, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-F role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

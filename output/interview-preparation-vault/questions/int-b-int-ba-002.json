@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-BA-002",
+  "question": "How do you gather requirements from stakeholders who are not technical?",
+  "module": "Module-04",
+  "careerTrack": "Track-B",
+  "relevantJobRoles": [
+    "Business Analyst",
+    "Associate Business Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-B with early-career experience",
+  "description": "Behavioural interview question for Track-B professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's stakeholder management skills.",
+  "competencyAssessed": "Stakeholder management",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I use structured interviews, workshops, and prototyping. In my last project, I conducted 1:1 sessions with department heads, created wireframes, and validated with user testing. This reduced requirement misunderstandings by 40% and ensured all stakeholders felt heard.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, stakeholder management, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-B role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

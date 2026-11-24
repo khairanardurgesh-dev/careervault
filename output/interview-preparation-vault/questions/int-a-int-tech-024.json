@@ -1,0 +1,34 @@
+{
+  "resourceId": "INT-TECH-024",
+  "question": "How do you ensure your code is secure?",
+  "module": "Module-04",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Software Engineer",
+    "Developer",
+    "Security Engineer"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-A with early-career experience",
+  "description": "Behavioural interview question for Track-A professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's security skills.",
+  "competencyAssessed": "Security",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I follow OWASP guidelines, validate all inputs, use parameterized queries to prevent SQL injection, and implement proper authentication/authorization. In my project, I added rate limiting to prevent brute force attacks and used helmet.js for security headers. I also keep dependencies updated and run security audits.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, security, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-A role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

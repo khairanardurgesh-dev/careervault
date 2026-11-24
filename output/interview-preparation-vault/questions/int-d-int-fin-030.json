@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-FIN-030",
+  "question": "How do you contribute to cost reduction in your organization?",
+  "module": "Module-04",
+  "careerTrack": "Track-D",
+  "relevantJobRoles": [
+    "Financial Analyst",
+    "FP&A Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-D with early-career experience",
+  "description": "Behavioural interview question for Track-D professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's cost management skills.",
+  "competencyAssessed": "Cost management",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I identified that our cloud infrastructure costs were 30% higher than industry benchmarks. Situation: monthly spend was INR 5 lakhs. I analysed usage patterns, recommended right-sizing instances, and implemented auto-scaling. Result: reduced cloud costs by INR 1.5 lakhs/month without impacting performance.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, cost management, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-D role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

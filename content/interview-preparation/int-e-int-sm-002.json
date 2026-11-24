@@ -1,0 +1,34 @@
+{
+  "resourceId": "INT-SM-002",
+  "question": "What is the difference between B2B and B2C sales?",
+  "module": "Module-04",
+  "careerTrack": "Track-E",
+  "relevantJobRoles": [
+    "Sales",
+    "Business Development",
+    "Digital Marketing"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-E with early-career experience",
+  "description": "Technical interview question for Track-E professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's sales strategy skills.",
+  "competencyAssessed": "Sales strategy",
+  "answerFramework": "Comparison framework",
+  "exampleAnswer": "B2B involves longer sales cycles, multiple decision-makers, and relationship building. B2C is faster, emotion-driven, and individual-focused. In my experience, I sold enterprise software (B2B) with 3-month cycles and also ran consumer campaigns (B2C) with immediate conversions.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, sales strategy, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-E role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

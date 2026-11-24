@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-BA-026",
+  "question": "Describe your experience with data analysis tools.",
+  "module": "Module-04",
+  "careerTrack": "Track-B",
+  "relevantJobRoles": [
+    "Business Analyst",
+    "Data Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-B with early-career experience",
+  "description": "Behavioural interview question for Track-B professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's data analysis skills.",
+  "competencyAssessed": "Data analysis",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I use Excel, SQL, and Tableau. In my last project, I wrote SQL queries to extract customer data, analysed it in Excel with pivot tables, and created Tableau dashboards for the sales team. This reduced their manual reporting time from 2 days to 2 hours per week.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, data analysis, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-B role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

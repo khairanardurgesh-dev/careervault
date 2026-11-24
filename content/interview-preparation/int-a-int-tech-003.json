@@ -1,0 +1,34 @@
+{
+  "resourceId": "INT-TECH-003",
+  "question": "What is REST and how does it differ from GraphQL?",
+  "module": "Module-04",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Software Engineer",
+    "Developer",
+    "API Developer"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-A with early-career experience",
+  "description": "Technical interview question for Track-A professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's api design skills.",
+  "competencyAssessed": "API design",
+  "answerFramework": "Comparison framework",
+  "exampleAnswer": "REST uses multiple endpoints with HTTP methods; GraphQL uses a single endpoint with flexible queries. In my internship, I built REST APIs for CRUD operations. GraphQL would have been better when the frontend needed specific fields without over-fetching. REST is simpler for standard CRUD; GraphQL excels with complex, nested data requirements.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, api design, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-A role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

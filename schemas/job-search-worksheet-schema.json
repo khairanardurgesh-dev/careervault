@@ -1,0 +1,89 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "JobSearchWorkshet Schema",
+  "type": "object",
+  "required": ["resourceId", "title", "module", "careerTrack", "relevantJobRoles", "experienceLevel", "intendedUser", "description", "worksheetName", "sections", "creationDate", "reviewStatus", "version"],
+  "type": "object",
+  "properties": {
+    "resourceId": {
+      "type": "string",
+      "pattern": "^WS-\\d{3}$",
+      "description": "Unique resource identifier in format WS-XXX"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 3,
+      "description": "Worksheet title"
+    },
+    "module": {
+      "type": "string",
+      "enum": ["Module-01", "Module-02", "Module-03", "Module-04", "Module-05", "Module-06", "Module-07", "Module-08"],
+      "description": "Assigned module"
+    },
+    "careerTrack": {
+      "type": "string",
+      "enum": ["Track-A", "Track-B", "Track-C", "Track-D", "Track-E", "Track-F"],
+      "description": "Target career track"
+    },
+    "relevantJobRoles": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "Job roles this worksheet applies to"
+    },
+    "experienceLevel": {
+      "type": "string",
+      "enum": ["entry", "early-career", "mid-career"],
+      "description": "Target experience level"
+    },
+    "intendedUser": {
+      "type": "string",
+      "description": "Description of target user"
+    },
+    "description": {
+      "type": "string",
+      "minLength": 10,
+      "description": "Worksheet description"
+    },
+    "worksheetName": {
+      "type": "string",
+      "description": "Display name for the worksheet"
+    },
+    "sections": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "sectionName": {"type": "string", "description": "Name of the section"},
+          "fields": {
+            "type": "array",
+            "items": {"type": "string"},
+            "description": "Field names in this section"
+          },
+          "instructions": {"type": "string", "description": "Section instructions"}
+        }
+      },
+      "description": "Worksheet sections and fields"
+    },
+    "creationDate": {
+      "type": "string",
+      "format": "date",
+      "description": "Date resource was created"
+    },
+    "lastReviewedDate": {
+      "type": "string",
+      "format": "date",
+      "description": "Date resource was last reviewed"
+    },
+    "reviewStatus": {
+      "type": "string",
+      "enum": ["draft", "reviewed", "approved"],
+      "description": "Current review status"
+    },
+    "version": {
+      "type": "number",
+      "minimum": 0,
+      "description": "Schema version"
+    }
+  },
+  "additionalProperties": false
+}

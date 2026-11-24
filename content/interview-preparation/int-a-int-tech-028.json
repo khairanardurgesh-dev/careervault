@@ -1,0 +1,34 @@
+{
+  "resourceId": "INT-TECH-028",
+  "question": "What is the difference between frontend and backend development?",
+  "module": "Module-04",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Software Engineer",
+    "Developer",
+    "Full Stack Developer"
+  ],
+  "experienceLevel": "entry",
+  "interviewCategory": "Conceptual",
+  "intendedUser": "Professional in Track-A with entry experience",
+  "description": "Conceptual interview question for Track-A professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's architecture skills.",
+  "competencyAssessed": "Architecture",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "Frontend is what users see (UI, UX); backend is server-side logic, databases, APIs. In my project, I built the React frontend with TypeScript and the Node.js backend with Express. Frontend focuses on user experience; backend focuses on data, security, and business logic. Full-stack developers work across both.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, architecture, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-A role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-BA-007",
+  "question": "Describe a time you had to present technical findings to non-technical stakeholders.",
+  "module": "Module-04",
+  "careerTrack": "Track-B",
+  "relevantJobRoles": [
+    "Business Analyst",
+    "Associate Business Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-B with early-career experience",
+  "description": "Behavioural interview question for Track-B professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's communication skills.",
+  "competencyAssessed": "Communication",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I analysed customer churn data and presented to the sales team. I avoided jargon, used visual charts, and focused on business impact. I explained that 12% churn was tied to onboarding issues. The team adopted my recommendations, reducing churn by 8% in 6 months.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, communication, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-B role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-SM-028",
+  "question": "Describe your experience with social media marketing.",
+  "module": "Module-04",
+  "careerTrack": "Track-E",
+  "relevantJobRoles": [
+    "Digital Marketing",
+    "Marketing Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-E with early-career experience",
+  "description": "Behavioural interview question for Track-E professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's social media skills.",
+  "competencyAssessed": "Social media",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I managed LinkedIn and Twitter for a B2B brand. I posted 3x/week, engaged with industry leaders, and ran targeted ads. In 6 months, followers grew 200%, and we generated 30 qualified leads. I also created a content calendar and tracked engagement metrics.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, social media, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-E role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

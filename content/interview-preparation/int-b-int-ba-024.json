@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-BA-024",
+  "question": "How do you handle a situation where a stakeholder disagrees with your analysis?",
+  "module": "Module-04",
+  "careerTrack": "Track-B",
+  "relevantJobRoles": [
+    "Business Analyst",
+    "Associate Business Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-B with early-career experience",
+  "description": "Behavioural interview question for Track-B professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's stakeholder management skills.",
+  "competencyAssessed": "Stakeholder management",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I listen to their perspective and ask for data. When a stakeholder disagreed with my churn analysis, I asked what data they had. We compared datasets and found a timing difference. I updated my analysis with their data, and we agreed on a combined view.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, stakeholder management, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-B role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

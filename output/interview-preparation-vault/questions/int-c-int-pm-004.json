@@ -1,0 +1,34 @@
+{
+  "resourceId": "INT-PM-004",
+  "question": "What is a product roadmap and how do you create one?",
+  "module": "Module-04",
+  "careerTrack": "Track-C",
+  "relevantJobRoles": [
+    "Product Manager",
+    "Associate Product Manager",
+    "Product Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-C with early-career experience",
+  "description": "Technical interview question for Track-C professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's roadmap planning skills.",
+  "competencyAssessed": "Roadmap planning",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "A roadmap is a strategic plan showing product direction over time. I create one by: 1) Gathering inputs from stakeholders, 2) Prioritizing by impact/effort, 3) Grouping into themes (Q1: onboarding, Q2: analytics), 4) Communicating to the team. I use quarterly reviews to adjust based on feedback.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, roadmap planning, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-C role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

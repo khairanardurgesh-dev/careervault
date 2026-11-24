@@ -1,0 +1,34 @@
+{
+  "resourceId": "INT-SM-003",
+  "question": "Describe a time you exceeded your sales target.",
+  "module": "Module-04",
+  "careerTrack": "Track-E",
+  "relevantJobRoles": [
+    "Sales",
+    "Business Development",
+    "Account Manager"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-E with early-career experience",
+  "description": "Behavioural interview question for Track-E professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's sales achievement skills.",
+  "competencyAssessed": "Sales achievement",
+  "answerFramework": "STAR",
+  "exampleAnswer": "In Q3, my target was INR 10 lakhs. Situation: I identified a new market segment. I researched 20 potential clients, personalized outreach, and closed 4 deals worth INR 14 lakhs. Result: exceeded target by 40%, and my approach was adopted by the team.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, sales achievement, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-E role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

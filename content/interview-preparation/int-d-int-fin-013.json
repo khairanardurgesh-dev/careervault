@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-FIN-013",
+  "question": "What is the difference between accounts payable and accounts receivable?",
+  "module": "Module-04",
+  "careerTrack": "Track-D",
+  "relevantJobRoles": [
+    "Financial Analyst",
+    "Accounts Associate"
+  ],
+  "experienceLevel": "entry",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-D with entry experience",
+  "description": "Technical interview question for Track-D professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's accounting skills.",
+  "competencyAssessed": "Accounting",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "Accounts payable is money the company owes to suppliers (liability). Accounts receivable is money customers owe the company (asset). In my role, I managed both: ensuring timely supplier payments and following up on overdue customer invoices to maintain cash flow.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, accounting, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-D role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

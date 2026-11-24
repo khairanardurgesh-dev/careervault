@@ -1,0 +1,34 @@
+{
+  "resourceId": "INT-SM-010",
+  "question": "How do you handle objections during a sales pitch?",
+  "module": "Module-04",
+  "careerTrack": "Track-E",
+  "relevantJobRoles": [
+    "Sales",
+    "Business Development",
+    "Account Manager"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-E with early-career experience",
+  "description": "Behavioural interview question for Track-E professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's objection handling skills.",
+  "competencyAssessed": "Objection handling",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I use the LAER method: Listen, Acknowledge, Explore, Respond. When a prospect said 'too expensive,' I acknowledged their budget concern, explored what value they expected, and responded with a phased pricing option. Result: they signed up for a smaller initial package.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, objection handling, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-E role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

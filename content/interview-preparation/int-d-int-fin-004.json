@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-FIN-004",
+  "question": "Describe a time you identified a financial discrepancy and how you resolved it.",
+  "module": "Module-04",
+  "careerTrack": "Track-D",
+  "relevantJobRoles": [
+    "Financial Analyst",
+    "Accounts Associate"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-D with early-career experience",
+  "description": "Behavioural interview question for Track-D professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's attention to detail skills.",
+  "competencyAssessed": "Attention to detail",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I noticed a INR 50,000 discrepancy between bank statement and internal records. Situation: month-end close deadline. I traced it to an unmatched international transfer with a currency conversion timing difference. I documented the finding and implemented a stricter cut-off procedure. Result: discrepancy resolved, procedure prevented future mismatches.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, attention to detail, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-D role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

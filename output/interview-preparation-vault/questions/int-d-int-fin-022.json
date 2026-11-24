@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-FIN-022",
+  "question": "How do you stay updated with financial regulations and changes?",
+  "module": "Module-04",
+  "careerTrack": "Track-D",
+  "relevantJobRoles": [
+    "Financial Analyst",
+    "Accounts Associate"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-D with early-career experience",
+  "description": "Behavioural interview question for Track-D professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's continuous learning skills.",
+  "competencyAssessed": "Continuous learning",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I follow RBI notifications, ICAI updates, and financial news. I also attend webinars and take online courses. Last quarter, I completed a course on GST compliance changes. I share key updates with my team in monthly knowledge sessions.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, continuous learning, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-D role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

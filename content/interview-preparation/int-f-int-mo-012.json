@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-MO-012",
+  "question": "What is the difference between efficiency and effectiveness?",
+  "module": "Module-04",
+  "careerTrack": "Track-F",
+  "relevantJobRoles": [
+    "Operations Manager",
+    "Operations Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-F with early-career experience",
+  "description": "Technical interview question for Track-F professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's operations skills.",
+  "competencyAssessed": "Operations",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "Efficiency is doing things right (minimal resources). Effectiveness is doing the right things (achieving goals). In my project, we were efficient (low cost) but not effective (missed deadlines). I realigned priorities to focus on effectiveness first, then optimized for efficiency.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, operations, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-F role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

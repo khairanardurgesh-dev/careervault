@@ -1,0 +1,94 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "CareerRoadmap Schema",
+  "type": "object",
+  "required": ["resourceId", "title", "module", "careerTrack", "relevantJobRoles", "experienceLevel", "intendedUser", "description", "roadmapTitle", "timeframe", "weeklyActivities", "milestones", "creationDate", "reviewStatus", "version"],
+  "type": "object",
+  "properties": {
+    "resourceId": {
+      "type": "string",
+      "pattern": "^ROADMAP-\\d{3}$",
+      "description": "Unique resource identifier in format RM-XXX"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 3,
+      "description": "Roadmap title"
+    },
+    "module": {
+      "type": "string",
+      "enum": ["Module-01", "Module-02", "Module-03", "Module-04", "Module-05", "Module-06", "Module-07", "Module-08"],
+      "description": "Assigned module"
+    },
+    "careerTrack": {
+      "type": "string",
+      "enum": ["Track-A", "Track-B", "Track-C", "Track-D", "Track-E", "Track-F"],
+      "description": "Target career track"
+    },
+    "relevantJobRoles": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "Job roles this roadmap applies to"
+    },
+    "experienceLevel": {
+      "type": "string",
+      "enum": ["entry", "early-career", "mid-career"],
+      "description": "Target experience level"
+    },
+    "intendedUser": {
+      "type": "string",
+      "description": "Description of target user"
+    },
+    "description": {
+      "type": "string",
+      "minLength": 10,
+      "description": "Roadmap description"
+    },
+    "roadmapTitle": {
+      "type": "string",
+      "description": "Display title for the roadmap"
+    },
+    "timeframe": {
+      "type": "string",
+      "description": "e.g. 30-day, 90-day, 6-month"
+    },
+    "weeklyActivities": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "week": {"type": "integer", "description": "Week number"},
+          "activities": {"type": "array", "items": {"type": "string"}, "description": "Activities for that week"},
+          "measurableTasks": {"type": "array", "items": {"type": "string"}, "description": "Measurable tasks for that week"}
+        }
+      },
+      "description": "Weekly activities and tasks"
+    },
+    "milestones": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "Key milestones in the roadmap"
+    },
+    "creationDate": {
+      "type": "string",
+      "format": "date",
+      "description": "Date resource was created"
+    },
+    "lastReviewedDate": {
+      "type": "string",
+      "format": "date",
+      "description": "Date resource was last reviewed"
+    },
+    "reviewStatus": {
+      "type": "string",
+      "enum": ["draft", "reviewed", "approved"],
+      "description": "Current review status"
+    },
+    "version": {
+      "type": "number",
+      "minimum": 0,
+      "description": "Schema version"
+    }
+  },
+  "additionalProperties": false
+}

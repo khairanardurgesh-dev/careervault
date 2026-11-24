@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-MO-030",
+  "question": "What is the most important skill for an operations manager?",
+  "module": "Module-04",
+  "careerTrack": "Track-F",
+  "relevantJobRoles": [
+    "Operations Manager",
+    "Business Operations"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-F with early-career experience",
+  "description": "Behavioural interview question for Track-F professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's self-reflection skills.",
+  "competencyAssessed": "Self-reflection",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I believe problem-solving is most important. Operations is about identifying issues and finding practical solutions. In my experience, the best operations managers I've worked with all excelled at diagnosing root causes and implementing sustainable fixes.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, self-reflection, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-F role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

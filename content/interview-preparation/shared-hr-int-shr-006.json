@@ -1,0 +1,32 @@
+{
+  "resourceId": "INT-SHR-006",
+  "question": "Why should we hire you?",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Any Professional"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "HR/Behavioural",
+  "description": "Sales pitch question assessing value proposition.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's understanding of role needs and self-confidence.",
+  "competencyAssessed": "Value proposition and self-confidence",
+  "answerFramework": "Value-Proof-Fit framework",
+  "exampleAnswer": "You should hire me because I bring both technical expertise and a track record of delivering results. In my current role, I reduced application load time by 45% and increased test coverage from 15% to 65%. I understand your tech stack and can contribute immediately. Additionally, I am a collaborative team player who communicates well with stakeholders, which aligns with your cross-functional culture.",
+  "weakAnswerPitfalls": [
+    "Generic statements without evidence",
+    "Overstating abilities",
+    "Comparing negatively to other candidates",
+    "No specific value proposition"
+  ],
+  "evaluationCriteria": "Specific evidence, role alignment, confidence, professionalism",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "What makes you different from other candidates?",
+    "How would you measure success in this role?",
+    "What is your most relevant achievement for this position?"
+  ],
+  "researchReferences": [],
+  "pilot": false,
+  "module": "Module-04",
+  "intendedUser": "Working professional preparing for interviews"
+}

@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-TECH-011",
+  "question": "Explain the concept of object-oriented programming and its four pillars.",
+  "module": "Module-04",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Software Engineer",
+    "Developer"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-A with early-career experience",
+  "description": "Technical interview question for Track-A professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's oop skills.",
+  "competencyAssessed": "OOP",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "OOP organizes code into objects. The four pillars: encapsulation (bundling data and methods), inheritance (reusing code), polymorphism (different implementations of same interface), and abstraction (hiding complexity). In my project, I created a base User class with Admin and Customer subclasses, demonstrating inheritance and polymorphism.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, oop, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-A role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

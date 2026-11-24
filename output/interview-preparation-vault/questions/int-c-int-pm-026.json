@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-PM-026",
+  "question": "How do you ensure your product is accessible?",
+  "module": "Module-04",
+  "careerTrack": "Track-C",
+  "relevantJobRoles": [
+    "Product Manager",
+    "Associate Product Manager"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-C with early-career experience",
+  "description": "Behavioural interview question for Track-C professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's accessibility skills.",
+  "competencyAssessed": "Accessibility",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I follow WCAG guidelines and work with designers on accessibility. In my project, I added keyboard navigation, screen reader support, and sufficient color contrast. I also conducted accessibility audits with tools like axe. Result: we achieved WCAG 2.1 AA compliance.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, accessibility, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-C role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

@@ -1,0 +1,34 @@
+{
+  "resourceId": "INT-MO-022",
+  "question": "How do you handle a situation where a process is not working as expected?",
+  "module": "Module-04",
+  "careerTrack": "Track-F",
+  "relevantJobRoles": [
+    "Operations Manager",
+    "Operations Analyst",
+    "Business Operations"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-F with early-career experience",
+  "description": "Behavioural interview question for Track-F professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's process improvement skills.",
+  "competencyAssessed": "Process improvement",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I use root cause analysis. When our ticket resolution time increased by 30%, I mapped the process, identified bottlenecks (approval delays), and implemented an automated approval workflow. Result: resolution time reduced by 40%, and customer satisfaction improved.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, process improvement, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-F role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

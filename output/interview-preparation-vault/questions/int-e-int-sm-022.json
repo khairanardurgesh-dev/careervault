@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-SM-022",
+  "question": "Describe your experience with content marketing.",
+  "module": "Module-04",
+  "careerTrack": "Track-E",
+  "relevantJobRoles": [
+    "Digital Marketing",
+    "Marketing Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-E with early-career experience",
+  "description": "Behavioural interview question for Track-E professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's content marketing skills.",
+  "competencyAssessed": "Content marketing",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I created a blog series on industry trends. In 6 months, organic traffic increased 120%, and we generated 50 qualified leads. I also repurposed content into social posts and email newsletters. This reduced content creation costs by 40% while increasing reach.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, content marketing, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-E role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

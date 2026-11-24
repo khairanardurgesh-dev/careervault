@@ -1,0 +1,85 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Resume Example Schema",
+  "type": "object",
+  "required": ["resourceId", "title", "module", "careerTrack", "experienceLevel", "intendedUser", "description", "content", "exampleCandidate", "exampleResume", "creationDate", "reviewStatus", "version"],
+  "type": "object",
+  "properties": {
+    "resourceId": {
+      "type": "string",
+      "pattern": "^RES-EXAMPLE-\\d{3}$",
+      "description": "Unique resource identifier in format RES-EXM-XXX"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 3,
+      "description": "Title of the resume example"
+    },
+    "module": {
+      "type": "string",
+      "enum": ["Module-01", "Module-02", "Module-03", "Module-04", "Module-05", "Module-06", "Module-07", "Module-08"],
+      "description": "Assigned module"
+    },
+    "careerTrack": {
+      "type": "string",
+      "enum": ["Track-A", "Track-B", "Track-C", "Track-D", "Track-E", "Track-F"],
+      "description": "Target career track"
+    },
+    "experienceLevel": {
+      "type": "string",
+      "enum": ["entry", "early-career", "mid-career"],
+      "description": "Target experience level"
+    },
+    "intendedUser": {
+      "type": "string",
+      "description": "Description of target user"
+    },
+    "description": {
+      "type": "string",
+      "minLength": 10,
+      "description": "Example description"
+    },
+    "exampleCandidate": {
+      "type": "string",
+      "description": "Fictional candidate name and background"
+    },
+    "exampleResume": {
+      "type": "string",
+      "description": "Full resume content using fictional data"
+    },
+    "sourceReferences": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "sourceName": {"type": "string"},
+          "sourceUrl": {"type": "string", "format": "uri"},
+          "accessDate": {"type": "string", "format": "date"}
+        },
+        "description": "Optional source references"
+      },
+      "description": "Optional source references"
+    },
+    "creationDate": {
+      "type": "string",
+      "format": "date",
+      "description": "Date resource was created"
+    },
+    "lastReviewedDate": {
+      "type": "string",
+      "format": "date",
+      "description": "Date resource was last reviewed"
+    },
+    "reviewStatus": {
+      "type": "string",
+      "enum": ["draft", "reviewed", "approved"],
+      "description": "Current review status"
+    },
+    "version": {
+      "type": "number",
+      "minimum": 0,
+      "description": "Schema version"
+    }
+  },
+  "additionalProperties": false
+}

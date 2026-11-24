@@ -1,0 +1,32 @@
+{
+  "resourceId": "INT-SHR-009",
+  "question": "Describe a situation where you had to meet a tight deadline. How did you manage it?",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Any Professional"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "HR/Behavioural",
+  "description": "Assesses time management and prioritisation.",
+  "purposeOfQuestion": "Interviewer evaluates ability to deliver under pressure.",
+  "competencyAssessed": "Time management and prioritisation",
+  "answerFramework": "STAR (Situation, Task, Action, Result)",
+  "exampleAnswer": "Our client requested a feature change two days before a scheduled release. Situation: we had committed to the original scope. I analysed the request, identified the minimum viable changes, and negotiated a phased delivery with the client. I worked with the team to prioritise the critical items and deferred non-essential features. Result: we delivered the essential changes on time and completed the rest in the following sprint.",
+  "weakAnswerPitfalls": [
+    "No prioritisation mentioned",
+    "Working excessive hours without strategy",
+    "No communication with stakeholders",
+    "Vague about what was delivered"
+  ],
+  "evaluationCriteria": "Prioritisation logic, communication, realistic scope, outcome",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How do you prioritise when everything is urgent?",
+    "What tools do you use for time management?",
+    "How do you communicate delays to stakeholders?"
+  ],
+  "researchReferences": [],
+  "pilot": false,
+  "module": "Module-04",
+  "intendedUser": "Working professional preparing for interviews"
+}

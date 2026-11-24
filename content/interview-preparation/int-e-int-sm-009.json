@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-SM-009",
+  "question": "What is the difference between SEO and SEM?",
+  "module": "Module-04",
+  "careerTrack": "Track-E",
+  "relevantJobRoles": [
+    "Digital Marketing",
+    "Marketing Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-E with early-career experience",
+  "description": "Technical interview question for Track-E professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's digital marketing skills.",
+  "competencyAssessed": "Digital marketing",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "SEO (Search Engine Optimization) improves organic search rankings through content and technical optimization. SEM (Search Engine Marketing) uses paid ads for immediate visibility. In my project, I used SEO for long-term traffic growth and SEM for quick campaign results. Both complement each other.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, digital marketing, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-E role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

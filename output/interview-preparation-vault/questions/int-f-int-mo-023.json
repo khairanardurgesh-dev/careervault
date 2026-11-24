@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-MO-023",
+  "question": "Describe your experience with vendor management.",
+  "module": "Module-04",
+  "careerTrack": "Track-F",
+  "relevantJobRoles": [
+    "Operations Manager",
+    "Business Operations"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-F with early-career experience",
+  "description": "Behavioural interview question for Track-F professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's vendor management skills.",
+  "competencyAssessed": "Vendor management",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I managed 5 key vendors. I established SLAs, conducted quarterly reviews, and renegotiated contracts annually. In one case, I switched to a more reliable vendor after repeated SLA breaches. Result: service quality improved by 25% and costs reduced by 10%.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, vendor management, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-F role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-SM-021",
+  "question": "What is the difference between a lead and a prospect?",
+  "module": "Module-04",
+  "careerTrack": "Track-E",
+  "relevantJobRoles": [
+    "Sales",
+    "Business Development"
+  ],
+  "experienceLevel": "entry",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-E with entry experience",
+  "description": "Technical interview question for Track-E professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's sales terminology skills.",
+  "competencyAssessed": "Sales terminology",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "A lead is a potential customer who has shown interest. A prospect is a qualified lead that meets your criteria. In my process, I qualify leads using BANT. Once qualified, they become prospects and enter the active sales pipeline.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, sales terminology, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-E role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

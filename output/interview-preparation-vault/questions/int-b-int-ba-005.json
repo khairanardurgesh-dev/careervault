@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-BA-005",
+  "question": "How do you handle conflicting requirements from different stakeholders?",
+  "module": "Module-04",
+  "careerTrack": "Track-B",
+  "relevantJobRoles": [
+    "Business Analyst",
+    "Business Operations Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-B with early-career experience",
+  "description": "Behavioural interview question for Track-B professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's conflict resolution skills.",
+  "competencyAssessed": "Conflict resolution",
+  "answerFramework": "STAR",
+  "exampleAnswer": "Two departments wanted different report formats. Situation: deadline was tight. I facilitated a joint session, identified common needs, and proposed a configurable report. Both departments agreed. Result: single solution satisfied both, reducing development effort by 50%.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, conflict resolution, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-B role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

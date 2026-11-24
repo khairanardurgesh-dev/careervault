@@ -1,0 +1,34 @@
+{
+  "resourceId": "INT-SM-017",
+  "question": "Describe your experience with CRM tools.",
+  "module": "Module-04",
+  "careerTrack": "Track-E",
+  "relevantJobRoles": [
+    "Sales",
+    "Business Development",
+    "Account Manager"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-E with early-career experience",
+  "description": "Behavioural interview question for Track-E professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's tools skills.",
+  "competencyAssessed": "Tools",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I use Salesforce and HubSpot. In my role, I managed 200+ leads, tracked pipeline stages, and forecasted revenue. I also set up automated follow-up sequences and dashboards. This improved my team's visibility and reduced manual data entry by 50%.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, tools, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-E role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

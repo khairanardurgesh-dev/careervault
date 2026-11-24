@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-BA-017",
+  "question": "What is a data dictionary and why is it important?",
+  "module": "Module-04",
+  "careerTrack": "Track-B",
+  "relevantJobRoles": [
+    "Business Analyst",
+    "Data Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-B with early-career experience",
+  "description": "Technical interview question for Track-B professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's data management skills.",
+  "competencyAssessed": "Data management",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "A data dictionary defines data elements, types, and relationships. In my project, I created a data dictionary for the customer database with 50+ fields. It ensured consistent data entry, reduced errors, and served as a reference for developers and analysts.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, data management, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-B role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

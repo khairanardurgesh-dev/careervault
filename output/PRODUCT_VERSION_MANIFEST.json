@@ -1,0 +1,80 @@
+{
+  "product_name": "CareerVault Complete Job Switch System",
+  "brand": "CareerVault",
+  "product_version": "1.0.0",
+  "release_date": "2026-11-24",
+  "currency": "INR",
+  "price_in_paise": 399900,
+  "modules": [
+    {
+      "id": "01",
+      "name": "Resume Mastery System",
+      "version": "1.0.0",
+      "folder": "01_Resume_Mastery",
+      "source_folder": "resume-mastery-system",
+      "file_count": 37
+    },
+    {
+      "id": "02",
+      "name": "Professional Profile Optimisation System",
+      "version": "1.0.0",
+      "folder": "02_Professional_Profile_Optimisation",
+      "source_folder": "professional-profile-optimisation-system",
+      "file_count": 24
+    },
+    {
+      "id": "03",
+      "name": "Job Search Operating System",
+      "version": "1.0.0",
+      "folder": "03_Job_Search_Operating_System",
+      "source_folder": "job-search-operating-system",
+      "file_count": 19
+    },
+    {
+      "id": "04",
+      "name": "Interview Preparation Vault",
+      "version": "1.0.0",
+      "folder": "04_Interview_Preparation_Vault",
+      "source_folder": "interview-preparation-vault",
+      "file_count": 213
+    },
+    {
+      "id": "05",
+      "name": "Salary & Offer Negotiation System",
+      "version": "1.0.0",
+      "folder": "05_Salary_and_Offer_Negotiation",
+      "source_folder": "salary-and-offer-negotiation-system",
+      "file_count": 20
+    },
+    {
+      "id": "06",
+      "name": "AI Career Assistant Toolkit",
+      "version": "1.0.0",
+      "folder": "06_AI_Career_Assistant_Toolkit",
+      "source_folder": "ai-career-assistant-toolkit",
+      "file_count": 27
+    },
+    {
+      "id": "07",
+      "name": "90-Day Job Switch Programme",
+      "version": "1.0.0",
+      "folder": "07_90_Day_Job_Switch_Programme",
+      "source_folder": "90-day-job-switch-programme",
+      "file_count": 22
+    },
+    {
+      "id": "08",
+      "name": "Career Advancement Toolkit",
+      "version": "1.0.0",
+      "folder": "08_Career_Advancement_Toolkit",
+      "source_folder": "career-advancement-toolkit",
+      "file_count": 27
+    }
+  ],
+  "total_files": 389,
+  "checksums": {
+    "CAREERVAULT_START_HERE.pdf": "13bd98bcf161c4656f62bec22da1bd296ef5eaf87a82ac7f7760fcea1ff2846e",
+    "CareerVault_Complete_Job_Switch_System_v1.0.zip": "1c31e7f1c585c5536ab7f970b86555e14c001ff2460bd3284d414f8c8cbcab2e"
+  },
+  "release_status": "final"
+}

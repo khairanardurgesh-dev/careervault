@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-PM-011",
+  "question": "How do you handle a situation where the engineering team says a feature is too complex?",
+  "module": "Module-04",
+  "careerTrack": "Track-C",
+  "relevantJobRoles": [
+    "Product Manager",
+    "Associate Product Manager"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-C with early-career experience",
+  "description": "Behavioural interview question for Track-C professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's collaboration skills.",
+  "competencyAssessed": "Collaboration",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I ask for specifics: what makes it complex? Can we simplify? I work with engineering to break it into smaller pieces. In one case, we split a 3-sprint feature into 3 smaller features, delivering value incrementally over 6 weeks instead of waiting for the full feature.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, collaboration, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-C role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

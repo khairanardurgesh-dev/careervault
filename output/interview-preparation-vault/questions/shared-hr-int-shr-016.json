@@ -1,0 +1,32 @@
+{
+  "resourceId": "INT-SHR-016",
+  "question": "How do you handle stress and pressure?",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Any Professional"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "HR/Behavioural",
+  "description": "Assesses resilience and coping strategies.",
+  "purposeOfQuestion": "Interviewer evaluates ability to perform under pressure.",
+  "competencyAssessed": "Resilience and stress management",
+  "answerFramework": "Stressor-Strategy-Outcome framework",
+  "exampleAnswer": "I handle stress by breaking large challenges into smaller, manageable tasks and maintaining open communication with my team. During a critical production incident last year, I focused on immediate containment, delegated investigation tasks, and kept stakeholders informed every 30 minutes. After resolution, I led a post-mortem to prevent recurrence. This structured approach helps me stay calm and effective.",
+  "weakAnswerPitfalls": [
+    "Claiming to never feel stress",
+    "No coping strategy mentioned",
+    "Unhealthy habits (overworking, isolation)",
+    "No example of pressure situation"
+  ],
+  "evaluationCriteria": "Healthy coping strategies, concrete example, professional delivery",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "What is the most stressful situation you've faced?",
+    "How do you prevent burnout?",
+    "How do you support team members under stress?"
+  ],
+  "researchReferences": [],
+  "pilot": false,
+  "module": "Module-04",
+  "intendedUser": "Working professional preparing for interviews"
+}

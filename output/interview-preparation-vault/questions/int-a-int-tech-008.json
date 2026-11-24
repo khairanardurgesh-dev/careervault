@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-TECH-008",
+  "question": "How do you handle a situation where your code breaks in production?",
+  "module": "Module-04",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Software Engineer",
+    "Developer"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-A with early-career experience",
+  "description": "Behavioural interview question for Track-A professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's incident response skills.",
+  "competencyAssessed": "Incident response",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I once pushed a change that caused a 500 error on the login page. Situation: users couldn't log in. I immediately rolled back the deployment, communicated with the team via Slack, and investigated. Root cause: a missing environment variable. I added it and redeployed. Result: service restored in 15 minutes. I then added a pre-deployment checklist.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, incident response, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-A role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

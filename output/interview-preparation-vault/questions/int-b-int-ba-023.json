@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-BA-023",
+  "question": "What is a gap analysis and how do you conduct one?",
+  "module": "Module-04",
+  "careerTrack": "Track-B",
+  "relevantJobRoles": [
+    "Business Analyst",
+    "Process Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-B with early-career experience",
+  "description": "Technical interview question for Track-B professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's analysis skills.",
+  "competencyAssessed": "Analysis",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "Gap analysis compares current state to desired future state. In my project, I analysed our current order process (5 days, 8% error rate) against industry benchmarks (2 days, 2% error rate). I identified 4 gaps and proposed solutions for each, prioritized by ROI.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, analysis, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-B role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-BA-006",
+  "question": "Explain the difference between functional and non-functional requirements.",
+  "module": "Module-04",
+  "careerTrack": "Track-B",
+  "relevantJobRoles": [
+    "Business Analyst",
+    "Associate Business Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-B with early-career experience",
+  "description": "Technical interview question for Track-B professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's requirements classification skills.",
+  "competencyAssessed": "Requirements classification",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "Functional requirements describe what the system does (e.g., 'user can reset password'). Non-functional describe how it performs (e.g., 'password reset completes in under 3 seconds'). In my project, I categorized all requirements into both types to ensure complete coverage.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, requirements classification, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-B role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

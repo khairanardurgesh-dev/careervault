@@ -1,0 +1,32 @@
+{
+  "resourceId": "INT-SHR-011",
+  "question": "Describe a time you had to learn something new quickly. How did you approach it?",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Any Professional"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "HR/Behavioural",
+  "description": "Assesses learning agility and resourcefulness.",
+  "purposeOfQuestion": "Interviewer evaluates ability to adapt to new technologies or domains.",
+  "competencyAssessed": "Learning agility",
+  "answerFramework": "STAR (Situation, Task, Action, Result)",
+  "exampleAnswer": "I was asked to integrate a payment gateway I had never used before, with a two-week deadline. Situation: I had no prior experience with payment APIs. I started with the official documentation, then built a small prototype to understand the flow. I consulted a colleague who had integrated a similar gateway. Result: I completed the integration in 10 days with full test coverage and zero production issues.",
+  "weakAnswerPitfalls": [
+    "No structured learning approach",
+    "Over-reliance on others without personal effort",
+    "Vague about what was learned",
+    "No application of learning"
+  ],
+  "evaluationCriteria": "Resourcefulness, structured approach, application, outcome",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "What resources do you use to learn new skills?",
+    "How do you balance learning with delivery?",
+    "What is something you learned recently?"
+  ],
+  "researchReferences": [],
+  "pilot": false,
+  "module": "Module-04",
+  "intendedUser": "Working professional preparing for interviews"
+}

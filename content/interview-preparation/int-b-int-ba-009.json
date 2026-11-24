@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-BA-009",
+  "question": "How do you validate requirements before development begins?",
+  "module": "Module-04",
+  "careerTrack": "Track-B",
+  "relevantJobRoles": [
+    "Business Analyst",
+    "Associate Business Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-B with early-career experience",
+  "description": "Behavioural interview question for Track-B professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's requirements validation skills.",
+  "competencyAssessed": "Requirements validation",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I use review sessions, prototype testing, and traceability matrices. In my project, I created a requirements traceability matrix linking each requirement to test cases. This caught 5 gaps before development started, saving 2 weeks of rework.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, requirements validation, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-B role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

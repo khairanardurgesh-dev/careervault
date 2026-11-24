@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-PM-030",
+  "question": "What is the most important skill for a product manager?",
+  "module": "Module-04",
+  "careerTrack": "Track-C",
+  "relevantJobRoles": [
+    "Product Manager",
+    "Associate Product Manager"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-C with early-career experience",
+  "description": "Behavioural interview question for Track-C professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's self-reflection skills.",
+  "competencyAssessed": "Self-reflection",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I believe empathy is most important. Understanding user needs, team challenges, and stakeholder concerns allows you to make better decisions. In my experience, the best PMs I've worked with all excelled at listening and understanding before proposing solutions.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, self-reflection, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-C role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

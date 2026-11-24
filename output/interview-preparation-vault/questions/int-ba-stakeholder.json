@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-Q002",
+  "question": "Describe a situation where you had to analyse a complex problem and present a solution to stakeholders.",
+  "module": "Module-04",
+  "careerTrack": "Track-B",
+  "relevantJobRoles": [
+    "Business Analyst",
+    "Associate Business Analyst",
+    "Process Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "intendedUser": "Business professional with 1-3 years of experience",
+  "description": "Behavioural question assessing analytical skills and stakeholder communication.",
+  "purposeOfQuestion": "The interviewer evaluates the candidate's ability to break down complex issues, gather requirements, and communicate technical findings to non-technical audiences.",
+  "competencyAssessed": "Analytical thinking and communication",
+  "answerFramework": "CAR (Context, Action, Result)",
+  "exampleAnswer": "At my internship, I was tasked with reducing monthly report generation time from 3 days to under 24 hours. I Context: the team manually consolidated data from three different systems. I analysed the workflow, identified redundant data pulls, and automated the extraction using Python scripts. Result: report generation time reduced to 4 hours, enabling weekly reviews instead of monthly.",
+  "weakAnswerPitfalls": [
+    "Focusing on technical details without stakeholder relevance",
+    "Using jargon without explanation",
+    "Claiming team success as individual achievement without context",
+    "No measurable outcome"
+  ],
+  "evaluationCriteria": "Problem decomposition clarity, solution feasibility, communication effectiveness, measurability of results",
+  "difficulty": "medium",
+  "relevantCareerTracks": [
+    "Track-B"
+  ],
+  "creationDate": "2026-11-24",
+  "reviewStatus": "draft",
+  "version": 1.0,
+  "pilot": true
+}

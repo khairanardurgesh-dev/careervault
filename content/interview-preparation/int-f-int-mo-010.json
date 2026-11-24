@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-MO-010",
+  "question": "How do you handle a situation where two team members have a conflict?",
+  "module": "Module-04",
+  "careerTrack": "Track-F",
+  "relevantJobRoles": [
+    "Operations Manager",
+    "HR and people operations"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-F with early-career experience",
+  "description": "Behavioural interview question for Track-F professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's conflict resolution skills.",
+  "competencyAssessed": "Conflict resolution",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I mediate privately. When two analysts disagreed on data interpretation, I brought them together, established ground rules, and facilitated a discussion. We focused on the data, not personalities. Result: they reached consensus and improved their working relationship.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, conflict resolution, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-F role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

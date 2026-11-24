@@ -1,0 +1,34 @@
+{
+  "resourceId": "INT-SM-013",
+  "question": "How do you build and maintain customer relationships?",
+  "module": "Module-04",
+  "careerTrack": "Track-E",
+  "relevantJobRoles": [
+    "Sales",
+    "Account Manager",
+    "Customer Success"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-E with early-career experience",
+  "description": "Behavioural interview question for Track-E professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's relationship management skills.",
+  "competencyAssessed": "Relationship management",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I use regular check-ins, personalized communication, and proactive problem-solving. In my role, I managed 15 enterprise accounts. I scheduled quarterly business reviews, shared industry insights, and resolved issues within 24 hours. Result: 95% retention rate and 3 upsells.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, relationship management, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-E role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

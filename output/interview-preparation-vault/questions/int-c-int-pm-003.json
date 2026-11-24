@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-PM-003",
+  "question": "Describe a time you had to make a trade-off between scope and timeline.",
+  "module": "Module-04",
+  "careerTrack": "Track-C",
+  "relevantJobRoles": [
+    "Product Manager",
+    "Associate Product Manager"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-C with early-career experience",
+  "description": "Behavioural interview question for Track-C professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's trade-off management skills.",
+  "competencyAssessed": "Trade-off management",
+  "answerFramework": "STAR",
+  "exampleAnswer": "We had 6 weeks to launch a new feature. Situation: scope was too large. I worked with stakeholders to identify the MVP: core functionality only. We deferred 3 nice-to-have features. Result: launched on time, gathered user feedback, and added deferred features in v2.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, trade-off management, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-C role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

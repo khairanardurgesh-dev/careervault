@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-TECH-012",
+  "question": "How do you approach testing in your development workflow?",
+  "module": "Module-04",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Software Engineer",
+    "Developer"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-A with early-career experience",
+  "description": "Behavioural interview question for Track-A professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's testing skills.",
+  "competencyAssessed": "Testing",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I write unit tests for business logic, integration tests for API endpoints, and end-to-end tests for critical user flows. In my last project, I increased coverage from 30% to 75% by adding tests for edge cases. I use Jest for unit tests and Cypress for E2E. Tests run in CI before every merge.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, testing, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-A role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

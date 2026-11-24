@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-FIN-006",
+  "question": "How do you approach budgeting and forecasting?",
+  "module": "Module-04",
+  "careerTrack": "Track-D",
+  "relevantJobRoles": [
+    "Financial Analyst",
+    "FP&A Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-D with early-career experience",
+  "description": "Behavioural interview question for Track-D professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's budgeting skills.",
+  "competencyAssessed": "Budgeting",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I use a rolling 12-month forecast updated monthly. I gather inputs from department heads, apply historical trends, and adjust for known changes. In my last project, I created a variance analysis template that reduced budget preparation time by 40% and improved accuracy by 15%.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, budgeting, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-D role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

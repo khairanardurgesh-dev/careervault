@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-FIN-018",
+  "question": "How do you handle a situation where you disagree with a manager's financial decision?",
+  "module": "Module-04",
+  "careerTrack": "Track-D",
+  "relevantJobRoles": [
+    "Financial Analyst",
+    "FP&A Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-D with early-career experience",
+  "description": "Behavioural interview question for Track-D professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's professional communication skills.",
+  "competencyAssessed": "Professional communication",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I present data-driven alternatives. When my manager wanted to cut training budget, I showed ROI analysis: training reduced errors by 30%, saving INR 2 lakhs annually. I proposed a phased approach. They appreciated the data and agreed to a 50% reduction instead of 100%.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, professional communication, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-D role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

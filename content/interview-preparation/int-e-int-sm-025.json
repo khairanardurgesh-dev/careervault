@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-SM-025",
+  "question": "Describe a time you had to manage a marketing budget.",
+  "module": "Module-04",
+  "careerTrack": "Track-E",
+  "relevantJobRoles": [
+    "Digital Marketing",
+    "Marketing Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-E with early-career experience",
+  "description": "Behavioural interview question for Track-E professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's budget management skills.",
+  "competencyAssessed": "Budget management",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I managed a INR 10 lakh quarterly budget. Situation: needed to allocate across 5 channels. I used historical ROI data to allocate: 40% to highest-ROI channel, 20% to testing. Result: overall ROI improved by 25% and we stayed within budget.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, budget management, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-E role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

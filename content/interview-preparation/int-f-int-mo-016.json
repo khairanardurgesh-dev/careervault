@@ -1,0 +1,34 @@
+{
+  "resourceId": "INT-MO-016",
+  "question": "How do you ensure compliance with regulations in your operations?",
+  "module": "Module-04",
+  "careerTrack": "Track-F",
+  "relevantJobRoles": [
+    "Operations Manager",
+    "HR and people operations",
+    "Business Operations"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-F with early-career experience",
+  "description": "Behavioural interview question for Track-F professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's compliance skills.",
+  "competencyAssessed": "Compliance",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I create compliance checklists and conduct regular audits. In my role, I ensured GDPR compliance for customer data by implementing access controls, data retention policies, and audit logs. I also trained the team on compliance requirements. Result: zero compliance violations in 2 years.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, compliance, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-F role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

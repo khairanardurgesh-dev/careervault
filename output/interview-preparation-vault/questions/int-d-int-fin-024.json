@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-FIN-024",
+  "question": "Describe a time you had to work with incomplete or inaccurate data.",
+  "module": "Module-04",
+  "careerTrack": "Track-D",
+  "relevantJobRoles": [
+    "Financial Analyst",
+    "Accounts Associate"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-D with early-career experience",
+  "description": "Behavioural interview question for Track-D professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's data quality skills.",
+  "competencyAssessed": "Data quality",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I received vendor invoices with missing GST numbers. Situation: month-end close. I contacted vendors for corrected invoices, created a temporary entry with a reconciliation note, and followed up for proper documentation. Result: closed on time, all invoices corrected by next month.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, data quality, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-D role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

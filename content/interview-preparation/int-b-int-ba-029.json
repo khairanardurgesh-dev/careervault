@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-BA-029",
+  "question": "What is the difference between Agile and Waterfall?",
+  "module": "Module-04",
+  "careerTrack": "Track-B",
+  "relevantJobRoles": [
+    "Business Analyst",
+    "Associate Business Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-B with early-career experience",
+  "description": "Technical interview question for Track-B professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's methodologies skills.",
+  "competencyAssessed": "Methodologies",
+  "answerFramework": "Comparison framework",
+  "exampleAnswer": "Waterfall is sequential with fixed requirements; Agile is iterative with evolving requirements. In my experience, I used Waterfall for a regulatory compliance project (fixed scope) and Agile for a customer-facing app (evolving needs). Agile allows faster feedback; Waterfall provides clearer documentation.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, methodologies, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-B role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

@@ -1,0 +1,81 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Interview Answer Framework Schema",
+  "type": "object",
+  "required": ["resourceId", "title", "module", "careerTrack", "relevantJobRoles", "experienceLevel", "intendedUser", "description", "frameworkName", "frameworkStructure", "exampleUsage", "creationDate", "reviewStatus", "version"],
+  "type": "object",
+  "properties": {
+    "resourceId": {
+      "type": "string",
+      "pattern": "^INT-FRAMEWORK-\\d{3}$",
+      "description": "Unique resource identifier in format FRW-XXX"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 3,
+      "description": "Framework title"
+    },
+    "module": {
+      "type": "string",
+      "enum": ["Module-01", "Module-02", "Module-03", "Module-04", "Module-05", "Module-06", "Module-07", "Module-08"],
+      "description": "Assigned module"
+    },
+    "careerTrack": {
+      "type": "string",
+      "enum": ["Track-A", "Track-B", "Track-C", "Track-D", "Track-E", "Track-F"],
+      "description": "Target career track"
+    },
+    "relevantJobRoles": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "Job roles this framework applies to"
+    },
+    "experienceLevel": {
+      "type": "string",
+      "enum": ["entry", "early-career", "mid-career"],
+      "description": "Target experience level"
+    },
+    "intendedUser": {
+      "type": "string",
+      "description": "Description of target user"
+    },
+    "description": {
+      "type": "string",
+      "minLength": 10,
+      "description": "Framework description"
+    },
+    "frameworkName": {
+      "type": "string",
+      "description": "Name of the framework (e.g. STAR, CAR, PAR)"
+    },
+    "frameworkStructure": {
+      "type": "string",
+      "description": "Detailed structure of the framework"
+    },
+    "exampleUsage": {
+      "type": "string",
+      "description": "Example of framework in use"
+    },
+    "creationDate": {
+      "type": "string",
+      "format": "date",
+      "description": "Date resource was created"
+    },
+    "lastReviewedDate": {
+      "type": "string",
+      "format": "date",
+      "description": "Date resource was last reviewed"
+    },
+    "reviewStatus": {
+      "type": "string",
+      "enum": ["draft", "reviewed", "approved"],
+      "description": "Current review status"
+    },
+    "version": {
+      "type": "number",
+      "minimum": 0,
+      "description": "Schema version"
+    }
+  },
+  "additionalProperties": false
+}

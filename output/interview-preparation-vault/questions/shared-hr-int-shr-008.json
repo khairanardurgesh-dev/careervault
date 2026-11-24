@@ -1,0 +1,32 @@
+{
+  "resourceId": "INT-SHR-008",
+  "question": "Tell me about a time you made a mistake at work. How did you handle it?",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Any Professional"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "HR/Behavioural",
+  "description": "Tests accountability and learning from failure.",
+  "purposeOfQuestion": "Interviewer evaluates honesty and growth mindset.",
+  "competencyAssessed": "Accountability and learning",
+  "answerFramework": "STAR (Situation, Task, Action, Result)",
+  "exampleAnswer": "I accidentally deployed a code change without running the full test suite, causing a minor outage. Situation: the client reported issues within 30 minutes. I immediately rolled back the deployment, communicated with the team, and wrote a post-mortem. Action: I implemented a pre-deployment checklist and added automated test gates. Result: no similar incidents in the following 6 months.",
+  "weakAnswerPitfalls": [
+    "Choosing a trivial mistake",
+    "Blaming others or circumstances",
+    "No preventive measures",
+    "Over-explaining without resolution"
+  ],
+  "evaluationCriteria": "Honesty, accountability, corrective action, preventive follow-through",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How do you ensure you don't repeat mistakes?",
+    "What systems do you use to prevent errors?",
+    "How do you handle feedback on mistakes?"
+  ],
+  "researchReferences": [],
+  "pilot": false,
+  "module": "Module-04",
+  "intendedUser": "Working professional preparing for interviews"
+}

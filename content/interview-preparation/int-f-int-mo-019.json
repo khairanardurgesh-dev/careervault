@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-MO-019",
+  "question": "How do you handle a situation where resources are limited?",
+  "module": "Module-04",
+  "careerTrack": "Track-F",
+  "relevantJobRoles": [
+    "Operations Manager",
+    "Business Operations"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-F with early-career experience",
+  "description": "Behavioural interview question for Track-F professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's resource management skills.",
+  "competencyAssessed": "Resource management",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I prioritize by impact and ROI. When budget was cut by 20%, I analysed all expenses, eliminated non-essential spending, and renegotiated vendor contracts. Result: we maintained service quality while reducing costs by 15%. I also communicated transparently with the team about the changes.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, resource management, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-F role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

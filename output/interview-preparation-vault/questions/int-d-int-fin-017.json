@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-FIN-017",
+  "question": "What is the difference between capital expenditure and revenue expenditure?",
+  "module": "Module-04",
+  "careerTrack": "Track-D",
+  "relevantJobRoles": [
+    "Financial Analyst",
+    "Accounts Associate"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-D with early-career experience",
+  "description": "Technical interview question for Track-D professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's expenditure skills.",
+  "competencyAssessed": "Expenditure",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "Capital expenditure (CapEx) creates long-term assets (e.g., buying equipment). Revenue expenditure (RevEx) is for day-to-day operations (e.g., salaries, utilities). In my project, I correctly classified INR 5 lakhs of software licenses as CapEx (multi-year benefit) rather than RevEx.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, expenditure, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-D role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-MO-013",
+  "question": "How do you manage a budget for your department?",
+  "module": "Module-04",
+  "careerTrack": "Track-F",
+  "relevantJobRoles": [
+    "Operations Manager",
+    "Business Operations"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-F with early-career experience",
+  "description": "Behavioural interview question for Track-F professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's budget management skills.",
+  "competencyAssessed": "Budget management",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I create an annual budget based on historical data and projected needs. I track monthly variances and adjust. In my role, I managed a INR 50 lakh budget. I identified 10% savings through vendor renegotiation and process automation, which I reinvested in team training.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, budget management, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-F role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

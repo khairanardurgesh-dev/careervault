@@ -1,0 +1,34 @@
+{
+  "resourceId": "INT-PM-028",
+  "question": "Describe your experience with customer journey mapping.",
+  "module": "Module-04",
+  "careerTrack": "Track-C",
+  "relevantJobRoles": [
+    "Product Manager",
+    "Associate Product Manager",
+    "Product Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-C with early-career experience",
+  "description": "Behavioural interview question for Track-C professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's user experience skills.",
+  "competencyAssessed": "User experience",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I created a customer journey map for our onboarding flow. I identified 5 stages: awareness, signup, activation, engagement, advocacy. At each stage, I noted user actions, emotions, and pain points. This revealed 3 friction points I hadn't seen before, which I prioritized in the roadmap.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, user experience, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-C role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

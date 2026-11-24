@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-TECH-007",
+  "question": "What is the difference between synchronous and asynchronous programming?",
+  "module": "Module-04",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Software Engineer",
+    "Developer"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-A with early-career experience",
+  "description": "Technical interview question for Track-A professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's concurrency skills.",
+  "competencyAssessed": "Concurrency",
+  "answerFramework": "Comparison framework",
+  "exampleAnswer": "Synchronous code blocks until completion; asynchronous code continues execution. In my project, I used async/await for API calls to avoid blocking the main thread. Synchronous is simpler for sequential tasks; asynchronous is essential for I/O-bound operations like network requests or file reads.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, concurrency, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-A role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

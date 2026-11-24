@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-SM-030",
+  "question": "What is the most important metric for a sales team?",
+  "module": "Module-04",
+  "careerTrack": "Track-E",
+  "relevantJobRoles": [
+    "Sales",
+    "Business Development"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-E with early-career experience",
+  "description": "Behavioural interview question for Track-E professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's sales metrics skills.",
+  "competencyAssessed": "Sales metrics",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I believe conversion rate is most important because it measures efficiency. In my team, we tracked: leads generated, conversion rate, average deal size, and sales cycle. By focusing on conversion rate, we improved from 15% to 25% in 6 months without increasing lead volume.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, sales metrics, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-E role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-FIN-021",
+  "question": "What is the difference between a balance sheet and an income statement?",
+  "module": "Module-04",
+  "careerTrack": "Track-D",
+  "relevantJobRoles": [
+    "Financial Analyst",
+    "Accounts Associate"
+  ],
+  "experienceLevel": "entry",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-D with entry experience",
+  "description": "Technical interview question for Track-D professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's financial statements skills.",
+  "competencyAssessed": "Financial statements",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "Balance sheet shows assets, liabilities, and equity at a point in time. Income statement shows revenue and expenses over a period. In my analysis, I use the balance sheet to assess financial health and the income statement to assess profitability. Both are needed for a complete picture.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, financial statements, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-D role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

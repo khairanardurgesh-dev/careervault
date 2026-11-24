@@ -1,0 +1,161 @@
+{
+  "productName": "CareerVault Complete Job Switch System",
+  "targetPriceINR": 3999,
+  "modules": [
+    {
+      "id": "Module-01",
+      "name": "Resume Mastery System",
+      "description": "ATS optimisation, 15 editable resume templates, achievement-writing frameworks, before-and-after examples, role-specific guidance",
+      "totalResources": 0,
+      "pilotResources": [
+        "RES-EX001",
+        "RES-EX002",
+        "RES-EX003"
+      ]
+    },
+    {
+      "id": "Module-02",
+      "name": "Professional Profile Optimisation",
+      "description": "LinkedIn and Naukri optimisation, headlines, summaries, experience templates, recruiter visibility checklist, portfolio and branding",
+      "totalResources": 0,
+      "pilotResources": []
+    },
+    {
+      "id": "Module-03",
+      "name": "Job Search Operating System",
+      "description": "Excel application tracker, company research worksheet, recruiter outreach templates, referral requests, weekly planner, job description analysis",
+      "totalResources": 0,
+      "pilotResources": [
+        "REC-MSG001",
+        "REC-MSG002",
+        "REC-MSG003"
+      ]
+    },
+    {
+      "id": "Module-04",
+      "name": "Interview Preparation Vault",
+      "description": "Interview questions and answer frameworks, behavioural and HR preparation, STAR workbook, role-specific questions, mock interview scenarios, evaluation scorecards",
+      "totalResources": 0,
+      "pilotResources": [
+        "INT-Q001",
+        "INT-Q002",
+        "INT-Q003",
+        "INT-Q004",
+        "INT-Q005",
+        "INT-Q006"
+      ]
+    },
+    {
+      "id": "Module-05",
+      "name": "Salary and Offer Negotiation System",
+      "description": "Negotiation scripts, email templates, CTC versus take-home salary calculator, offer comparison spreadsheet, counteroffer decision framework, resignation communication",
+      "totalResources": 0,
+      "pilotResources": [
+        "SAL-NEG-001"
+      ]
+    },
+    {
+      "id": "Module-06",
+      "name": "AI Career Assistant Toolkit",
+      "description": "100 tested prompts, resume improvement workflows, job description matching, interview practice, recruiter communication, career research workflows",
+      "totalResources": 0,
+      "pilotResources": []
+    },
+    {
+      "id": "Module-07",
+      "name": "90-Day Job Switch Programme",
+      "description": "Career assessment, skills-gap analysis, 30/60/90-day roadmap, weekly milestones, progress tracking, application and interview planning",
+      "totalResources": 0,
+      "pilotResources": [
+        "ROADMAP-001"
+      ]
+    },
+    {
+      "id": "Module-08",
+      "name": "Career Advancement Toolkit",
+      "description": "Portfolio and project presentation, professional communication, networking frameworks, skills development, role-transition planning, first 90 days in a new job",
+      "totalResources": 0,
+      "pilotResources": []
+    }
+  ],
+  "careerTracks": [
+    {
+      "id": "Track-A",
+      "name": "Technology and IT",
+      "description": "Software engineering, QA and testing, Cloud and DevOps, Data roles, IT support, Technical operations",
+      "relevantModules": ["Module-01", "Module-02", "Module-03", "Module-04", "Module-05", "Module-06", "Module-07", "Module-08"],
+      "pilotResources": [
+        "INT-Q001",
+        "RES-EX001"
+      ]
+    },
+    {
+      "id": "Track-B",
+      "name": "Business Analysis",
+      "description": "Business Analyst, Associate Business Analyst, Process Analyst, Business Operations Analyst",
+      "relevantModules": ["Module-01", "Module-02", "Module-03", "Module-04", "Module-05", "Module-06", "Module-07", "Module-08"],
+      "pilotResources": [
+        "INT-Q002",
+        "RES-EX002"
+      ]
+    },
+    {
+      "id": "Track-C",
+      "name": "Product and Project Management",
+      "description": "Product Analyst, Associate Product Manager, Product Manager, Project Coordinator, Project Manager",
+      "relevantModules": ["Module-01", "Module-02", "Module-03", "Module-04", "Module-05", "Module-06", "Module-07", "Module-08"],
+      "pilotResources": [
+        "INT-Q003"
+      ]
+    },
+    {
+      "id": "Track-D",
+      "name": "Finance",
+      "description": "Financial Analyst, Accounts and finance operations, FP&A, Reporting and analysis",
+      "relevantModules": ["Module-01", "Module-02", "Module-03", "Module-04", "Module-05", "Module-06", "Module-07", "Module-08"],
+      "pilotResources": [
+        "INT-Q004",
+        "RES-EX003"
+      ]
+    },
+    {
+      "id": "Track-E",
+      "name": "Sales and Marketing",
+      "description": "Business Development, Sales, Digital Marketing, Marketing Analyst, Account Management",
+      "relevantModules": ["Module-01", "Module-02", "Module-03", "Module-04", "Module-05", "Module-06", "Module-07", "Module-08"],
+      "pilotResources": [
+        "INT-Q005"
+      ]
+    },
+    {
+      "id": "Track-F",
+      "name": "Management and Operations",
+      "description": "Operations Analyst, Operations Manager, HR and people operations, Business Operations",
+      "relevantModules": ["Module-01", "Module-02", "Module-03", "Module-04", "Module-05", "Module-06", "Module-07", "Module-08"],
+      "pilotResources": [
+        "INT-Q006"
+      ]
+    }
+  ],
+  "sharedTemplates": [
+    "recruiter-messages",
+    "interview-scorecards",
+    "trackers",
+    "assessments"
+  ],
+  "sharedSchemas": [
+    "resume-template-schema.json",
+    "resume-example-schema.json",
+    "interview-question-schema.json",
+    "interview-answer-framework-schema.json",
+    "recruiter-message-schema.json",
+    "salary-negotiation-schema.json",
+    "ai-prompt-schema.json",
+    "career-roadmap-schema.json",
+    "job-search-worksheet-schema.json",
+    "research-reference-schema.json"
+  ],
+  "pilotNote": "All pilot resources marked as PILOT - NOT FINAL COMMERCIAL RELEASE. This configuration supports incremental content addition without duplicating files.",
+  "creationDate": "2026-11-24",
+  "version": 1.0
+}

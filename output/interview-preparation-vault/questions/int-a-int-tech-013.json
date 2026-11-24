@@ -1,0 +1,34 @@
+{
+  "resourceId": "INT-TECH-013",
+  "question": "What is the difference between == and === in JavaScript?",
+  "module": "Module-04",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Software Engineer",
+    "Developer",
+    "Frontend Developer"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-A with early-career experience",
+  "description": "Technical interview question for Track-A professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's javascript skills.",
+  "competencyAssessed": "JavaScript",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "== performs type coercion before comparison; === checks both value and type. For example, '5' == 5 is true, but '5' === 5 is false. I always use === to avoid unexpected type coercion bugs. This is a common source of subtle bugs in JavaScript.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, javascript, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-A role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

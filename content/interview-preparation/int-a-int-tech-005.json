@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-TECH-005",
+  "question": "How do you ensure code quality in your projects?",
+  "module": "Module-04",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Software Engineer",
+    "Developer"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-A with early-career experience",
+  "description": "Behavioural interview question for Track-A professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's code quality skills.",
+  "competencyAssessed": "Code quality",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I ensure code quality through code reviews, automated testing, and linting. In my current role, I implemented pre-commit hooks for linting and established a minimum 70% test coverage requirement. I also participate in weekly code review sessions where we discuss best practices and refactor technical debt.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, code quality, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-A role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

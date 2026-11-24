@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-MO-014",
+  "question": "Describe a time you had to handle a difficult employee situation.",
+  "module": "Module-04",
+  "careerTrack": "Track-F",
+  "relevantJobRoles": [
+    "HR and people operations",
+    "Operations Manager"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-F with early-career experience",
+  "description": "Behavioural interview question for Track-F professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's hr management skills.",
+  "competencyAssessed": "HR management",
+  "answerFramework": "STAR",
+  "exampleAnswer": "An employee was consistently late and disengaged. Situation: affecting team morale. I had a private conversation, learned they were dealing with personal issues, and offered flexible hours temporarily. I also set clear expectations. Result: attendance improved, and they became a top performer.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, hr management, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-F role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

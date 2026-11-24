@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-BA-014",
+  "question": "What is the difference between a process and a procedure?",
+  "module": "Module-04",
+  "careerTrack": "Track-B",
+  "relevantJobRoles": [
+    "Business Analyst",
+    "Process Analyst"
+  ],
+  "experienceLevel": "entry",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-B with entry experience",
+  "description": "Technical interview question for Track-B professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's process documentation skills.",
+  "competencyAssessed": "Process documentation",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "A process is a high-level sequence of activities; a procedure is the detailed step-by-step instructions. In my project, 'Order Fulfilment' is a process; 'How to check stock levels in the warehouse system' is a procedure. I documented both to ensure clarity at all levels.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, process documentation, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-B role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

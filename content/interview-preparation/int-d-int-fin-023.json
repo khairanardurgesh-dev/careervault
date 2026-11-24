@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-FIN-023",
+  "question": "What is the difference between direct and indirect cash flow methods?",
+  "module": "Module-04",
+  "careerTrack": "Track-D",
+  "relevantJobRoles": [
+    "Financial Analyst",
+    "FP&A Analyst"
+  ],
+  "experienceLevel": "mid-career",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-D with mid-career experience",
+  "description": "Technical interview question for Track-D professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's cash flow methods skills.",
+  "competencyAssessed": "Cash flow methods",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "Direct method lists actual cash receipts and payments. Indirect method starts with net income and adjusts for non-cash items. Indirect is more common and easier to prepare. I've used both; indirect is standard for external reporting, direct provides better operational insight.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, cash flow methods, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-D role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

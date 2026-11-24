@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-MO-021",
+  "question": "What is the difference between a leader and a manager?",
+  "module": "Module-04",
+  "careerTrack": "Track-F",
+  "relevantJobRoles": [
+    "Operations Manager",
+    "HR and people operations"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-F with early-career experience",
+  "description": "Technical interview question for Track-F professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's leadership skills.",
+  "competencyAssessed": "Leadership",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "A manager focuses on processes, systems, and efficiency. A leader focuses on vision, inspiration, and people development. In my experience, I managed daily operations while also leading by example and mentoring junior team members. Both roles are essential.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, leadership, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-F role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

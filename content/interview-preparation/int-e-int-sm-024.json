@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-SM-024",
+  "question": "What is the difference between brand awareness and brand equity?",
+  "module": "Module-04",
+  "careerTrack": "Track-E",
+  "relevantJobRoles": [
+    "Digital Marketing",
+    "Marketing Analyst"
+  ],
+  "experienceLevel": "mid-career",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-E with mid-career experience",
+  "description": "Technical interview question for Track-E professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's brand management skills.",
+  "competencyAssessed": "Brand management",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "Brand awareness is how well consumers know your brand. Brand equity is the value premium your brand commands. In my project, I measured awareness through surveys (increased 30%) and equity through price premium (customers paid 15% more). Both are important but require different strategies.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, brand management, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-E role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

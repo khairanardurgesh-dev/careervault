@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-FIN-019",
+  "question": "What is variance analysis and how do you perform it?",
+  "module": "Module-04",
+  "careerTrack": "Track-D",
+  "relevantJobRoles": [
+    "Financial Analyst",
+    "FP&A Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-D with early-career experience",
+  "description": "Technical interview question for Track-D professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's variance analysis skills.",
+  "competencyAssessed": "Variance analysis",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "Variance analysis compares actual vs budget/forecast. I perform it monthly: calculate variances, identify material ones (>5%), investigate root causes, and recommend actions. In my project, I found a 15% variance in marketing spend due to an unbudgeted campaign. I recommended approval process changes.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, variance analysis, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-D role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

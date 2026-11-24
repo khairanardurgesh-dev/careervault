@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-Q001",
+  "question": "Tell me about a time you faced a significant challenge at work and how you handled it.",
+  "module": "Module-04",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Software Engineer",
+    "Developer",
+    "Programmer"
+  ],
+  "experienceLevel": "early-career",
+  "intendedUser": "Technology professional with 1-3 years of experience",
+  "description": "Behavioral question assessing problem-solving and resilience under pressure.",
+  "purposeOfQuestion": "The interviewer evaluates the candidate's ability to identify problems, take initiative, and demonstrate learning from difficult situations.",
+  "competencyAssessed": "Problem-solving and resilience",
+  "answerFramework": "STAR (Situation, Task, Action, Result)",
+  "exampleAnswer": "When I was a junior developer at TechSolutions, I inherited a legacy module that frequently crashed during peak hours. The situation was critical as it affected our main client's operations. I took ownership, analysed the logs, discovered a race condition in the caching layer, and refactored the code with proper synchronization. I also implemented automated tests to prevent regression. Result: crashes reduced by 90% and deployment confidence improved significantly.",
+  "weakAnswerPitfalls": [
+    "Blaming colleagues or external factors",
+    "Vague descriptions without specific actions",
+    "Taking credit for team achievements alone",
+    "No mention of lessons learned or preventive measures"
+  ],
+  "evaluationCriteria": "STAR structure completeness, clarity of personal contribution, evidence of learning, specificity of metrics or outcomes",
+  "difficulty": "medium",
+  "relevantCareerTracks": [
+    "Track-A"
+  ],
+  "creationDate": "2026-11-24",
+  "reviewStatus": "draft",
+  "version": 1.0,
+  "pilot": true
+}

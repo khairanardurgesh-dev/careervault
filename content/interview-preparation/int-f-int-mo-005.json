@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-MO-005",
+  "question": "What is your approach to hiring and onboarding?",
+  "module": "Module-04",
+  "careerTrack": "Track-F",
+  "relevantJobRoles": [
+    "HR and people operations",
+    "Operations Manager"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-F with early-career experience",
+  "description": "Behavioural interview question for Track-F professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's talent acquisition skills.",
+  "competencyAssessed": "Talent acquisition",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I use structured interviews with standardized questions and scoring rubrics. For onboarding, I created a 30-day plan with milestones, buddy system, and weekly check-ins. In my last hire, they were productive within 2 weeks instead of the typical 4.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, talent acquisition, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-F role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

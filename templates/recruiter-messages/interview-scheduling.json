@@ -1,0 +1,28 @@
+{
+  "resourceId": "REC-MSG004",
+  "title": "Interview Scheduling Response",
+  "module": "Module-04",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Software Engineer",
+    "Developer"
+  ],
+  "experienceLevel": "early-career",
+  "intendedUser": "Technology candidate responding to interview invitation",
+  "description": "Template for responding to an interview scheduling invitation.",
+  "messageType": "interview-scheduling",
+  "template": "Hi [Interviewer Name],\n\nThank you for the interview invitation for the [Job Title] position at [Company Name]. I appreciate the opportunity and am available for the interview on [Date] at [Time] as proposed.\n\nPlease let me know if there's any preparation required or if the format will be technical, behavioral, or both. I'm happy to confirm my availability or propose an alternative time if the proposed slot doesn't work.\n\nLooking forward to our conversation!\n\nBest regards,\n[Your Name]\n[Your Phone Number]",
+  "placeholders": [
+    "[Interviewer Name]",
+    "[Job Title]",
+    "[Company Name]",
+    "[Date]",
+    "[Time]",
+    "[Your Name]",
+    "[Your Phone Number]"
+  ],
+  "creationDate": "2026-11-24",
+  "reviewStatus": "draft",
+  "version": 1.0,
+  "pilot": true
+}

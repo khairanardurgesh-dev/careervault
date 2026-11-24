@@ -1,0 +1,32 @@
+{
+  "resourceId": "INT-SHR-020",
+  "question": "Do you have any concerns about this role or company?",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Any Professional"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "HR/Behavioural",
+  "description": "Tests honesty and thoughtful engagement.",
+  "purposeOfQuestion": "Interviewer assesses candidate's due diligence and transparency.",
+  "competencyAssessed": "Honesty and engagement",
+  "answerFramework": "Concern-Context-Clarification framework",
+  "exampleAnswer": "I want to understand the team's approach to technical debt. In my experience, fast-growing teams sometimes accumulate technical debt that affects long-term velocity. I would like to know how the team balances feature delivery with maintenance. Also, I am curious about the onboarding process for new engineers.",
+  "weakAnswerPitfalls": [
+    "Saying 'no concerns' without thought",
+    "Raising trivial or irrelevant concerns",
+    "Being overly negative",
+    "Not asking for clarification"
+  ],
+  "evaluationCriteria": "Thoughtful concerns, constructive framing, professional delivery",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How do you research a company before interviews?",
+    "What would make you decline an offer?",
+    "What are your non-negotiables in a role?"
+  ],
+  "researchReferences": [],
+  "pilot": false,
+  "module": "Module-04",
+  "intendedUser": "Working professional preparing for interviews"
+}

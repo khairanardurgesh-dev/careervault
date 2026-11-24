@@ -1,0 +1,145 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Salary Negotiation Schema",
+  "type": "object",
+  "required": ["resourceId", "title", "module", "careerTrack", "relevantJobRoles", "experienceLevel", "intendedUser", "description", "scenario", "fixedCompensation", "variableCompensation", "bonuses", "benefits", "deductions", "takeHomeSalary", "ctc", "assumptions", "creationDate", "reviewStatus", "version"],
+  "type": "object",
+  "properties": {
+    "resourceId": {
+      "type": "string",
+      "pattern": "^SAL-NEG-\\d{3}$",
+      "description": "Unique resource identifier in format SAL-XXX"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 3,
+      "description": "Scenario title"
+    },
+    "module": {
+      "type": "string",
+      "enum": ["Module-01", "Module-02", "Module-03", "Module-04", "Module-05", "Module-06", "Module-07", "Module-08"],
+      "description": "Assigned module"
+    },
+    "careerTrack": {
+      "type": "string",
+      "enum": ["Track-A", "Track-B", "Track-C", "Track-D", "Track-E", "Track-F"],
+      "description": "Target career track"
+    },
+    "relevantJobRoles": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "Job roles this scenario applies to"
+    },
+    "experienceLevel": {
+      "type": "string",
+      "enum": ["entry", "early-career", "mid-career"],
+      "description": "Target experience level"
+    },
+    "intendedUser": {
+      "type": "string",
+      "description": "Description of target user"
+    },
+    "description": {
+      "type": "string",
+      "minLength": 10,
+      "description": "Scenario description"
+    },
+    "scenario": {
+      "type": "string",
+      "description": "Negotiation scenario description"
+    },
+    "fixedCompensation": {
+      "type": "object",
+      "properties": {
+        "annualBase": {"type": "number", "description": "Annual fixed/base salary"},
+        "monthlyBase": {"type": "number", "description": "Monthly fixed/base salary"},
+        "payFrequency": {"type": "string", "description": "e.g. monthly, bi-weekly"}
+      },
+      "required": ["annualBase", "monthlyBase", "payFrequency"],
+      "description": "Fixed compensation components"
+    },
+    "variableCompensation": {
+      "type": "object",
+      "properties": {
+        "targetBonusPercentage": {"type": "number", "description": "Target bonus as percentage of fixed"},
+        "performanceBonus": {"type": "number", "description": "Potential performance-based bonus"},
+        "commissionStructure": {"type": "string", "description": "Commission model if applicable"}
+      },
+      "description": "Variable compensation components"
+    },
+    "bonuses": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "type": {"type": "string", "description": "e.g. joining bonus, signing bonus, annual bonus"},
+          "amount": {"type": "number", "description": "Bonus amount"},
+          "conditions": {"type": "string", "description": "Any conditions for the bonus"}
+        }
+      },
+      "description": "List of bonus components"
+    },
+    "benefits": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "type": {"type": "string", "description": "e.g. health insurance, retirement, equity, stipend"},
+          "description": {"type": "string", "description": "Benefit description"},
+          "monetaryValue": {"type": "number", "description": "Estimated monthly monetary value"}
+        }
+      },
+      "description": "Benefits list"
+    },
+    "deductions": {
+      "type": "object",
+      "properties": {
+        "taxEstimate": {"type": "number", "description": "Estimated tax deduction"},
+        "pfContribution": {"type": "number", "description": "Provident fund contribution"},
+        "professionalTax": {"type": "number", "description": "Professional tax if applicable"},
+        "otherDeductions": {"type": "array", "items": {"type": "string"}, "description": "Other deductions"}
+      },
+      "required": ["taxEstimate", "pfContribution"],
+      "description": "Salary deductions"
+    },
+    "takeHomeSalary": {
+      "type": "object",
+      "properties": {
+        "monthlyGross": {"type": "number", "description": "Monthly gross salary after deductions"},
+        "monthlyTakeHome": {"type": "number", "description": "Estimated monthly take-home pay"},
+        "calculationAssumptions": {"type": "string", "description": "Assumptions used in calculation"}
+      },
+      "required": ["monthlyGross", "monthlyTakeHome", "calculationAssumptions"],
+      "description": "Take-home salary breakdown"
+    },
+    "ctc": {
+      "type": "number",
+      "description": "Cost to Company - total annual cost to employer"
+    },
+    "assumptions": {
+      "type": "string",
+      "description": "Explicit assumptions for all salary calculations"
+    },
+    "creationDate": {
+      "type": "string",
+      "format": "date",
+      "description": "Date resource was created"
+    },
+    "lastReviewedDate": {
+      "type": "string",
+      "format": "date",
+      "description": "Date resource was last reviewed"
+    },
+    "reviewStatus": {
+      "type": "string",
+      "enum": ["draft", "reviewed", "approved"],
+      "description": "Current review status"
+    },
+    "version": {
+      "type": "number",
+      "minimum": 0,
+      "description": "Schema version"
+    }
+  },
+  "additionalProperties": false
+}

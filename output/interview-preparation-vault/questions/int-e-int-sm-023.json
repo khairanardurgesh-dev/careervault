@@ -1,0 +1,34 @@
+{
+  "resourceId": "INT-SM-023",
+  "question": "How do you handle a situation where a customer is unhappy with your product?",
+  "module": "Module-04",
+  "careerTrack": "Track-E",
+  "relevantJobRoles": [
+    "Sales",
+    "Account Manager",
+    "Customer Success"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-E with early-career experience",
+  "description": "Behavioural interview question for Track-E professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's customer retention skills.",
+  "competencyAssessed": "Customer retention",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I listen, empathize, and resolve. When a customer was unhappy with a feature, I scheduled a call to understand their concerns. I escalated to product team, provided a workaround, and followed up weekly. Result: they stayed and later upgraded to a higher tier.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, customer retention, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-E role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

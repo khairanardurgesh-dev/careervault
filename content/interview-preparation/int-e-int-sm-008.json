@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-SM-008",
+  "question": "Describe a time you had to cold call or cold email a prospect.",
+  "module": "Module-04",
+  "careerTrack": "Track-E",
+  "relevantJobRoles": [
+    "Sales",
+    "Business Development"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-E with early-career experience",
+  "description": "Behavioural interview question for Track-E professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's prospecting skills.",
+  "competencyAssessed": "Prospecting",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I cold-called 50 prospects daily for a new product. Situation: 2% conversion rate initially. I refined my script based on feedback, personalized the first 10 seconds, and focused on value. Result: conversion improved to 8%, and I closed 3 deals in the first month.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, prospecting, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-E role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

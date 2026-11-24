@@ -1,0 +1,32 @@
+{
+  "resourceId": "INT-SHR-007",
+  "question": "Describe a time you worked in a team and faced a conflict. How did you resolve it?",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Any Professional"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "HR/Behavioural",
+  "description": "Assesses teamwork and conflict resolution skills.",
+  "purposeOfQuestion": "Interviewer evaluates interpersonal skills and conflict management approach.",
+  "competencyAssessed": "Teamwork and conflict resolution",
+  "answerFramework": "STAR (Situation, Task, Action, Result)",
+  "exampleAnswer": "In my previous project, two team members disagreed on the database design approach. One wanted a NoSQL solution; the other preferred relational. Situation: we were behind schedule. I proposed a structured discussion where each presented pros/cons against our actual use cases. We agreed on a hybrid approach. Result: we delivered on time and the solution handled 40% more concurrent users than projected.",
+  "weakAnswerPitfalls": [
+    "Blaming the other party",
+    "Taking full credit for resolution",
+    "No specific actions described",
+    "Choosing a trivial conflict"
+  ],
+  "evaluationCriteria": "Diplomacy, structured approach, focus on resolution, measurable outcome",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "What would you do if the conflict escalated?",
+    "How do you prevent conflicts in teams?",
+    "What did you learn from this experience?"
+  ],
+  "researchReferences": [],
+  "pilot": false,
+  "module": "Module-04",
+  "intendedUser": "Working professional preparing for interviews"
+}

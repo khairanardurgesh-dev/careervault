@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-PM-020",
+  "question": "How do you handle a situation where a key stakeholder is unhappy with the product direction?",
+  "module": "Module-04",
+  "careerTrack": "Track-C",
+  "relevantJobRoles": [
+    "Product Manager",
+    "Associate Product Manager"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-C with early-career experience",
+  "description": "Behavioural interview question for Track-C professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's stakeholder management skills.",
+  "competencyAssessed": "Stakeholder management",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I schedule a 1:1 to understand their concerns. When the VP of Sales was unhappy with our prioritization, I listened, acknowledged their perspective, and shared the data behind our decisions. I offered to revisit priorities in the next planning cycle. They appreciated the transparency.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, stakeholder management, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-C role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

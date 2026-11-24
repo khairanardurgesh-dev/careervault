@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-BA-020",
+  "question": "What is the difference between a stakeholder and a user?",
+  "module": "Module-04",
+  "careerTrack": "Track-B",
+  "relevantJobRoles": [
+    "Business Analyst",
+    "Associate Business Analyst"
+  ],
+  "experienceLevel": "entry",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-B with entry experience",
+  "description": "Technical interview question for Track-B professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's stakeholder analysis skills.",
+  "competencyAssessed": "Stakeholder analysis",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "A stakeholder has an interest in the project outcome (e.g., department head); a user directly interacts with the system. In my project, the VP of Sales was a stakeholder, while sales reps were users. Both influence requirements but need different communication approaches.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, stakeholder analysis, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-B role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

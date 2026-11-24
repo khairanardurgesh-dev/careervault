@@ -1,0 +1,144 @@
+/* ==========================================
+   CareerVault Global Styles
+   Premium professional visual identity
+   ========================================== */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* ==========================================
+   Color Variables
+   ========================================== */
+:root {
+  --background: #0f172a;
+  --foreground: #f8fafc;
+  --card: #1e293b;
+  --card-foreground: #f8fafc;
+  --popover: #0f172a;
+  --popover-foreground: #f8fafc;
+  --primary: #3b82f6;
+  --primary-foreground: #f8fafc;
+  --secondary: #1e293b;
+  --secondary-foreground: #f8fafc;
+  --muted: #64748b;
+  --muted-foreground: #94a3b8;
+  --accent: #3b82f6;
+  --accent-foreground: #f8fafc;
+  --border: #334155;
+  --input: #1e293b;
+  --ring: #3b82f6;
+}
+
+/* ==========================================
+   Base Styles
+   ========================================== */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-family: "Inter", system-ui, sans-serif;
+  line-height: 1.5;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+/* ==========================================
+   Custom Electric Blue Accent
+   ========================================== */
+.electric-blue {
+  color: #3b82f6;
+}
+
+/* ==========================================
+   Component Styles
+   ========================================== */
+@layer components {
+  .btn {
+    @apply inline-flex items-center justify-center rounded-md text-sm font-medium 
+           transition-colors focus-visible:outline-none focus-visible:ring-2 
+           focus-visible:ring-ring focus-visible:ring-2relative focus-relative;
+  }
+
+  .btn-primary {
+    @apply btn bg-primary text-primary-hover:hover:bg-primary/90;
+  }
+
+  .btn-outline {
+    @apply btn border border-input hover:bg-accent hover:text-accent-foreground;
+  }
+
+  .nav-link {
+    @apply relative after:absolute after:left-0 after:bottom-0 after:h-0.5 
+           after:w-0 after-transition-w-0 after:duration-300 
+           hover:after:w-full after:background-current;
+  }
+
+  /* Card styles */
+  .card {
+    @apply bg-card card-foreground rounded-xl border border-border p-6;
+  }
+
+  /* Header styles */
+  .header {
+    @apply bg-card/80 backdrop-blur-sm border-b border-border/40;
+  }
+
+  /* Section styles */
+  .section {
+    @apply py-12;
+  }
+
+  /* Heading styles */
+  .heading-1 {
+    @apply text-5xl md:text-6xl font-bold tracking-tight mb-6;
+  }
+
+  .heading-2 {
+    @apply text-4xl md:text-5xl font-semibold mb-4;
+  }
+
+  .heading-3 {
+    @apply text-3xl font-medium mb-3;
+  }
+
+  /* Text styles */
+  .text-primary {
+    color: #3b82f6;
+  }
+
+  .text-white/60 {
+    color: rgba(248, 250, 252, 0.6);
+  }
+
+  /* List styles */
+  .list-decimal {
+    list-style: decimal;
+  }
+
+  .list-inside {
+    list-style-position: inside;
+  }
+}
+
+/* ==========================================
+   Responsive utilities
+   ========================================== */
+@media (max-width) {
+  .mobile-full-width {
+    width: 100%;
+  }
+}

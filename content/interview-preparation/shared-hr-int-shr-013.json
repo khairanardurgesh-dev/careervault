@@ -1,0 +1,32 @@
+{
+  "resourceId": "INT-SHR-013",
+  "question": "Tell me about a time you had to influence someone without formal authority.",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Any Professional"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "HR/Behavioural",
+  "description": "Assesses influence and persuasion skills.",
+  "purposeOfQuestion": "Interviewer evaluates ability to drive outcomes through collaboration.",
+  "competencyAssessed": "Influence and persuasion",
+  "answerFramework": "STAR (Situation, Task, Action, Result)",
+  "exampleAnswer": "I needed the design team to adopt a new component library to reduce development time. Situation: they preferred their existing workflow. I created a proof-of-concept demonstrating 30% faster development and gathered feedback from developers who tested it. I presented the data and addressed their concerns about migration effort. Result: the team adopted the library, and sprint velocity increased by 15%.",
+  "weakAnswerPitfalls": [
+    "Using authority or pressure",
+    "No data or evidence",
+    "No stakeholder concern addressed",
+    "Vague outcome"
+  ],
+  "evaluationCriteria": "Data-driven approach, stakeholder engagement, measurable outcome",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How do you build credibility with stakeholders?",
+    "What if someone still disagrees after data is presented?",
+    "How do you measure the success of your influence?"
+  ],
+  "researchReferences": [],
+  "pilot": false,
+  "module": "Module-04",
+  "intendedUser": "Working professional preparing for interviews"
+}

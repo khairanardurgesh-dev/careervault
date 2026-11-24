@@ -1,0 +1,35 @@
+{
+  "resourceId": "INT-Q005",
+  "question": "Describe a situation where you had to persuade a resistant client or stakeholder to accept your proposal.",
+  "module": "Module-04",
+  "careerTrack": "Track-E",
+  "relevantJobRoles": [
+    "Business Development",
+    "Sales",
+    "Digital Marketing",
+    "Marketing Analyst",
+    "Account Manager"
+  ],
+  "experienceLevel": "early-career",
+  "intendedUser": "Sales and marketing professional with 1-3 years of experience",
+  "description": "Behavioural question assessing persuasion, influence, and client/stakeholder management skills.",
+  "purposeOfQuestion": "The interviewer evaluates the candidate's ability to understand resistance, adapt their approach, and build consensus for their proposal.",
+  "competencyAssessed": "Persuasion and stakeholder management",
+  "answerFramework": "CAR (Context, Action, Result)",
+  "exampleAnswer": "I needed a reluctant client to agree to a longer contract term. I Context: the client wanted month-to-month only. I researched their concerns about flexibility, prepared a risk-offset proposal with early-termination options, and scheduled a call to address objections directly. Action: I presented data on long-term pricing benefits and customised the exit clause. Result: the client signed a 12-month contract with a 15% discount, increasing our projected annual revenue by INR 3 lakhs.",
+  "weakAnswerPitfalls": [
+    "Using pressure tactics without addressing concerns",
+    "No evidence of understanding the stakeholder's perspective",
+    "Vague description of the approach",
+    "No measurable business impact"
+  ],
+  "evaluationCriteria": "Understanding of stakeholder concerns, adaptation of approach, evidence of two-way communication, business impact",
+  "difficulty": "medium",
+  "relevantCareerTracks": [
+    "Track-E"
+  ],
+  "creationDate": "2026-11-24",
+  "reviewStatus": "draft",
+  "version": 1.0,
+  "pilot": true
+}

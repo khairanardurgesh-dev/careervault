@@ -1,0 +1,32 @@
+{
+  "resourceId": "INT-SHR-015",
+  "question": "What motivates you at work?",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Any Professional"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "HR/Behavioural",
+  "description": "Assesses intrinsic motivation and cultural fit.",
+  "purposeOfQuestion": "Interviewer evaluates whether candidate's motivations align with company culture.",
+  "competencyAssessed": "Motivation and cultural fit",
+  "answerFramework": "Motivation-Example-Alignment framework",
+  "exampleAnswer": "I am motivated by solving meaningful problems and seeing the impact of my work. For example, when I built a feature that reduced report generation time from 3 days to 4 hours, knowing that it saved the team significant time was very satisfying. I also enjoy learning new technologies and collaborating with talented people. I am looking for an environment that values both technical excellence and continuous learning.",
+  "weakAnswerPitfalls": [
+    "Only extrinsic motivators (money, title)",
+    "No concrete example",
+    "Motivations unrelated to role",
+    "Vague or generic answers"
+  ],
+  "evaluationCriteria": "Intrinsic motivation, concrete example, role alignment",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "What demotivates you?",
+    "How do you stay motivated during repetitive tasks?",
+    "What kind of work environment do you thrive in?"
+  ],
+  "researchReferences": [],
+  "pilot": false,
+  "module": "Module-04",
+  "intendedUser": "Working professional preparing for interviews"
+}

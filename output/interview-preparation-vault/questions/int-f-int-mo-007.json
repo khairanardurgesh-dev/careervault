@@ -1,0 +1,34 @@
+{
+  "resourceId": "INT-MO-007",
+  "question": "How do you measure team performance?",
+  "module": "Module-04",
+  "careerTrack": "Track-F",
+  "relevantJobRoles": [
+    "Operations Manager",
+    "Operations Analyst",
+    "HR and people operations"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-F with early-career experience",
+  "description": "Technical interview question for Track-F professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's performance metrics skills.",
+  "competencyAssessed": "Performance metrics",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "I use both quantitative and qualitative metrics. Quantitative: output volume, quality rate, on-time delivery. Qualitative: peer feedback, 360 reviews, engagement scores. In my team, I tracked 5 KPIs monthly and discussed them in 1:1s. This created a culture of continuous improvement.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, performance metrics, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-F role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

@@ -1,0 +1,34 @@
+{
+  "resourceId": "INT-MO-001",
+  "question": "How do you handle a situation where team members are not meeting expectations?",
+  "module": "Module-04",
+  "careerTrack": "Track-F",
+  "relevantJobRoles": [
+    "Operations Manager",
+    "HR and people operations",
+    "Operations Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-F with early-career experience",
+  "description": "Behavioural interview question for Track-F professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's performance management skills.",
+  "competencyAssessed": "Performance management",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I have a private conversation to understand root causes. When a team member missed deadlines, I learned they were overwhelmed. I broke tasks into smaller pieces, paired them with a mentor, and set weekly check-ins. Result: performance improved by 40% in 2 months.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, performance management, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-F role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

@@ -1,0 +1,24 @@
+{
+  "resourceId": "RES-EX002",
+  "title": "Business Analyst Resume",
+  "module": "Module-01",
+  "careerTrack": "Track-B",
+  "relevantJobRoles": [
+    "Business Analyst",
+    "Associate Business Analyst",
+    "Process Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "intendedUser": "Business professional with 1-3 years of experience",
+  "description": "Achievement-oriented resume for a Business Analyst role.",
+  "exampleCandidate": "Priya Patel, Business Analyst",
+  "exampleResume": "---\nPROFESSIONAL SUMMARY\nBusiness Analyst with 2.5 years of experience in requirements gathering, process analysis, and data-driven solution design. Skilled in bridging the gap between business stakeholders and technical teams to deliver actionable insights and improve operational efficiency.\n\nEXPERIENCE\nBusiness Analyst, IndoTech Solutions | Mumbai | 2023 - Present\n• Analysed and documented 25+ business processes, identifying improvement opportunities worth INR 12 lakhs annually\n• Created use cases and functional specifications that reduced development rework by 40%\n• Facilitated weekly stakeholder meetings, improving requirement clarity and reducing scope creep by 30%\n• Designed and implemented a process automation using Power Automate, saving 15 hours per week\n\nPROJECTS\nCustomer churn reduction analysis\n• analysed customer data from 3 sources to identify churn patterns\n• developed retention recommendations resulting in 12% reduction in 6-month churn\n• presented findings to senior leadership and implemented top 3 recommendations\n\nProcess mapping and optimisation\n• mapped end-to-end order fulfilment process across 5 departments\n• identified bottlenecks and proposed reengineering steps\n• tracked implementation and measured 20% reduction in order processing time\n\nANALYTICAL SKILLS\n• Data analysis: Python, Pandas, NumPy\n• Visualisation: Tableau, Power BI\n• Statistical analysis: Regression, hypothesis testing\n• Database: SQL, Microsoft Access\n\nPROFESSIONAL SKILLS\n• Requirements elicitation and mapping\n• Stakeholder communication and facilitation\n• Process modelling (BPMN, flowcharts)\n• Data-driven decision making\n• Documentation and reporting\n\nCOMMUNICATION\n• Fluent in English and Hindi\n• Presentation experience with C-level stakeholders\n• Written reports and process documentation",
+  "content": "Business Analyst Resume - editable template content structure",
+  "examples": [
+    "Business Analyst Resume - Priya Patel example"
+  ],
+  "creationDate": "2026-11-24",
+  "reviewStatus": "draft",
+  "version": 1.0,
+  "pilot": true
+}

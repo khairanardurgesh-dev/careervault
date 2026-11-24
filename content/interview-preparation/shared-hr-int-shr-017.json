@@ -1,0 +1,32 @@
+{
+  "resourceId": "INT-SHR-017",
+  "question": "What does success look like for you in this role?",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Any Professional"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "HR/Behavioural",
+  "description": "Assesses understanding of role expectations.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's clarity on role outcomes.",
+  "competencyAssessed": "Role understanding and goal setting",
+  "answerFramework": "Short-term-Medium-term-Long-term framework",
+  "exampleAnswer": "In the first 30 days, success means understanding the codebase, team processes, and key stakeholders. By 90 days, I expect to have delivered at least one significant feature with measurable impact. In the first year, success means becoming a go-to person for my domain, mentoring junior team members, and contributing to team process improvements. I would measure this through delivery metrics, peer feedback, and manager reviews.",
+  "weakAnswerPitfalls": [
+    "Vague or generic success criteria",
+    "No measurable outcomes",
+    "Unrealistic expectations",
+    "No short-term goals"
+  ],
+  "evaluationCriteria": "Measurable goals, realistic timeline, role alignment",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How will you measure your progress?",
+    "What support do you need to achieve this?",
+    "What would failure look like?"
+  ],
+  "researchReferences": [],
+  "pilot": false,
+  "module": "Module-04",
+  "intendedUser": "Working professional preparing for interviews"
+}

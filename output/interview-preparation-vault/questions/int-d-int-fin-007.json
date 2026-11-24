@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-FIN-007",
+  "question": "What is the difference between cash flow and profit?",
+  "module": "Module-04",
+  "careerTrack": "Track-D",
+  "relevantJobRoles": [
+    "Financial Analyst",
+    "Accounts Associate"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-D with early-career experience",
+  "description": "Technical interview question for Track-D professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's cash flow skills.",
+  "competencyAssessed": "Cash flow",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "Profit is revenue minus expenses (accrual basis); cash flow is actual cash in/out. A company can be profitable but have negative cash flow due to delayed payments. In my analysis, I found a profitable project with negative cash flow due to 60-day payment terms. I recommended renegotiating terms to 30 days.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, cash flow, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-D role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

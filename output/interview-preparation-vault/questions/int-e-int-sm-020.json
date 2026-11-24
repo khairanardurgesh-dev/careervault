@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-SM-020",
+  "question": "How do you stay motivated during slow sales periods?",
+  "module": "Module-04",
+  "careerTrack": "Track-E",
+  "relevantJobRoles": [
+    "Sales",
+    "Business Development"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-E with early-career experience",
+  "description": "Behavioural interview question for Track-E professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's motivation skills.",
+  "competencyAssessed": "Motivation",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I focus on activities I can control: prospecting, learning, and relationship building. During a slow quarter, I increased my outreach by 50%, attended 3 industry events, and completed a sales training course. Result: pipeline grew by 60%, and I exceeded quota the following quarter.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, motivation, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-E role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

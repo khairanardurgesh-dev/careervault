@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-BA-028",
+  "question": "Describe a time you had to work under tight deadlines.",
+  "module": "Module-04",
+  "careerTrack": "Track-B",
+  "relevantJobRoles": [
+    "Business Analyst",
+    "Associate Business Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-B with early-career experience",
+  "description": "Behavioural interview question for Track-B professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's time management skills.",
+  "competencyAssessed": "Time management",
+  "answerFramework": "STAR",
+  "exampleAnswer": "We had 2 weeks to deliver a requirements package for a regulatory audit. Situation: 50+ requirements to document. I prioritized by risk, created templates, and worked in parallel with the team. Result: delivered on time with 100% coverage and zero audit findings.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, time management, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-B role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

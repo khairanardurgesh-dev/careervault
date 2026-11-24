@@ -1,0 +1,34 @@
+{
+  "resourceId": "INT-Q003",
+  "question": "Describe a product feature you worked on from concept to launch. What were the key challenges and how did you overcome them?",
+  "module": "Module-04",
+  "careerTrack": "Track-C",
+  "relevantJobRoles": [
+    "Product Analyst",
+    "Associate Product Manager",
+    "Product Manager",
+    "Project Coordinator"
+  ],
+  "experienceLevel": "early-career",
+  "intendedUser": "Product professional with 1-3 years of experience",
+  "description": "Behavioural question assessing product lifecycle understanding and cross-functional collaboration.",
+  "purposeOfQuestion": "The interviewer evaluates the candidate's ability to manage a product from idea to delivery, handle trade-offs, and work with engineering, design, and stakeholders.",
+  "competencyAssessed": "Product lifecycle management and collaboration",
+  "answerFramework": "STAR (Situation, Task, Action, Result)",
+  "exampleAnswer": "I led a product feature to add dark mode to our mobile app. Situation: users requested dark mode but implementation would take 2 sprints. Task: launch within 1 sprint. Action: I prioritised the most-used screens, collaborated with design for a minimal viable dark theme, and worked with engineering to reuse existing components. Result: dark mode launched in 3 weeks, with 40% of users adopting it in the first week.",
+  "weakAnswerPitfalls": [
+    "Vague role in the outcome",
+    "Blame on other teams without solution orientation",
+    "No user adoption or feedback data",
+    "Taking on too much and delivering poorly"
+  ],
+  "evaluationCriteria": "Clear contribution identification, feasibility of timeline, cross-functional collaboration evidence, measurable adoption/outcome",
+  "difficulty": "medium",
+  "relevantCareerTracks": [
+    "Track-C"
+  ],
+  "creationDate": "2026-11-24",
+  "reviewStatus": "draft",
+  "version": 1.0,
+  "pilot": true
+}

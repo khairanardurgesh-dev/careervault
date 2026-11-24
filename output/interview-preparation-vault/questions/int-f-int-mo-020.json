@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-MO-020",
+  "question": "Describe a time you had to improve employee engagement.",
+  "module": "Module-04",
+  "careerTrack": "Track-F",
+  "relevantJobRoles": [
+    "HR and people operations",
+    "Operations Manager"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-F with early-career experience",
+  "description": "Behavioural interview question for Track-F professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's employee engagement skills.",
+  "competencyAssessed": "Employee engagement",
+  "answerFramework": "STAR",
+  "exampleAnswer": "Our engagement survey showed low scores. Situation: team felt undervalued. I implemented monthly recognition awards, quarterly team events, and a suggestion box. I also improved 1:1 frequency. Result: engagement scores improved from 60% to 85% in 6 months.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, employee engagement, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-F role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

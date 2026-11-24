@@ -1,0 +1,34 @@
+{
+  "resourceId": "INT-TECH-002",
+  "question": "Explain the difference between SQL and NoSQL databases. When would you choose one over the other?",
+  "module": "Module-04",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Software Engineer",
+    "Developer",
+    "Data Engineer"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-A with early-career experience",
+  "description": "Technical interview question for Track-A professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's database design skills.",
+  "competencyAssessed": "Database design",
+  "answerFramework": "Comparison framework",
+  "exampleAnswer": "In my project, I used PostgreSQL for transactional data requiring ACID compliance and MongoDB for flexible schema documents. SQL is better for structured data with complex relationships; NoSQL suits unstructured or rapidly changing data. I chose PostgreSQL for our e-commerce orders table and MongoDB for product catalog with varying attributes.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, database design, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-A role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

@@ -1,0 +1,47 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Resume Mastery Resource",
+  "type": "object",
+  "required": [
+    "id",
+    "careerTrack",
+    "applicableRoles",
+    "experienceLevel",
+    "resourceType",
+    "content",
+    "status",
+    "version"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "careerTrack": {
+      "type": "string"
+    },
+    "applicableRoles": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "experienceLevel": {
+      "type": "string"
+    },
+    "resourceType": {
+      "type": "string"
+    },
+    "content": {
+      "type": "object"
+    },
+    "status": {
+      "type": "string"
+    },
+    "version": {
+      "type": "string"
+    },
+    "references": {
+      "type": "array"
+    }
+  }
+}

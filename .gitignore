@@ -1,0 +1,85 @@
+# ============================================================================
+# CareerVault root .gitignore
+# Do not ignore commercial deliverables (PDF, DOCX, XLSX, JSON, migrations,
+# website assets, final ZIP). Do not ignore .env.example (safe template).
+# ============================================================================
+
+# Dependencies
+node_modules/
+.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# Next.js build outputs
+/.next/
+/out/
+/build/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv/
+
+# Environment files (never commit real credentials)
+.env
+.env.local
+.env.production
+.env.development
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Misc
+.DS_Store
+*.pem
+*.lock (root-level lockfiles are project-specific; commit only if intended)
+.vercel
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+Thumbs.db
+.ehthumbs.desktop
+
+# Lock files - commit project lockfiles (exception below)
+!package-lock.json
+!careervault/package-lock.json
+!website/careervault/package-lock.json
+
+# Local backups / temp
+*.bak
+*.tmp
+*.temp
+*/tmp/
+*/temp/
+
+# Coverage
+/coverage/
+
+# Local sqlite / dev databases
+*.sqlite
+*.sqlite3
+*.db

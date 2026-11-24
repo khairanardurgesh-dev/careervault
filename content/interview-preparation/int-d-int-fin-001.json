@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-FIN-001",
+  "question": "What is the difference between GAAP and IFRS?",
+  "module": "Module-04",
+  "careerTrack": "Track-D",
+  "relevantJobRoles": [
+    "Financial Analyst",
+    "Accounts Associate"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-D with early-career experience",
+  "description": "Technical interview question for Track-D professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's accounting standards skills.",
+  "competencyAssessed": "Accounting standards",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "GAAP is US-specific; IFRS is international. Key differences: inventory valuation (LIFO allowed in GAAP, not IFRS), revenue recognition (more principles-based in IFRS), and development costs (capitalized in IFRS under certain conditions). In my experience, I worked with Indian GAAP for domestic reporting.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, accounting standards, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-D role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-BA-027",
+  "question": "How do you ensure your requirements are testable?",
+  "module": "Module-04",
+  "careerTrack": "Track-B",
+  "relevantJobRoles": [
+    "Business Analyst",
+    "Associate Business Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-B with early-career experience",
+  "description": "Behavioural interview question for Track-B professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's requirements quality skills.",
+  "competencyAssessed": "Requirements quality",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I write requirements using SMART criteria: Specific, Measurable, Achievable, Relevant, Testable. For example, instead of 'system should be fast,' I write 'page load time under 2 seconds for 95% of users.' This gives QA clear acceptance criteria.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, requirements quality, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-B role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

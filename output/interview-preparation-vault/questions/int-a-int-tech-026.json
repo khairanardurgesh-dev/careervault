@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-TECH-026",
+  "question": "What is the difference between a stack and a queue?",
+  "module": "Module-04",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Software Engineer",
+    "Developer"
+  ],
+  "experienceLevel": "entry",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-A with entry experience",
+  "description": "Technical interview question for Track-A professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's data structures skills.",
+  "competencyAssessed": "Data structures",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "A stack is LIFO (last in, first out); a queue is FIFO (first in, first out). Example: a stack is like a pile of plates — you remove the top one first. A queue is like a line at a ticket counter — first person in line gets served first. I used a stack for undo functionality and a queue for task scheduling.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, data structures, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-A role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

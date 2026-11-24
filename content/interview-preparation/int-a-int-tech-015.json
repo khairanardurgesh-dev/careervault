@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-TECH-015",
+  "question": "How do you handle technical debt in your projects?",
+  "module": "Module-04",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Software Engineer",
+    "Developer"
+  ],
+  "experienceLevel": "mid-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-A with mid-career experience",
+  "description": "Behavioural interview question for Track-A professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's technical debt skills.",
+  "competencyAssessed": "Technical debt",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I track technical debt in a backlog and allocate 20% of sprint capacity to address it. In my last project, I prioritized by impact: first fixing flaky tests, then refactoring high-change modules. I also advocate for boy-scout rule: leave code cleaner than you found it. This prevented debt from accumulating faster than we could address it.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, technical debt, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-A role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

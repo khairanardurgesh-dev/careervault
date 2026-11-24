@@ -1,0 +1,32 @@
+{
+  "resourceId": "INT-SHR-003",
+  "question": "What are your greatest strengths?",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Any Professional"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "HR/Behavioural",
+  "description": "Assesses self-awareness and ability to articulate value.",
+  "purposeOfQuestion": "Interviewer evaluates whether candidate's strengths match role requirements.",
+  "competencyAssessed": "Self-awareness and role fit",
+  "answerFramework": "Strength-Context-Impact framework",
+  "exampleAnswer": "My greatest strength is my ability to break down complex problems into manageable parts. For example, when our team faced a performance issue in the authentication module, I systematically profiled the code, identified the bottleneck in the database query layer, and proposed a caching solution that reduced response time by 60%. I also communicate technical findings clearly to non-technical stakeholders.",
+  "weakAnswerPitfalls": [
+    "Listing generic strengths without evidence",
+    "Choosing strengths unrelated to the role",
+    "No concrete examples",
+    "Overconfidence without substance"
+  ],
+  "evaluationCriteria": "Relevance to role, evidence-based, specific examples, professional delivery",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How do you use this strength in your current role?",
+    "Can you give an example where this strength made a difference?",
+    "What weakness accompanies this strength?"
+  ],
+  "researchReferences": [],
+  "pilot": false,
+  "module": "Module-04",
+  "intendedUser": "Working professional preparing for interviews"
+}

@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-TECH-001",
+  "question": "What is the difference between a process and a thread in an operating system?",
+  "module": "Module-04",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Software Engineer",
+    "Developer"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Conceptual",
+  "intendedUser": "Professional in Track-A with early-career experience",
+  "description": "Conceptual interview question for Track-A professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's os fundamentals skills.",
+  "competencyAssessed": "OS fundamentals",
+  "answerFramework": "STAR",
+  "exampleAnswer": "In my coursework and internship, I learned that a process is an independent execution unit with its own memory space, while a thread is a lightweight unit within a process that shares memory. For example, in a web server, each request might be handled by a separate thread within the same process, allowing efficient resource sharing.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, os fundamentals, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-A role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

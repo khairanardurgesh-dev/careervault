@@ -1,0 +1,94 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Interview Question Schema",
+  "type": "object",
+  "required": ["resourceId", "question", "module", "careerTrack", "relevantJobRoles", "experienceLevel", "intendedUser", "description", "purposeOfQuestion", "competencyAssessed", "answerFramework", "exampleAnswer", "weakAnswerPitfalls", "evaluationCriteria", "difficulty", "creationDate", "reviewStatus", "version"],
+  "type": "object",
+  "properties": {
+    "resourceId": {
+      "type": "string",
+      "pattern": "^INT-QUESTION-\\d{3}$",
+      "description": "Unique resource identifier in format INT-QXX"
+    },
+    "question": {
+      "type": "string",
+      "minLength": 10,
+      "description": "The interview question text"
+    },
+    "module": {
+      "type": "string",
+      "enum": ["Module-01", "Module-02", "Module-03", "Module-04", "Module-05", "Module-06", "Module-07", "Module-08"],
+      "description": "Assigned module"
+    },
+    "careerTrack": {
+      "type": "string",
+      "enum": ["Track-A", "Track-B", "Track-C", "Track-D", "Track-E", "Track-F"],
+      "description": "Target career track"
+    },
+    "relevantJobRoles": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "Job roles this question applies to"
+    },
+    "experienceLevel": {
+      "type": "string",
+      "enum": ["entry", "early-career", "mid-career"],
+      "description": "Target experience level"
+    },
+    "intendedUser": {
+      "type": "string",
+      "description": "Description of target user"
+    },
+    "description": {
+      "type": "string",
+      "minLength": 10,
+      "description": "Question description"
+    },
+    "purposeOfQuestion": {
+      "type": "string",
+      "description": "What the interviewer evaluates with this question"
+    },
+    "competencyAssessed": {
+      "type": "string",
+      "description": "Primary competency this question assesses"
+    },
+    "answerFramework": {
+      "type": "string",
+      "description": "Recommended answer framework (e.g. STAR, CAR, etc.)"
+    },
+    "exampleAnswer": {
+      "type": "string",
+      "description": "Example answer using fictional candidate"
+    },
+    "weakAnswerPitfalls": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "Common pitfalls in weak answers"
+    },
+    "evaluationCriteria": {
+      "type": "string",
+      "description": "Criteria for evaluating candidate responses"
+    },
+    "creationDate": {
+      "type": "string",
+      "format": "date",
+      "description": "Date resource was created"
+    },
+    "lastReviewedDate": {
+      "type": "string",
+      "format": "date",
+      "description": "Date resource was last reviewed"
+    },
+    "reviewStatus": {
+      "type": "string",
+      "enum": ["draft", "reviewed", "approved"],
+      "description": "Current review status"
+    },
+    "version": {
+      "type": "number",
+      "minimum": 0,
+      "description": "Schema version"
+    }
+  },
+  "additionalProperties": false
+}

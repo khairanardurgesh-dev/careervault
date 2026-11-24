@@ -1,0 +1,34 @@
+{
+  "resourceId": "INT-MO-004",
+  "question": "How do you ensure effective communication within your team?",
+  "module": "Module-04",
+  "careerTrack": "Track-F",
+  "relevantJobRoles": [
+    "Operations Manager",
+    "HR and people operations",
+    "Business Operations"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-F with early-career experience",
+  "description": "Behavioural interview question for Track-F professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's communication skills.",
+  "competencyAssessed": "Communication",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I use multiple channels: daily standups, weekly 1:1s, and a shared Slack channel. In my project, I also created a team wiki for documentation. This reduced miscommunication by 60% and ensured everyone had access to the same information.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, communication, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-F role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

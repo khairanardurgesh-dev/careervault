@@ -1,0 +1,34 @@
+{
+  "resourceId": "INT-TECH-016",
+  "question": "Explain the concept of caching and when to use it.",
+  "module": "Module-04",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Software Engineer",
+    "Developer",
+    "Backend Developer"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-A with early-career experience",
+  "description": "Technical interview question for Track-A professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's performance skills.",
+  "competencyAssessed": "Performance",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "Caching stores frequently accessed data in fast storage. I implemented Redis caching for user sessions and database query results. Use caching when data is read-heavy, changes infrequently, or computation is expensive. Avoid caching when data must be real-time or consistency is critical.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, performance, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-A role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

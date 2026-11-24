@@ -1,0 +1,99 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "AIPrompt Schema",
+  "type": "object",
+  "required": ["resourceId", "promptTitle", "module", "careerTrack", "relevantJobRoles", "experienceLevel", "intendedUser", "description", "intendedUse", "requiredUserInputs", "completePrompt", "exampleInput", "expectedOutputCharacteristics", "limitations", "testingStatus", "creationDate", "reviewStatus", "version"],
+  "type": "object",
+  "properties": {
+    "resourceId": {
+      "type": "string",
+      "pattern": "^AI-PROMPT-\\d{3}$",
+      "description": "Unique resource identifier in format AI-XXX"
+    },
+    "promptTitle": {
+      "type": "string",
+      "minLength": 3,
+      "description": "Title of the AI prompt"
+    },
+    "module": {
+      "type": "string",
+      "enum": ["Module-01", "Module-02", "Module-03", "Module-04", "Module-05", "Module-06", "Module-07", "Module-08"],
+      "description": "Assigned module"
+    },
+    "careerTrack": {
+      "type": "string",
+      "enum": ["Track-A", "Track-B", "Track-C", "Track-D", "Track-E", "Track-F"],
+      "description": "Target career track"
+    },
+    "relevantJobRoles": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "Job roles this prompt applies to"
+    },
+    "experienceLevel": {
+      "type": "string",
+      "enum": ["entry", "early-career", "mid-career"],
+      "description": "Target experience level"
+    },
+    "intendedUser": {
+      "type": "string",
+      "description": "Description of target user"
+    },
+    "description": {
+      "type": "string",
+      "minLength": 10,
+      "description": "Prompt description"
+    },
+    "intendedUse": {
+      "type": "string",
+      "description": "What the prompt is designed to achieve"
+    },
+    "requiredUserInputs": {
+      "type": "array",
+      "items": {"type": "string"},
+      "description": "List of inputs the user must provide"
+    },
+    "completePrompt": {
+      "type": "string",
+      "description": "The full prompt text"
+    },
+    "exampleInput": {
+      "type": "string",
+      "description": "Sample input for the prompt"
+    },
+    "expectedOutputCharacteristics": {
+      "type": "string",
+      "description": "Description of expected output format and quality"
+    },
+    "limitations": {
+      "type": "string",
+      "description": "Known limitations of the prompt"
+    },
+    "testingStatus": {
+      "type": "string",
+      "enum": ["untested", "partial", "fully-tested"],
+      "description": "Current testing status"
+    },
+    "creationDate": {
+      "type": "string",
+      "format": "date",
+      "description": "Date resource was created"
+    },
+    "lastReviewedDate": {
+      "type": "string",
+      "format": "date",
+      "description": "Date resource was last reviewed"
+    },
+    "reviewStatus": {
+      "type": "string",
+      "enum": ["draft", "reviewed", "approved"],
+      "description": "Current review status"
+    },
+    "version": {
+      "type": "number",
+      "minimum": 0,
+      "description": "Schema version"
+    }
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-MO-028",
+  "question": "How do you ensure data accuracy in your operations?",
+  "module": "Module-04",
+  "careerTrack": "Track-F",
+  "relevantJobRoles": [
+    "Operations Manager",
+    "Operations Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-F with early-career experience",
+  "description": "Behavioural interview question for Track-F professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's data quality skills.",
+  "competencyAssessed": "Data quality",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I implement data validation rules, regular audits, and reconciliation processes. In my project, I created a data quality dashboard that flagged anomalies. This reduced data errors by 80% and improved decision-making confidence across the team.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, data quality, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-F role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-PM-029",
+  "question": "How do you handle a situation where a product launch is at risk?",
+  "module": "Module-04",
+  "careerTrack": "Track-C",
+  "relevantJobRoles": [
+    "Product Manager",
+    "Associate Product Manager"
+  ],
+  "experienceLevel": "mid-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-C with mid-career experience",
+  "description": "Behavioural interview question for Track-C professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's risk management skills.",
+  "competencyAssessed": "Risk management",
+  "answerFramework": "STAR",
+  "exampleAnswer": "Two weeks before launch, we found a critical bug. Situation: timeline at risk. I assessed impact (affected 20% of users), communicated with leadership, and proposed a phased launch: launch to 80% of users, fix the bug in 3 days, then full rollout. Result: launched on time with minimal impact.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, risk management, specific examples, measurable outcomes",
+  "difficulty": "hard",
+  "followUpQuestions": [
+    "How does this apply to the Track-C role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-FIN-029",
+  "question": "What is the difference between direct and indirect costs?",
+  "module": "Module-04",
+  "careerTrack": "Track-D",
+  "relevantJobRoles": [
+    "Financial Analyst",
+    "Accounts Associate"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-D with early-career experience",
+  "description": "Technical interview question for Track-D professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's cost accounting skills.",
+  "competencyAssessed": "Cost accounting",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "Direct costs can be traced to a specific product/service (e.g., raw materials). Indirect costs are shared across products (e.g., rent, utilities). In my project, I allocated indirect costs using activity-based costing, which improved product profitability analysis by 25%.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, cost accounting, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-D role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-BA-010",
+  "question": "Describe a time you had to manage scope creep in a project.",
+  "module": "Module-04",
+  "careerTrack": "Track-B",
+  "relevantJobRoles": [
+    "Business Analyst",
+    "Business Operations Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-B with early-career experience",
+  "description": "Behavioural interview question for Track-B professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's scope management skills.",
+  "competencyAssessed": "Scope management",
+  "answerFramework": "STAR",
+  "exampleAnswer": "Mid-project, stakeholders kept adding features. Situation: timeline was at risk. I documented all requests in a backlog, assessed impact against original scope, and presented a prioritized list. We agreed to defer 3 non-critical features. Result: delivered on time with core functionality.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, scope management, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-B role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

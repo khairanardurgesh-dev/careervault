@@ -1,0 +1,34 @@
+{
+  "resourceId": "INT-SM-019",
+  "question": "Describe a time you had to negotiate a deal.",
+  "module": "Module-04",
+  "careerTrack": "Track-E",
+  "relevantJobRoles": [
+    "Sales",
+    "Business Development",
+    "Account Manager"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-E with early-career experience",
+  "description": "Behavioural interview question for Track-E professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's negotiation skills.",
+  "competencyAssessed": "Negotiation",
+  "answerFramework": "STAR",
+  "exampleAnswer": "A prospect wanted a 30% discount. Situation: our margin was tight. I offered a 15% discount in exchange for a 2-year contract and a case study. They agreed. Result: we closed the deal, secured long-term revenue, and gained a valuable testimonial.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, negotiation, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-E role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

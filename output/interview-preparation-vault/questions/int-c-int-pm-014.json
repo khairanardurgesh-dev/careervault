@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-PM-014",
+  "question": "How do you handle competing priorities from different stakeholders?",
+  "module": "Module-04",
+  "careerTrack": "Track-C",
+  "relevantJobRoles": [
+    "Product Manager",
+    "Associate Product Manager"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-C with early-career experience",
+  "description": "Behavioural interview question for Track-C professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's prioritisation skills.",
+  "competencyAssessed": "Prioritisation",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I use a prioritization framework and data. When sales wanted Feature A and engineering wanted Feature B, I quantified impact: Feature A would increase conversion by 5%, Feature B would reduce support tickets by 30%. I presented to leadership, and we agreed to sequence them.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, prioritisation, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-C role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

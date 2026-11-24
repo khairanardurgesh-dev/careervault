@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-BA-011",
+  "question": "What is a BRD (Business Requirements Document)?",
+  "module": "Module-04",
+  "careerTrack": "Track-B",
+  "relevantJobRoles": [
+    "Business Analyst",
+    "Associate Business Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-B with early-career experience",
+  "description": "Technical interview question for Track-B professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's documentation skills.",
+  "competencyAssessed": "Documentation",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "A BRD documents business needs, objectives, and high-level requirements. In my project, I created a BRD for a new CRM module covering stakeholders, business objectives, success metrics, and functional requirements. It served as the baseline for all subsequent design and development.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, documentation, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-B role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

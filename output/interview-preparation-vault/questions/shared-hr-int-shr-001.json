@@ -1,0 +1,32 @@
+{
+  "resourceId": "INT-SHR-001",
+  "question": "Tell me about yourself and your professional background.",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Any Professional"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "HR/Behavioural",
+  "description": "Standard opening question to assess communication and self-awareness.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's ability to present a concise, relevant professional narrative.",
+  "competencyAssessed": "Self-awareness and communication",
+  "answerFramework": "Present-Past-Future framework",
+  "exampleAnswer": "I am currently a junior software engineer at TechSolutions with two years of experience in full-stack development. I started as an intern during my final year of engineering, where I worked on a customer-facing dashboard. After graduation, I joined as a full-time developer. My focus has been on building scalable web applications and improving development workflows. Looking ahead, I want to take on more system design responsibilities and contribute to architecture decisions.",
+  "weakAnswerPitfalls": [
+    "Reciting entire resume chronologically",
+    "Including irrelevant personal details",
+    "No clear narrative or direction",
+    "Speaking too long without structure"
+  ],
+  "evaluationCriteria": "Clarity of narrative, relevance to role, professional tone, time management (under 2 minutes)",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "Why are you interested in this role specifically?",
+    "What is your most significant professional achievement so far?",
+    "Where do you see yourself in 3-5 years?"
+  ],
+  "researchReferences": [],
+  "pilot": false,
+  "module": "Module-04",
+  "intendedUser": "Working professional preparing for interviews"
+}

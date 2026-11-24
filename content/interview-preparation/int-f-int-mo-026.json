@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-MO-026",
+  "question": "Describe a time you had to manage a change initiative.",
+  "module": "Module-04",
+  "careerTrack": "Track-F",
+  "relevantJobRoles": [
+    "Operations Manager",
+    "HR and people operations"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-F with early-career experience",
+  "description": "Behavioural interview question for Track-F professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's change management skills.",
+  "competencyAssessed": "Change management",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I led a digital transformation initiative. Situation: 50 employees needed to adopt new tools. I created a change management plan: communication, training, and support. I identified change champions in each department. Result: 90% adoption within 3 months, with minimal resistance.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, change management, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-F role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

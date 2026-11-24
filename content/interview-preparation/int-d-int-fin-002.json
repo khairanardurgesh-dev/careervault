@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-FIN-002",
+  "question": "How do you analyze a company's financial statements?",
+  "module": "Module-04",
+  "careerTrack": "Track-D",
+  "relevantJobRoles": [
+    "Financial Analyst",
+    "FP&A Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-D with early-career experience",
+  "description": "Behavioural interview question for Track-D professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's financial analysis skills.",
+  "competencyAssessed": "Financial analysis",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I start with the income statement for profitability, balance sheet for financial position, and cash flow for liquidity. I calculate key ratios: gross margin, current ratio, debt-to-equity. In my analysis of a manufacturing company, I identified declining margins and recommended cost optimization measures.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, financial analysis, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-D role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

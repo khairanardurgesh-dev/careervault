@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-TECH-009",
+  "question": "Describe your experience with version control systems.",
+  "module": "Module-04",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Software Engineer",
+    "Developer"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-A with early-career experience",
+  "description": "Behavioural interview question for Track-A professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's git skills.",
+  "competencyAssessed": "Git",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I use Git daily with feature branches and pull requests. In my last project, I established a branching strategy: main for production, develop for integration, feature branches for new work. I use rebase for clean history and squash commits before merging. I also review PRs and provide constructive feedback.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, git, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-A role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

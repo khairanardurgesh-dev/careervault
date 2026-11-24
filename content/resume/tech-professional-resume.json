@@ -1,0 +1,24 @@
+{
+  "resourceId": "RES-EX001",
+  "title": "Technology Professional Resume",
+  "module": "Module-01",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Software Engineer",
+    "Developer",
+    "Programmer"
+  ],
+  "experienceLevel": "early-career",
+  "intendedUser": "Technology professional with 1-3 years of experience",
+  "description": "Achievement-oriented resume for a technology professional transitioning to better roles.",
+  "exampleCandidate": "Amit Sharma, Junior Software Engineer",
+  "exampleResume": "---\nPROFESSIONAL SUMMARY\nJunior Software Engineer with 2 years of experience in full-stack development and a focus on building scalable web applications. Proficient in JavaScript, React, and Node.js. Passionate about writing clean, maintainable code and continuously improving development workflows.\n\nEXPERIENCE\nSoftware Engineer, TechSolutions | Bengaluru | 2023 - 2024\n• Reduced application load time by 45% through optimisation of database queries and front-end rendering\n• Implemented automated testing coverage increased from 15% to 65%, reducing production bugs by 30%\n• Collaborated with the team to refactor legacy code, improving system maintainability and reducing bug resolution time by 50%\n• Developed a responsive dashboard using React that decreased client-reported issues by 25%\n\nPROJECTS\nE-commerce Platform (React + Node.js)\n• Built a full-stack e-commerce application handling 500+ concurrent users\n• Integrated payment gateway with PCI compliance\n• Implemented user authentication with role-based access control\n\nMobile Task Tracker (React Native)\n• Developed a cross-platform task management app with real-time sync\n• Designed SQLite database schema for offline-first functionality\n\nTECHNICAL SKILLS\nLanguages: JavaScript, Python, SQL\nFrontend: React, Redux, HTML5, CSS3\nBackend: Node.js, Express, MongoDB\nDevOps: Git, Docker, CI/CD pipelines\nTools: Jira, Confluence, Postman\n\nACHIEVEMENTS\n• Led team hackathon project that won internal innovation award\n• Mentored 2 junior interns on JavaScript best practices\n• Contributed to open-source library used by 500+ developers",
+  "content": "Technology Professional Resume - editable template content structure",
+  "examples": [
+    "Technology Professional Resume - Amit Sharma example"
+  ],
+  "creationDate": "2026-11-24",
+  "reviewStatus": "draft",
+  "version": 1.0,
+  "pilot": true
+}

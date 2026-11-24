@@ -1,0 +1,32 @@
+{
+  "resourceId": "INT-SHR-019",
+  "question": "What questions do you have for us?",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Any Professional"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "HR/Behavioural",
+  "description": "Assesses genuine interest and preparation.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's engagement and curiosity.",
+  "competencyAssessed": "Engagement and curiosity",
+  "answerFramework": "Curiosity-Research-Value framework",
+  "exampleAnswer": "I have three questions: First, what does success look like for this role in the first 90 days? Second, how does the team currently measure and improve developer experience? Third, what are the biggest challenges the team is facing right now, and how could this role help address them?",
+  "weakAnswerPitfalls": [
+    "No questions prepared",
+    "Questions easily answered by website",
+    "Salary/benefits as first question",
+    "Self-focused questions only"
+  ],
+  "evaluationCriteria": "Quality of questions, role relevance, genuine curiosity, preparation level",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "What would you like to know about the team culture?",
+    "Is there anything about the role that concerns you?",
+    "What are your expectations for onboarding?"
+  ],
+  "researchReferences": [],
+  "pilot": false,
+  "module": "Module-04",
+  "intendedUser": "Working professional preparing for interviews"
+}

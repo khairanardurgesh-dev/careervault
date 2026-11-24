@@ -1,0 +1,34 @@
+{
+  "resourceId": "INT-PM-002",
+  "question": "How do you prioritize features in a product roadmap?",
+  "module": "Module-04",
+  "careerTrack": "Track-C",
+  "relevantJobRoles": [
+    "Product Manager",
+    "Associate Product Manager",
+    "Product Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-C with early-career experience",
+  "description": "Behavioural interview question for Track-C professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's prioritisation skills.",
+  "competencyAssessed": "Prioritisation",
+  "answerFramework": "RICE framework",
+  "exampleAnswer": "I use the RICE framework: Reach, Impact, Confidence, Effort. In my project, I scored 20 feature requests and prioritized the top 5. This aligned the team on what to build next and reduced scope discussions by 60%.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, prioritisation, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-C role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

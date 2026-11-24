@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-Q004",
+  "question": "Describe a time you identified an error in financial data and how you resolved it.",
+  "module": "Module-04",
+  "careerTrack": "Track-D",
+  "relevantJobRoles": [
+    "Financial Analyst",
+    "Accounts Associate",
+    "FP&A Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "intendedUser": "Finance professional with 1-3 years of experience",
+  "description": "Behavioural question assessing attention to detail and data integrity in financial work.",
+  "purposeOfQuestion": "The interviewer evaluates the candidate's ability to spot discrepancies, follow investigation procedures, and ensure accuracy in financial reporting.",
+  "competencyAssessed": "Attention to detail and financial data integrity",
+  "answerFramework": "STAR (Situation, Task, Action, Result)",
+  "exampleAnswer": "While reconciling monthly ledgers at my firm, I noticed a INR 50,000 discrepancy between the bank statement and our internal records. I Situation: the deadline was 2 days away. I traced the transaction to an unmatched international transfer, contacted the bank, and identified a currency conversion timing difference. I documented the finding and implemented a stricter cut-off procedure. Result: discrepancy resolved, and the new procedure prevented future mismatches.",
+  "weakAnswerPitfalls": [
+    "Ignoring or downplaying the error",
+    "Blaming others without investigation",
+    "No documentation of the fix",
+    "No preventive measures introduced"
+  ],
+  "evaluationCriteria": "Error detection ability, investigation methodology, corrective action specificity, preventive follow-through",
+  "difficulty": "medium",
+  "relevantCareerTracks": [
+    "Track-D"
+  ],
+  "creationDate": "2026-11-24",
+  "reviewStatus": "draft",
+  "version": 1.0,
+  "pilot": true
+}

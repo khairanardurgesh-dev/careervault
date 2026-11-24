@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-FIN-020",
+  "question": "Describe your experience with financial modelling.",
+  "module": "Module-04",
+  "careerTrack": "Track-D",
+  "relevantJobRoles": [
+    "Financial Analyst",
+    "FP&A Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-D with early-career experience",
+  "description": "Behavioural interview question for Track-D professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's modelling skills.",
+  "competencyAssessed": "Modelling",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I built a 3-statement financial model for a new product launch. It included revenue projections, cost structure, and cash flow analysis. I used sensitivity analysis to test different scenarios. The model helped leadership decide to proceed with the launch, which achieved 120% of projected revenue in year 1.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, modelling, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-D role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

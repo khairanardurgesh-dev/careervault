@@ -1,0 +1,27 @@
+{
+  "resourceId": "REC-MSG002",
+  "title": "Referral Request",
+  "module": "Module-03",
+  "careerTrack": "Track-B",
+  "relevantJobRoles": [
+    "Business Analyst",
+    "Associate Business Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "intendedUser": "Business professional seeking referrals in their network",
+  "description": "Template for requesting a referral from a connection at a target company.",
+  "messageType": "referral-request",
+  "template": "Hi [Contact Name],\n\nI hope you're doing well! I'm currently exploring new opportunities and came across the [Job Title] opening at [Company Name]. Given your experience there, I'd value your perspective on the role and company culture.\n\nIf you'd be willing, a referral from you would greatly strengthen my application. I've attached my resume for your reference, and I'm happy to provide any additional details or speak briefly about my background.\n\nThank you for considering this, and I appreciate your support!\n\nBest regards,\n[Your Name]\n[Your LinkedIn Profile]\n[Your Phone Number]",
+  "placeholders": [
+    "[Contact Name]",
+    "[Job Title]",
+    "[Company Name]",
+    "[Your Name]",
+    "[Your LinkedIn Profile]",
+    "[Your Phone Number]"
+  ],
+  "creationDate": "2026-11-24",
+  "reviewStatus": "draft",
+  "version": 1.0,
+  "pilot": true
+}

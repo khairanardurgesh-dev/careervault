@@ -1,0 +1,34 @@
+{
+  "resourceId": "INT-PM-024",
+  "question": "What is the difference between a feature and an epic?",
+  "module": "Module-04",
+  "careerTrack": "Track-C",
+  "relevantJobRoles": [
+    "Product Manager",
+    "Associate Product Manager",
+    "Scrum Master"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-C with early-career experience",
+  "description": "Technical interview question for Track-C professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's agile skills.",
+  "competencyAssessed": "Agile",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "A feature is a single capability; an epic is a large body of work that can be broken into multiple features. In my project, 'User Authentication' was an epic containing features: login, signup, password reset, and social login. Each feature was a separate sprint.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, agile, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-C role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

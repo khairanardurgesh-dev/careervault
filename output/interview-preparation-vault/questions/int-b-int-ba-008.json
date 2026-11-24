@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-BA-008",
+  "question": "What is BPMN and how have you used it?",
+  "module": "Module-04",
+  "careerTrack": "Track-B",
+  "relevantJobRoles": [
+    "Business Analyst",
+    "Process Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-B with early-career experience",
+  "description": "Technical interview question for Track-B professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's process modelling skills.",
+  "competencyAssessed": "Process modelling",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "BPMN is a standard notation for business process diagrams. I used it to map our order fulfilment process across 5 departments. Symbols like start events, tasks, and gateways made it easy for stakeholders to understand. The visual model revealed 3 bottlenecks we hadn't seen before.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, process modelling, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-B role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

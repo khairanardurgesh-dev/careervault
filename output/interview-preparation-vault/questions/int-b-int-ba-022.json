@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-BA-022",
+  "question": "Describe a time you had to work with a cross-functional team.",
+  "module": "Module-04",
+  "careerTrack": "Track-B",
+  "relevantJobRoles": [
+    "Business Analyst",
+    "Associate Business Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-B with early-career experience",
+  "description": "Behavioural interview question for Track-B professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's collaboration skills.",
+  "competencyAssessed": "Collaboration",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I worked with engineering, design, and QA on a mobile app. Situation: tight timeline. I facilitated daily standups, created a shared backlog, and ensured clear handoffs. Result: we delivered in 8 weeks, 2 weeks ahead of schedule, with 95% test coverage.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, collaboration, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-B role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

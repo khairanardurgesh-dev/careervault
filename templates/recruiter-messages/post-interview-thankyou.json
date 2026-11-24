@@ -1,0 +1,30 @@
+{
+  "resourceId": "REC-MSG005",
+  "title": "Post-Interview Thank-You Message",
+  "module": "Module-04",
+  "careerTrack": "Track-D",
+  "relevantJobRoles": [
+    "Financial Analyst",
+    "Accounts Associate"
+  ],
+  "experienceLevel": "early-career",
+  "intendedUser": "Finance candidate sending thank-you after interview",
+  "description": "Template for sending a thank-you message after an interview.",
+  "messageType": "post-interview-thankyou",
+  "template": "Hi [Interviewer Name],\n\nThank you for taking the time to speak with me today about the [Job Title] position at [Company Name]. I particularly enjoyed our discussion about [specific topic from interview] and learning more about the team's goals and challenges.\n\nMy experience with [relevant skill/achievement] aligns well with the role's requirements, and I'm excited about the possibility of contributing to [Company Name]'s success. I am confident that my background in [brief relevant experience] would allow me to make an immediate impact.\n\nPlease don't hesitate to reach out if you need any additional information from my side. I look forward to hearing about the next steps.\n\nBest regards,\n[Your Name]\n[Your LinkedIn Profile]\n[Your Phone Number]",
+  "placeholders": [
+    "[Interviewer Name]",
+    "[Job Title]",
+    "[Company Name]",
+    "[specific topic from interview]",
+    "[relevant skill/achievement]",
+    "[brief relevant experience]",
+    "[Your Name]",
+    "[Your LinkedIn Profile]",
+    "[Your Phone Number]"
+  ],
+  "creationDate": "2026-11-24",
+  "reviewStatus": "draft",
+  "version": 1.0,
+  "pilot": true
+}

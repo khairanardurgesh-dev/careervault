@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-SM-006",
+  "question": "What is your approach to digital marketing?",
+  "module": "Module-04",
+  "careerTrack": "Track-E",
+  "relevantJobRoles": [
+    "Digital Marketing",
+    "Marketing Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-E with early-career experience",
+  "description": "Behavioural interview question for Track-E professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's digital marketing skills.",
+  "competencyAssessed": "Digital marketing",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I use a data-driven approach: SEO for organic traffic, PPC for targeted campaigns, and social media for brand awareness. In my project, I ran a Google Ads campaign with INR 50,000 budget. I A/B tested ad copy and landing pages. Result: 15% conversion rate and 3x ROI.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, digital marketing, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-E role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

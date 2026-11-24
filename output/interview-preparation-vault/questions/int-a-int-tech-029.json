@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-TECH-029",
+  "question": "How do you stay updated with new technologies?",
+  "module": "Module-04",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Software Engineer",
+    "Developer"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-A with early-career experience",
+  "description": "Behavioural interview question for Track-A professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's learning skills.",
+  "competencyAssessed": "Learning",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I follow tech blogs (Hacker News, dev.to), attend meetups, and take online courses. I also contribute to open-source projects. Last quarter, I learned Rust by building a small CLI tool. I apply new knowledge through side projects and share findings with my team in weekly tech talks.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, learning, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-A role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-FIN-015",
+  "question": "What is ratio analysis and which ratios do you find most useful?",
+  "module": "Module-04",
+  "careerTrack": "Track-D",
+  "relevantJobRoles": [
+    "Financial Analyst",
+    "FP&A Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-D with early-career experience",
+  "description": "Technical interview question for Track-D professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's ratio analysis skills.",
+  "competencyAssessed": "Ratio analysis",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "Ratio analysis evaluates financial health. I find these most useful: Current Ratio (liquidity), Debt-to-Equity (leverage), ROE (profitability), and Asset Turnover (efficiency). In my analysis, I benchmarked these against industry averages to identify areas for improvement.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, ratio analysis, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-D role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

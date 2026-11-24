@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-TECH-030",
+  "question": "Describe a time you had to estimate a complex task. How did you approach it?",
+  "module": "Module-04",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Software Engineer",
+    "Developer"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-A with early-career experience",
+  "description": "Behavioural interview question for Track-A professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's estimation skills.",
+  "competencyAssessed": "Estimation",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I was asked to estimate a new payment integration. I broke it into sub-tasks: API research (2 days), implementation (5 days), testing (3 days), documentation (1 day). I added 20% buffer for unknowns. Actual: 12 days vs 11 estimated. I communicated the estimate transparently with the PM, including assumptions and risks.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, estimation, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-A role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

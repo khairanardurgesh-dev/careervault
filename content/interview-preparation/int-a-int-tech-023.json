@@ -1,0 +1,34 @@
+{
+  "resourceId": "INT-TECH-023",
+  "question": "What is the difference between unit, integration, and end-to-end testing?",
+  "module": "Module-04",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Software Engineer",
+    "Developer",
+    "QA Engineer"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-A with early-career experience",
+  "description": "Technical interview question for Track-A professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's testing skills.",
+  "competencyAssessed": "Testing",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "Unit tests test individual functions in isolation. Integration tests test interactions between components. E2E tests test complete user flows. In my project, I used Jest for units (auth service), Supertest for integration (API endpoints), and Cypress for E2E (login → dashboard → logout). Each level catches different bug types.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, testing, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-A role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

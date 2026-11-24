@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-SM-026",
+  "question": "How do you ensure your sales messaging resonates with prospects?",
+  "module": "Module-04",
+  "careerTrack": "Track-E",
+  "relevantJobRoles": [
+    "Sales",
+    "Business Development"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-E with early-career experience",
+  "description": "Behavioural interview question for Track-E professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's messaging skills.",
+  "competencyAssessed": "Messaging",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I test messaging with real prospects. In my role, I A/B tested 3 value propositions. The one focusing on 'time saved' outperformed 'cost saved' by 40%. I updated all sales materials and trained the team. Conversion rates improved by 15%.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, messaging, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-E role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-PM-019",
+  "question": "Describe a time you had to manage a product launch.",
+  "module": "Module-04",
+  "careerTrack": "Track-C",
+  "relevantJobRoles": [
+    "Product Manager",
+    "Associate Product Manager"
+  ],
+  "experienceLevel": "mid-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-C with mid-career experience",
+  "description": "Behavioural interview question for Track-C professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's launch management skills.",
+  "competencyAssessed": "Launch management",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I managed the launch of a new dashboard feature. Situation: 3 teams involved. I created a launch checklist: beta testing, documentation, support training, marketing. I coordinated the rollout in phases: 5% → 25% → 100%. Result: zero critical issues at launch, 85% adoption in first month.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, launch management, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-C role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

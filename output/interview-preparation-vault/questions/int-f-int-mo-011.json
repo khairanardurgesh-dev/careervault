@@ -1,0 +1,34 @@
+{
+  "resourceId": "INT-MO-011",
+  "question": "Describe your experience with process optimization.",
+  "module": "Module-04",
+  "careerTrack": "Track-F",
+  "relevantJobRoles": [
+    "Operations Manager",
+    "Operations Analyst",
+    "Business Operations"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-F with early-career experience",
+  "description": "Behavioural interview question for Track-F professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's process optimization skills.",
+  "competencyAssessed": "Process optimization",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I mapped our customer onboarding process and found 5 redundant steps. Situation: onboarding took 10 days. I eliminated 3 steps, automated 2, and created a tracker. Result: onboarding reduced to 3 days, and customer satisfaction increased by 25%.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, process optimization, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-F role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

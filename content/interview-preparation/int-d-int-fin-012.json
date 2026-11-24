@@ -1,0 +1,34 @@
+{
+  "resourceId": "INT-FIN-012",
+  "question": "Describe your experience with Excel for financial modelling.",
+  "module": "Module-04",
+  "careerTrack": "Track-D",
+  "relevantJobRoles": [
+    "Financial Analyst",
+    "Accounts Associate",
+    "FP&A Analyst"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-D with early-career experience",
+  "description": "Behavioural interview question for Track-D professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's excel skills skills.",
+  "competencyAssessed": "Excel skills",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I use advanced Excel: VLOOKUP, INDEX-MATCH, pivot tables, VBA macros, and Power Query. In my project, I built a 3-statement model with 500+ formulas and sensitivity analysis. I also automated month-end reconciliation with macros, reducing time from 2 days to 4 hours.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, excel skills, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-D role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

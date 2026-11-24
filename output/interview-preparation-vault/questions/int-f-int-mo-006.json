@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-MO-006",
+  "question": "Describe a time you had to manage a crisis or emergency.",
+  "module": "Module-04",
+  "careerTrack": "Track-F",
+  "relevantJobRoles": [
+    "Operations Manager",
+    "Business Operations"
+  ],
+  "experienceLevel": "mid-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-F with mid-career experience",
+  "description": "Behavioural interview question for Track-F professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's crisis management skills.",
+  "competencyAssessed": "Crisis management",
+  "answerFramework": "STAR",
+  "exampleAnswer": "Our main supplier went bankrupt. Situation: 2-week production halt. I activated backup suppliers, negotiated expedited shipping, and communicated transparently with customers. Result: we resumed production in 5 days with 90% of orders fulfilled on time.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, crisis management, specific examples, measurable outcomes",
+  "difficulty": "hard",
+  "followUpQuestions": [
+    "How does this apply to the Track-F role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

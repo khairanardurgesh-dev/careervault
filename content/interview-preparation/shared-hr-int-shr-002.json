@@ -1,0 +1,32 @@
+{
+  "resourceId": "INT-SHR-002",
+  "question": "Why do you want to leave your current job?",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Any Professional"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "HR/Behavioural",
+  "description": "Assesses motivation for job change and professionalism.",
+  "purposeOfQuestion": "Interviewer evaluates whether the candidate's reasons align with the new role's offerings.",
+  "competencyAssessed": "Professional maturity and motivation",
+  "answerFramework": "Future-focused framework",
+  "exampleAnswer": "I have learned a great deal in my current role and am grateful for the opportunities. However, I am looking for a role with more scope for technical leadership and system design. My current team is small, and the technology stack is stable. I want to work in an environment where I can contribute to architecture decisions and mentor junior developers.",
+  "weakAnswerPitfalls": [
+    "Speaking negatively about current employer",
+    "Focusing on salary as primary reason",
+    "Vague answers without specific reasons",
+    "Appearing desperate or frustrated"
+  ],
+  "evaluationCriteria": "Positivity, future orientation, alignment with new role, professionalism",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "What would need to change for you to stay?",
+    "How does this role address your career goals?",
+    "What do you hope to achieve in your first 90 days?"
+  ],
+  "researchReferences": [],
+  "pilot": false,
+  "module": "Module-04",
+  "intendedUser": "Working professional preparing for interviews"
+}

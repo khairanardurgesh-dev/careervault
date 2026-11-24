@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-SM-004",
+  "question": "How do you qualify a lead?",
+  "module": "Module-04",
+  "careerTrack": "Track-E",
+  "relevantJobRoles": [
+    "Sales",
+    "Business Development"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-E with early-career experience",
+  "description": "Technical interview question for Track-E professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's lead qualification skills.",
+  "competencyAssessed": "Lead qualification",
+  "answerFramework": "BANT framework",
+  "exampleAnswer": "I use BANT: Budget, Authority, Need, Timeline. In my process, I ask: Do they have budget? Are they the decision-maker? Do they have a genuine need? When do they need it? This prevents wasting time on unqualified leads and improves conversion rates by 30%.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, lead qualification, specific examples, measurable outcomes",
+  "difficulty": "easy",
+  "followUpQuestions": [
+    "How does this apply to the Track-E role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

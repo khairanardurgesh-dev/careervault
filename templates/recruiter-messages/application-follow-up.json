@@ -1,0 +1,32 @@
+{
+  "resourceId": "REC-MSG003",
+  "title": "Application Follow-Up",
+  "module": "Module-03",
+  "careerTrack": "Track-C",
+  "relevantJobRoles": [
+    "Product Analyst",
+    "Associate Product Manager"
+  ],
+  "experienceLevel": "early-career",
+  "intendedUser": "Product professional following up on an application",
+  "description": "Template for following up on a job application status.",
+  "messageType": "application-follow-up",
+  "template": "Hi [Hiring Manager Name],\n\nI recently submitted my application for the [Job Title] position at [Company Name] on [Date Applied]. I'm very excited about the opportunity and wanted to follow up on the status of my application.\n\nGiven my experience with [relevant skill/achievement] and my background in [industry/role], I'm confident I could contribute to [Company Name]'s goals, particularly in [specific area related to the role].\n\nPlease let me know if any additional information from me is needed. I'd love to move forward in the process when the team is ready.\n\nBest regards,\n[Your Name]\n[Your LinkedIn Profile]\n[Your Phone Number]\n[Your Email]",
+  "placeholders": [
+    "[Hiring Manager Name]",
+    "[Job Title]",
+    "[Company Name]",
+    "[Date Applied]",
+    "[relevant skill/achievement]",
+    "[industry/role]",
+    "[specific area related to the role]",
+    "[Your Name]",
+    "[Your LinkedIn Profile]",
+    "[Your Phone Number]",
+    "[Your Email]"
+  ],
+  "creationDate": "2026-11-24",
+  "reviewStatus": "draft",
+  "version": 1.0,
+  "pilot": true
+}

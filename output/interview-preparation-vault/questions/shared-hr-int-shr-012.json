@@ -1,0 +1,32 @@
+{
+  "resourceId": "INT-SHR-012",
+  "question": "How do you prioritise your work when you have multiple deadlines?",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Any Professional"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "HR/Behavioural",
+  "description": "Assesses prioritisation and time management.",
+  "purposeOfQuestion": "Interviewer evaluates ability to manage competing demands.",
+  "competencyAssessed": "Prioritisation",
+  "answerFramework": "Eisenhower Matrix / Impact-Effort framework",
+  "exampleAnswer": "I use an impact-effort matrix to categorise tasks. First, I identify which tasks are both urgent and important — those get done immediately. For important but not urgent tasks, I schedule dedicated time blocks. I communicate proactively with stakeholders when deadlines conflict. For example, last month I had three concurrent deliverables and used this approach to complete all on time by negotiating a two-day extension on the least critical item.",
+  "weakAnswerPitfalls": [
+    "No systematic approach",
+    "Saying 'I just work harder'",
+    "No stakeholder communication",
+    "No concrete example"
+  ],
+  "evaluationCriteria": "Systematic approach, stakeholder communication, concrete example, outcome",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How do you handle a situation where everything is urgent?",
+    "What tools do you use for task management?",
+    "How do you communicate competing priorities to your manager?"
+  ],
+  "researchReferences": [],
+  "pilot": false,
+  "module": "Module-04",
+  "intendedUser": "Working professional preparing for interviews"
+}

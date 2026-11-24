@@ -1,0 +1,34 @@
+{
+  "resourceId": "INT-PM-025",
+  "question": "Describe a time you had to work with a difficult team member.",
+  "module": "Module-04",
+  "careerTrack": "Track-C",
+  "relevantJobRoles": [
+    "Product Manager",
+    "Project Manager",
+    "Associate Product Manager"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-C with early-career experience",
+  "description": "Behavioural interview question for Track-C professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's team dynamics skills.",
+  "competencyAssessed": "Team dynamics",
+  "answerFramework": "STAR",
+  "exampleAnswer": "A developer frequently missed deadlines. Situation: this affected sprint delivery. I had a private conversation to understand the root cause. They were overwhelmed with scope. I helped break tasks into smaller pieces and paired them with a senior developer. Result: delivery improved by 40%.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, team dynamics, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-C role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

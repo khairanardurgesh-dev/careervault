@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-FIN-009",
+  "question": "What is DCF (Discounted Cash Flow) valuation?",
+  "module": "Module-04",
+  "careerTrack": "Track-D",
+  "relevantJobRoles": [
+    "Financial Analyst",
+    "FP&A Analyst"
+  ],
+  "experienceLevel": "mid-career",
+  "interviewCategory": "Technical",
+  "intendedUser": "Professional in Track-D with mid-career experience",
+  "description": "Technical interview question for Track-D professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's valuation skills.",
+  "competencyAssessed": "Valuation",
+  "answerFramework": "Definition + example",
+  "exampleAnswer": "DCF values a company based on projected future cash flows discounted to present value. Steps: 1) Project free cash flows, 2) Calculate terminal value, 3) Discount at WACC. In my project, I valued a SaaS company at INR 50 crores using DCF, which was close to the market price of INR 48 crores.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, valuation, specific examples, measurable outcomes",
+  "difficulty": "hard",
+  "followUpQuestions": [
+    "How does this apply to the Track-D role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

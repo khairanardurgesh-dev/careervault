@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-TECH-014",
+  "question": "Describe a time you refactored legacy code. What was your approach?",
+  "module": "Module-04",
+  "careerTrack": "Track-A",
+  "relevantJobRoles": [
+    "Software Engineer",
+    "Developer"
+  ],
+  "experienceLevel": "mid-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-A with mid-career experience",
+  "description": "Behavioural interview question for Track-A professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's refactoring skills.",
+  "competencyAssessed": "Refactoring",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I refactored a 2000-line authentication module that was difficult to test. Situation: new features were slow to implement. I wrote tests first to capture current behavior, then extracted smaller functions, and finally replaced the old module incrementally. Result: deployment time reduced by 40% and new features took 50% less time to implement.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, refactoring, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-A role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}

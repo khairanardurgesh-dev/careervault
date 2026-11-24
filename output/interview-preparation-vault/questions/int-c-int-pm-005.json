@@ -1,0 +1,33 @@
+{
+  "resourceId": "INT-PM-005",
+  "question": "How do you gather and prioritize user feedback?",
+  "module": "Module-04",
+  "careerTrack": "Track-C",
+  "relevantJobRoles": [
+    "Product Manager",
+    "Associate Product Manager"
+  ],
+  "experienceLevel": "early-career",
+  "interviewCategory": "Behavioural",
+  "intendedUser": "Professional in Track-C with early-career experience",
+  "description": "Behavioural interview question for Track-C professionals.",
+  "purposeOfQuestion": "Interviewer evaluates candidate's user research skills.",
+  "competencyAssessed": "User research",
+  "answerFramework": "STAR",
+  "exampleAnswer": "I use surveys, interviews, and analytics. In my project, I sent a NPS survey to 500 users, conducted 10 interviews, and analysed usage data. I found 3 recurring pain points. I prioritized the most impactful one (search functionality) for the next sprint, which improved NPS by 8 points.",
+  "weakAnswerPitfalls": [
+    "Vague or generic response without specific examples",
+    "Focusing on process without mentioning personal contribution",
+    "No measurable outcomes or metrics",
+    "Failing to connect to the target role"
+  ],
+  "evaluationCriteria": "Clarity, user research, specific examples, measurable outcomes",
+  "difficulty": "medium",
+  "followUpQuestions": [
+    "How does this apply to the Track-C role?",
+    "Can you provide more specific examples?",
+    "What would you do differently next time?"
+  ],
+  "researchReferences": [],
+  "pilot": false
+}
