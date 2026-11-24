@@ -10,7 +10,7 @@ export default function AdminDashboardPage() {
           </h1>
 
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-6 mb-12">
-            <!-- Cards -->
+            {/* Cards */}
             <div className="bg-white/5 rounded-xl p-6">
               <h3 className="text-xl font-medium mb-4">Total Orders</h3>
               <p className="text-3xl font-bold">1,247</p>

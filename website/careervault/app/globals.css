@@ -70,11 +70,11 @@ img {
   .btn {
     @apply inline-flex items-center justify-center rounded-md text-sm font-medium 
            transition-colors focus-visible:outline-none focus-visible:ring-2 
-           focus-visible:ring-ring focus-visible:ring-2relative focus-relative;
+           focus-visible:ring-ring relative;
   }
 
   .btn-primary {
-    @apply btn bg-primary text-primary-hover:hover:bg-primary/90;
+    @apply btn bg-primary text-white hover:bg-primary/90;
   }
 
   .btn-outline {
@@ -137,7 +137,7 @@ img {
 /* ==========================================
    Responsive utilities
    ========================================== */
-@media (max-width) {
+@media (max-width: 640px) {
   .mobile-full-width {
     width: 100%;
   }

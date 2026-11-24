@@ -22,7 +22,7 @@ export default function AccountLoginPage() {
               />
             </div>
 
-            <Button type="submit" disabled>
+            <Button asChild>
               <Link href="/account/verify" className="w-full justify-center">
                 <span>Continue</span>
               </Link>
