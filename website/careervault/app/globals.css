@@ -11,11 +11,11 @@
    Color Variables
    ========================================== */
 :root {
-  --background: #0f172a;
+  --background: #0a0f1a;
   --foreground: #f8fafc;
-  --card: #1e293b;
+  --card: #111827;
   --card-foreground: #f8fafc;
-  --popover: #0f172a;
+  --popover: #0a0f1a;
   --popover-foreground: #f8fafc;
   --primary: #3b82f6;
   --primary-foreground: #f8fafc;
@@ -25,9 +25,12 @@
   --muted-foreground: #94a3b8;
   --accent: #3b82f6;
   --accent-foreground: #f8fafc;
-  --border: #334155;
+  --border: #1f2a44;
   --input: #1e293b;
   --ring: #3b82f6;
+  --success: #22c55e;
+  --warning: #f59e0b;
+  --destructive: #ef4444;
 }
 
 /* ==========================================
@@ -41,7 +44,8 @@
 
 html {
   font-family: "Inter", system-ui, sans-serif;
-  line-height: 1.5;
+  line-height: 1.6;
+  scroll-behavior: smooth;
 }
 
 body {
@@ -57,10 +61,74 @@ img {
 }
 
 /* ==========================================
-   Custom Electric Blue Accent
+   Custom Scrollbar
    ========================================== */
-.electric-blue {
-  color: #3b82f6;
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: var(--background);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--border);
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--muted);
+}
+
+/* ==========================================
+   Selection
+   ========================================== */
+::selection {
+  background: var(--primary);
+  color: var(--primary-foreground);
+}
+
+/* ==========================================
+   Animations
+   ========================================== */
+@keyframes slide-down {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fade-in {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+@keyframes pulse-glow {
+  0%, 100% { box-shadow: 0 0 20px rgba(59, 130, 246, 0.3); }
+  50% { box-shadow: 0 0 40px rgba(59, 130, 246, 0.5); }
+}
+
+.animate-slide-down {
+  animation: slide-down 0.3s ease-out;
+}
+
+.animate-fade-in {
+  animation: fade-in 0.5s ease-out;
+}
+
+.animate-float {
+  animation: float 3s ease-in-out infinite;
+}
+
+.animate-pulse-glow {
+  animation: pulse-glow 2s ease-in-out infinite;
 }
 
 /* ==========================================
@@ -68,55 +136,225 @@ img {
    ========================================== */
 @layer components {
   .btn {
-    @apply relative inline-flex items-center justify-center rounded-md text-sm font-medium transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring;
+    @apply relative inline-flex items-center justify-center rounded-lg text-sm font-semibold transition-all duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-navy-900;
   }
 
   .btn-primary {
-    @apply btn bg-primary text-primary-foreground hover:bg-primary/90;
+    @apply btn bg-gradient-to-r from-blue-600 to-indigo-600 text-white hover:from-blue-700 hover:to-indigo-700 hover:shadow-lg hover:shadow-blue-500/25 px-6 py-3;
   }
 
   .btn-outline {
-    @apply btn border border-input hover:bg-accent hover:text-accent-foreground;
+    @apply btn border border-white/20 text-white hover:bg-white/10 hover:border-white/30 px-6 py-3;
+  }
+
+  .btn-ghost {
+    @apply btn text-white/70 hover:text-white hover:bg-white/10 px-4 py-2;
   }
 
   .nav-link {
-    @apply relative after:absolute after:left-0 after:bottom-0 after:h-0.5 after:w-0 after:transition-all after:duration-300 hover:after:w-full after:bg-current;
+    @apply relative after:absolute after:left-0 after:bottom-0 after:h-0.5 after:w-0 after:transition-all after:duration-300 hover:after:w-full after:bg-current text-white/70 hover:text-white transition-colors text-sm font-medium;
   }
 
   /* Card styles */
   .card {
-    @apply rounded-xl border border-border bg-card p-6 text-card-foreground;
+    @apply rounded-2xl border border-white/10 bg-white/5 p-6 text-white transition-all duration-300 hover:bg-white/10 hover:border-white/20;
+  }
+
+  .card-elevated {
+    @apply rounded-2xl border border-white/10 bg-gradient-to-b from-white/10 to-white/5 p-6 text-white shadow-xl shadow-blue-500/5;
   }
 
   /* Header styles */
   .header {
-    @apply border-b border-border/40 bg-card/80 backdrop-blur-sm;
+    @apply border-b border-white/10 bg-navy-900/80 backdrop-blur-md sticky top-0 z-50;
   }
 
   /* Section styles */
   .section {
-    @apply py-12;
+    @apply py-16 lg:py-24;
+  }
+
+  .section-sm {
+    @apply py-12 lg:py-16;
   }
 
   /* Heading styles */
   .heading-1 {
-    @apply mb-6 text-5xl font-bold tracking-tight md:text-6xl;
+    @apply mb-6 text-4xl font-bold tracking-tight md:text-5xl lg:text-6xl;
   }
 
   .heading-2 {
-    @apply mb-4 text-4xl font-semibold md:text-5xl;
+    @apply mb-4 text-3xl font-semibold md:text-4xl lg:text-5xl;
   }
 
   .heading-3 {
-    @apply mb-3 text-3xl font-medium;
+    @apply mb-3 text-2xl font-medium;
+  }
+
+  /* Gradient text */
+  .gradient-text {
+    @apply bg-gradient-to-r from-blue-400 to-indigo-300 bg-clip-text text-transparent;
+  }
+
+  .gradient-text-warm {
+    @apply bg-gradient-to-r from-amber-400 to-orange-300 bg-clip-text text-transparent;
+  }
+
+  /* Input styles */
+  .input {
+    @apply w-full bg-white/5 border border-white/20 rounded-lg px-4 py-3 text-white placeholder-white/40 focus:outline-none focus:border-blue-500 focus:ring-2 focus:ring-blue-500/20 transition-all;
+  }
+
+  .input-error {
+    @apply border-red-500 focus:border-red-500 focus:ring-red-500/20;
+  }
+
+  /* Label styles */
+  .label {
+    @apply block text-white/70 mb-2 text-sm font-medium;
+  }
+
+  /* Badge styles */
+  .badge {
+    @apply inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-medium;
+  }
+
+  .badge-blue {
+    @apply badge bg-blue-500/10 text-blue-400;
+  }
+
+  .badge-green {
+    @apply badge bg-green-500/10 text-green-400;
+  }
+
+  .badge-amber {
+    @apply badge bg-amber-500/10 text-amber-400;
+  }
+
+  .badge-purple {
+    @apply badge bg-purple-500/10 text-purple-400;
+  }
+
+  /* Container */
+  .container {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
   }
 }
 
 /* ==========================================
-   Responsive utilities
+   Focus Visible
+   ========================================== */
+:focus-visible {
+  outline: none;
+  ring: 2px;
+  ring-color: var(--ring);
+  ring-offset: 2px;
+  ring-offset-color: var(--background);
+}
+
+/* ==========================================
+   Reduced Motion
+   ========================================== */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* ==========================================
+   Print Styles
+   ========================================== */
+@media print {
+  .header,
+  .footer,
+  .btn,
+  nav {
+    display: none !important;
+  }
+  body {
+    background: white !important;
+    color: black !important;
+  }
+}
+
+/* ==========================================
+   Utility Classes
+   ========================================== */
+.text-balance {
+  text-wrap: balance;
+}
+
+.bg-grid-pattern {
+  background-image: 
+    linear-gradient(rgba(255,255,255,0.02) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,0.02) 1px, transparent 1px);
+  background-size: 40px 40px;
+}
+
+.glass {
+  background: rgba(17, 24, 39, 0.8);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+/* ==========================================
+   Module Card Hover Effects
+   ========================================== */
+.module-card {
+  @apply relative overflow-hidden transition-all duration-300;
+}
+
+.module-card::before {
+  content: '';
+  @apply absolute inset-0 bg-gradient-to-br from-blue-500/5 to-transparent opacity-0 transition-opacity duration-300;
+}
+
+.module-card:hover::before {
+  @apply opacity-100;
+}
+
+.module-card:hover {
+  @apply border-white/20 bg-white/10;
+}
+
+/* ==========================================
+   Pricing Card
+   ========================================== */
+.pricing-card {
+  @apply relative rounded-2xl border border-white/10 bg-gradient-to-b from-white/10 to-white/5 p-8 transition-all duration-300;
+}
+
+.pricing-card.popular {
+  @apply border-blue-500/50 bg-gradient-to-b from-blue-500/10 to-blue-500/5 shadow-xl shadow-blue-500/10;
+}
+
+.pricing-card:hover {
+  @apply border-white/20;
+}
+
+/* ==========================================
+   Feature Grid
+   ========================================== */
+.feature-grid {
+  @apply grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6;
+}
+
+/* ==========================================
+   Responsive Typography
    ========================================== */
 @media (max-width: 640px) {
-  .mobile-full-width {
-    width: 100%;
+  .heading-1 {
+    @apply text-3xl;
+  }
+  .heading-2 {
+    @apply text-2xl;
+  }
+  .section {
+    @apply py-12;
   }
 }
