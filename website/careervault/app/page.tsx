@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Link from "next/link";
 import { Button } from "@/components/shared/button";
 
@@ -23,7 +22,7 @@ export default function HomePage() {
             </Button>
             <Button variant="outline" asChild>
               <Link href="/product" className="flex items-center gap-2">
-                <span>Explore What's Included</span>
+                <span>Explore What&apos;s Included</span>
               </Link>
             </Button>
           </div>

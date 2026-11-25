@@ -104,7 +104,7 @@ export default function FaqPage() {
                   Can I download everything together?
                 </summary>
                 <p className="mt-4 text-white/60">
-                  Yes. Your customer portal includes a "Download Complete CareerVault Package"
+                  Yes. Your customer portal includes a &quot;Download Complete CareerVault Package&quot;
                   button that downloads the full ZIP package containing all eight modules.
                 </p>
               </details>

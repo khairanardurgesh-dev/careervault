@@ -1,8 +1,9 @@
 import type { NextRequest } from "next/server";
 import { NextResponse } from "next/server";
-import crypto from "crypto";
 import { createServiceRoleClient } from "@/lib/supabase";
 import { createRazorpayOrder } from "@/lib/razorpay";
+
+export const dynamic = "force-dynamic";
 
 export async function POST(req: NextRequest) {
   try {

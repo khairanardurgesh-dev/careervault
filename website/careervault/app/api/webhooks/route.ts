@@ -3,6 +3,8 @@ import { NextResponse } from "next/server";
 import { createServiceRoleClient } from "@/lib/supabase";
 import { verifyWebhookSignature } from "@/lib/razorpay";
 
+export const dynamic = "force-dynamic";
+
 export async function POST(req: NextRequest) {
   try {
     const rawBody = await req.text();

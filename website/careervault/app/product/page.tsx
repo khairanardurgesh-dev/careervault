@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Link from "next/link";
 import { Button } from "@/components/shared/button";
 
@@ -15,7 +14,7 @@ export default function ProductPage() {
             who want to switch to better jobs, companies, roles, or salaries.
           </p>
 
-          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
             {/* Module cards */}
             <div className="group bg-white/5 border border-white/10 rounded-xl p-6 hover:bg-white/10 transition-colors">
               <h3 className="text-xl font-bold mb-2">01 Resume Mastery System</h3>

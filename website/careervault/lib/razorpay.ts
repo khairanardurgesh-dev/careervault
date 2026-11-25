@@ -1,12 +1,12 @@
 import crypto from "crypto";
-import { getRazorpayKeySecret, getRazorpayWebhookSecret } from "./env";
+import { getRazorpayKeyId, getRazorpayKeySecret, getRazorpayWebhookSecret } from "./env";
 
 export async function createRazorpayOrder(params: {
   amount: number;
   currency: string;
   receipt: string;
 }): Promise<{ id: string; amount: number; currency: string }> {
-  const keyId = process.env.RAZORPAY_KEY_ID;
+  const keyId = getRazorpayKeyId();
   const keySecret = getRazorpayKeySecret();
   const res = await fetch("https://api.razorpay.com/v1/orders", {
     method: "POST",
@@ -28,7 +28,15 @@ export function verifyPaymentSignature(params: {
   const secret = getRazorpayKeySecret();
   const body = params.razorpayOrderId + "|" + params.razorpayPaymentId;
   const expected = crypto.createHmac("sha256", secret).update(body).digest("hex");
-  return crypto.timingSafeEqual(Buffer.from(expected), Buffer.from(params.razorpaySignature));
+  const provided = params.razorpaySignature;
+  if (typeof provided !== "string" || provided.length !== expected.length) {
+    return false;
+  }
+  try {
+    return crypto.timingSafeEqual(Buffer.from(expected), Buffer.from(provided));
+  } catch {
+    return false;
+  }
 }
 
 export function verifyWebhookSignature(rawBody: string, signature: string): boolean {

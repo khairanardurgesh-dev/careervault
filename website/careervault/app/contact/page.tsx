@@ -9,7 +9,7 @@ export default function ContactPage() {
             Contact & Support
           </h1>
           <p className="text-lg mb-8 text-white/60">
-            Have a question? We're here to help.
+            Have a question? We&apos;re here to help.
           </p>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">

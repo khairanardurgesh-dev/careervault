@@ -1,9 +1,9 @@
 /** @type {import('tailwindcss').Config} */
-export default {
+module.exports = {
   content: [
     "./app/**/*.{js,ts,jsx,tsx}",
     "./pages/**/*.{js,ts,jsx,tsx}",
-    "./components/**/*.{js,jsx}",
+    "./components/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
     extend: {
@@ -21,8 +21,37 @@ export default {
         electric: {
           500: "#3b82f6",
         },
+        background: "#0f172a",
+        foreground: "#f8fafc",
+        card: {
+          DEFAULT: "#1e293b",
+          foreground: "#f8fafc",
+        },
+        popover: {
+          DEFAULT: "#0f172a",
+          foreground: "#f8fafc",
+        },
+        primary: {
+          DEFAULT: "#3b82f6",
+          foreground: "#f8fafc",
+        },
+        secondary: {
+          DEFAULT: "#1e293b",
+          foreground: "#f8fafc",
+        },
+        muted: {
+          DEFAULT: "#64748b",
+          foreground: "#94a3b8",
+        },
+        accent: {
+          DEFAULT: "#3b82f6",
+          foreground: "#f8fafc",
+        },
+        border: "#334155",
+        input: "#1e293b",
+        ring: "#3b82f6",
       },
     },
   },
   plugins: [],
-}
+};

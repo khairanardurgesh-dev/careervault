@@ -1,30 +1,53 @@
+import * as React from "react";
 import { cn } from "@/lib/utils";
 
-export { cn } from "@/lib/utils";
+type ButtonVariant = "primary" | "outline";
+
+export interface ButtonProps
+  extends React.ButtonHTMLAttributes<HTMLButtonElement> {
+  variant?: ButtonVariant;
+  asChild?: boolean;
+  loading?: boolean;
+}
+
+const variantClasses: Record<ButtonVariant, string> = {
+  primary: "btn-primary",
+  outline: "btn-outline",
+};
 
 export function Button({
   className,
-  asChild = false,
   variant = "primary",
+  asChild = false,
+  loading = false,
+  disabled,
+  children,
+  type,
   ...props
-}: {
-  className?: string;
-  asChild?: boolean;
-  variant?: "primary" | "outline";
-  [key: string]: any;
-}) {
-  const VariantClass =
-    variant === "primary"
-      ? "btn-primary"
-      : "btn-outline";
+}: ButtonProps) {
+  const classes = cn("btn", variantClasses[variant], className);
+  const isDisabled = Boolean(disabled) || loading;
 
   if (asChild) {
-    const Component = props.asChild;
-    const { childProps, ...rest } = props;
-    return <Component className={cn(VariantClass, className)} {...rest} />;
+    if (!React.isValidElement(children)) {
+      throw new Error("Button asChild requires a single React element child");
+    }
+    const child = children as React.ReactElement<Record<string, unknown>>;
+    return React.cloneElement(child, {
+      className: cn(child.props.className as string | undefined, classes),
+      "aria-disabled": isDisabled || undefined,
+    });
   }
 
   return (
-    <button className={cn("btn", VariantClass, className)} {...props} />
+    <button
+      type={type ?? "button"}
+      className={classes}
+      disabled={isDisabled}
+      aria-busy={loading || undefined}
+      {...props}
+    >
+      {children}
+    </button>
   );
 }
