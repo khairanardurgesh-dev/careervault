@@ -25,7 +25,7 @@ export default function RefundPolicyPage() {
               <div className="card-elevated">
                 <h2 className="text-xl font-bold mb-4">📋 How to Request a Refund</h2>
                 <ol className="space-y-4 text-white/70 list-decimal list-inside">
-                  <li>Email <a href="mailto:refunds@careervault.in" className="underline hover:text-blue-400">refunds@careervault.in</a> with subject: "Refund Request — [Your Order ID]".</li>
+                  <li>Email <a href="mailto:refunds@careervault.in" className="underline hover:text-blue-400">refunds@careervault.in</a> with subject: &quot;Refund Request — [Your Order ID]&quot;.</li>
                   <li>Include: Order reference, purchase email, brief reason (optional but helpful).</li>
                   <li>Our team reviews within <strong>24 hours</strong> (weekdays).</li>
                   <li>If approved, refund is initiated to the <strong>original payment method</strong>.</li>
@@ -60,7 +60,7 @@ export default function RefundPolicyPage() {
                   <li>Refunds are issued to the <strong>original payment method only</strong> (card, UPI, net banking, wallet).</li>
                   <li>Razorpay processes refunds; we cannot redirect to a different account/card.</li>
                   <li>GST invoice is cancelled/credited automatically upon refund.</li>
-                  <li>Your CareerVault access is <strong>revoked immediately</strong> upon refund approval (entitlements marked "revoked" in database).</li>
+                  <li>Your CareerVault access is <strong>revoked immediately</strong> upon refund approval (entitlements marked &quot;revoked&quot; in database).</li>
                   <li>You will receive email confirmation at each stage: request received, approved, processed.</li>
                 </ul>
               </div>
@@ -72,7 +72,7 @@ export default function RefundPolicyPage() {
                 </p>
                 <ul className="space-y-2 text-white/70">
                   <li>Email: <a href="mailto:refunds@careervault.in" className="underline hover:text-blue-400">refunds@careervault.in</a></li>
-                  <li>Escalation: <a href="mailto:support@careervault.in" className="underline hover:text-blue-400">support@careervault.in</a> (subject: "Refund Escalation")</li>
+                  <li>Escalation: <a href="mailto:support@careervault.in" className="underline hover:text-blue-400">support@careervault.in</a> (subject: &quot;Refund Escalation&quot;)</li>
                   <li>Grievance Officer (DPDP Act): <a href="mailto:grievance@careervault.in" className="underline hover:text-blue-400">grievance@careervault.in</a></li>
                 </ul>
               </div>
@@ -81,8 +81,8 @@ export default function RefundPolicyPage() {
                 <h2 className="text-xl font-bold mb-4">🤝 Our Commitment</h2>
                 <p className="text-white/70 leading-relaxed">
                   We trust Indian professionals. The 7-day no-questions policy exists because we believe CareerVault delivers real value. 
-                  If it doesn't work for you, we want to know why — your feedback makes the product better for everyone. 
-                  No hoops, no runaround, no "retention specialists." Just email us.
+                  If it doesn&apos;t work for you, we want to know why — your feedback makes the product better for everyone. 
+                  No hoops, no runaround, no &quot;retention specialists.&quot; Just email us.
                 </p>
               </div>
             </div>

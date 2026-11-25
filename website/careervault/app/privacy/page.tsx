@@ -68,7 +68,7 @@ export default function PrivacyPage() {
                   <li><strong>Objection:</strong> Opt out of non-essential processing (analytics).</li>
                 </ul>
                 <p className="text-white/60 mt-4">
-                  To exercise these rights, email <a href="mailto:privacy@careervault.in" className="underline hover:text-blue-400">privacy@careervault.in</a> with "DPDP Request" in subject.
+                  To exercise these rights, email <a href="mailto:privacy@careervault.in" className="underline hover:text-blue-400">privacy@careervault.in</a> with &quot;DPDP Request&quot; in subject.
                 </p>
               </div>
 
@@ -77,7 +77,7 @@ export default function PrivacyPage() {
                 <ul className="space-y-3 text-white/70 list-disc list-inside">
                   <li><strong>Essential cookies:</strong> Session management, CSRF protection, auth tokens. Cannot be disabled.</li>
                   <li><strong>Analytics cookies:</strong> Vercel Analytics (anonymous, no personal data). Opt-out via browser DNT.</li>
-                  <li><strong>No marketing cookies:</strong> We don't use Facebook Pixel, Google Ads, or third-party trackers.</li>
+                  <li><strong>No marketing cookies:</strong> We don&apos;t use Facebook Pixel, Google Ads, or third-party trackers.</li>
                 </ul>
               </div>
 
@@ -102,7 +102,7 @@ export default function PrivacyPage() {
               </div>
 
               <div className="card-elevated">
-                <h2 className="text-xl font-bold mb-4">9. Children's Privacy</h2>
+                <h2 className="text-xl font-bold mb-4">9. Children&apos;s Privacy</h2>
                 <p className="text-white/70 leading-relaxed">
                   CareerVault is intended for working professionals aged 18+. We do not knowingly collect data from minors. 
                   If you believe a minor has provided data, contact us immediately for deletion.
@@ -112,7 +112,7 @@ export default function PrivacyPage() {
               <div className="card-elevated">
                 <h2 className="text-xl font-bold mb-4">10. Changes to This Policy</h2>
                 <p className="text-white/70 leading-relaxed">
-                  Updates will be posted here with a revised "Last updated" date. Material changes will be emailed to all customers. 
+                  Updates will be posted here with a revised &quot;Last updated&quot; date. Material changes will be emailed to all customers. 
                   Continued use constitutes acceptance.
                 </p>
               </div>

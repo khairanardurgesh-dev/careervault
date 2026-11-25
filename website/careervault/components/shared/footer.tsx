@@ -15,7 +15,7 @@ export function Footer() {
               <span className="text-xl font-bold text-white">CareerVault</span>
             </Link>
             <p className="text-white/60 max-w-sm mb-6">
-              India's most structured job switch system. 8 modules, 6 career tracks, 200+ interview frameworks — everything you need to land your next role.
+              India&apos;s most structured job switch system. 8 modules, 6 career tracks, 200+ interview frameworks — everything you need to land your next role.
             </p>
             <div className="flex items-center gap-4">
               <a href="https://twitter.com" target="_blank" rel="noopener noreferrer" className="text-white/50 hover:text-white transition-colors">
@@ -32,7 +32,7 @@ export function Footer() {
           <div>
             <h4 className="text-white font-semibold mb-4">Product</h4>
             <ul className="space-y-2 text-white/60 text-sm">
-              <li><Link href="/product" className="hover:text-white transition-colors">What's Included</Link></li>
+              <li><Link href="/product" className="hover:text-white transition-colors">What&apos;s Included</Link></li>
               <li><Link href="/product" className="hover:text-white transition-colors">Career Tracks</Link></li>
               <li><Link href="/how-it-works" className="hover:text-white transition-colors">How It Works</Link></li>
               <li><Link href="/faq" className="hover:text-white transition-colors">FAQ</Link></li>

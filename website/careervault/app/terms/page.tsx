@@ -16,7 +16,7 @@ export default function TermsPage() {
               <div className="card-elevated">
                 <h2 className="text-xl font-bold mb-4">1. Acceptance of Terms</h2>
                 <p className="text-white/70 leading-relaxed">
-                  By accessing and using CareerVault (the "Product"), you agree to be bound by these Terms and Conditions ("Terms"). 
+                  By accessing and using CareerVault (the &quot;Product&quot;), you agree to be bound by these Terms and Conditions (&quot;Terms&quot;). 
                   If you do not agree with any part of these Terms, you may not use the Product.
                 </p>
               </div>
@@ -68,7 +68,7 @@ export default function TermsPage() {
               <div className="card-elevated">
                 <h2 className="text-xl font-bold mb-4">6. Disclaimer of Warranties</h2>
                 <p className="text-white/70 leading-relaxed">
-                  CareerVault is provided "as is" and "as available" without warranties of any kind, either express or implied, 
+                  CareerVault is provided &quot;as is&quot; and &quot;as available&quot; without warranties of any kind, either express or implied, 
                   including but not limited to implied warranties of merchantability, fitness for a particular purpose, or non-infringement. 
                   We do not warrant that the Product will be uninterrupted, error-free, or that results will be achieved.
                 </p>
@@ -95,7 +95,7 @@ export default function TermsPage() {
                 <h2 className="text-xl font-bold mb-4">9. Changes to Terms</h2>
                 <p className="text-white/70 leading-relaxed">
                   CareerVault reserves the right to modify these Terms at any time. Updated Terms will be posted on this page 
-                  with a revised "Last updated" date. Continued use of the Product after changes constitutes acceptance of the new Terms.
+                  with a revised &quot;Last updated&quot; date. Continued use of the Product after changes constitutes acceptance of the new Terms.
                 </p>
               </div>
 

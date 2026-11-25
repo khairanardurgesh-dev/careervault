@@ -52,7 +52,7 @@ export function FAQ() {
     <section className="py-20 lg:py-28 bg-navy-900" aria-label="FAQ">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
-          <h2 className="text-3xl md:text-4xl font-bold mb-4">Questions? We've Got Answers</h2>
+          <h2 className="text-3xl md:text-4xl font-bold mb-4">Questions? We&apos;ve Got Answers</h2>
           <p className="text-white/60 max-w-2xl mx-auto">Everything you need to know before investing in your career switch</p>
         </div>
 

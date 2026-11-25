@@ -15,9 +15,9 @@ export default function PaymentFailedPage() {
               </svg>
             </div>
             
-            <h1 className="heading-1">Payment Couldn't Be Completed</h1>
+            <h1 className="heading-1">Payment Couldn&apos;t Be Completed</h1>
             <p className="text-lg text-white/70 mb-10 max-w-xl mx-auto">
-              Don't worry — this happens sometimes. Your order hasn't been charged. Let's get you sorted.
+              Don&apos;t worry — this happens sometimes. Your order hasn&apos;t been charged. Let&apos;s get you sorted.
             </p>
 
             <div className="bg-white/5 border border-white/10 rounded-2xl p-6 mb-8 text-left">

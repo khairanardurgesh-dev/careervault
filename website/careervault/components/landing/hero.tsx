@@ -38,7 +38,7 @@ export function Hero({ variant = "home" }: HeroProps) {
               Complete Your Purchase
             </h1>
             <p className="text-lg text-white/70 mb-8 max-w-2xl mx-auto">
-              Get instant access to the Complete Job Switch System. Join 2,800+ professionals who've already made the switch.
+              Get instant access to the Complete Job Switch System. Join 2,800+ professionals who&apos;ve already made the switch.
             </p>
             <div className="flex flex-wrap items-center justify-center gap-4 mb-10">
               {trustBadges.map((badge) => (
@@ -94,7 +94,7 @@ export function Hero({ variant = "home" }: HeroProps) {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative">
         <div className="max-w-4xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 bg-blue-500/10 border border-blue-500/20 text-blue-400 px-4 py-2 rounded-full text-sm font-medium mb-6">
-            <span>🇮🇳 India's Most Structured Job Switch System</span>
+            <span>🇮🇳 India&apos;s Most Structured Job Switch System</span>
           </div>
           <h1 className="text-4xl md:text-5xl lg:text-7xl font-bold tracking-tight mb-6 leading-tight">
             Your next career move deserves a <span className="bg-gradient-to-r from-blue-400 to-indigo-300 bg-clip-text text-transparent">better strategy</span>.
@@ -107,7 +107,7 @@ export function Hero({ variant = "home" }: HeroProps) {
               <Link href="/checkout">Get CareerVault — ₹3,999</Link>
             </Button>
             <Button variant="outline" asChild className="w-full sm:w-auto px-8 py-4 text-lg">
-              <Link href="/product">Explore What's Inside →</Link>
+              <Link href="/product">Explore What&apos;s Inside →</Link>
             </Button>
           </div>
 
